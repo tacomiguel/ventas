@@ -1,0 +1,237 @@
+E:\sgv_ventas\libreriaVentas\bin\Debug\libreriaVentas.dll
+E:\sgv_ventas\libreriaVentas\bin\Debug\libreriaVentas.pdb
+E:\sgv_ventas\libreriaVentas\bin\Debug\libreriaVentas.xml
+E:\sgv_ventas\libreriaVentas\obj\Debug\ResolveAssemblyReference.cache
+E:\sgv_ventas\libreriaVentas\obj\Debug\libreriaVentas.Resources.resources
+E:\sgv_ventas\libreriaVentas\obj\Debug\GenerateResource.read.1.tlog
+E:\sgv_ventas\libreriaVentas\obj\Debug\GenerateResource.write.1.tlog
+E:\sgv_ventas\libreriaVentas\obj\Debug\libreriaVentas.dll
+E:\sgv_ventas\libreriaVentas\obj\Debug\libreriaVentas.xml
+E:\sgv_ventas\libreriaVentas\obj\Debug\libreriaVentas.pdb
+D:\SGV_ventas\libreriaVentas\bin\Debug\libreriaVentas.dll
+D:\SGV_ventas\libreriaVentas\bin\Debug\libreriaVentas.pdb
+D:\SGV_ventas\libreriaVentas\bin\Debug\libreriaVentas.xml
+D:\SGV_ventas\libreriaVentas\obj\Debug\libreriaVentas.vbprojResolveAssemblyReference.cache
+D:\SGV_ventas\libreriaVentas\obj\Debug\libreriaVentas.Resources.resources
+D:\SGV_ventas\libreriaVentas\obj\Debug\libreriaVentas.vbproj.GenerateResource.Cache
+D:\SGV_ventas\libreriaVentas\obj\Debug\libreriaVentas.dll
+D:\SGV_ventas\libreriaVentas\obj\Debug\libreriaVentas.xml
+D:\SGV_ventas\libreriaVentas\obj\Debug\libreriaVentas.pdb
+D:\mtaco\Visual Studio 2012\SGV_ventas\libreriaVentas\bin\Debug\libreriaVentas.dll
+D:\mtaco\Visual Studio 2012\SGV_ventas\libreriaVentas\bin\Debug\libreriaVentas.pdb
+D:\mtaco\Visual Studio 2012\SGV_ventas\libreriaVentas\bin\Debug\libreriaVentas.xml
+D:\mtaco\Visual Studio 2012\SGV_ventas\libreriaVentas\obj\Debug\libreriaVentas.vbprojResolveAssemblyReference.cache
+D:\mtaco\Visual Studio 2012\SGV_ventas\libreriaVentas\obj\Debug\libreriaVentas.Resources.resources
+D:\mtaco\Visual Studio 2012\SGV_ventas\libreriaVentas\obj\Debug\libreriaVentas.vbproj.GenerateResource.Cache
+D:\mtaco\Visual Studio 2012\SGV_ventas\libreriaVentas\obj\Debug\libreriaVentas.dll
+D:\mtaco\Visual Studio 2012\SGV_ventas\libreriaVentas\obj\Debug\libreriaVentas.xml
+D:\mtaco\Visual Studio 2012\SGV_ventas\libreriaVentas\obj\Debug\libreriaVentas.pdb
+D:\mtaco\Visual Studio 2013\SGV_ventas\libreriaVentas\bin\Debug\libreriaVentas.dll
+D:\mtaco\Visual Studio 2013\SGV_ventas\libreriaVentas\bin\Debug\libreriaVentas.pdb
+D:\mtaco\Visual Studio 2013\SGV_ventas\libreriaVentas\bin\Debug\libreriaVentas.xml
+D:\mtaco\Visual Studio 2013\SGV_ventas\libreriaVentas\obj\Debug\libreriaVentas.Resources.resources
+D:\mtaco\Visual Studio 2013\SGV_ventas\libreriaVentas\obj\Debug\libreriaVentas.vbproj.GenerateResource.Cache
+D:\mtaco\Visual Studio 2013\SGV_ventas\libreriaVentas\obj\Debug\libreriaVentas.dll
+D:\mtaco\Visual Studio 2013\SGV_ventas\libreriaVentas\obj\Debug\libreriaVentas.xml
+D:\mtaco\Visual Studio 2013\SGV_ventas\libreriaVentas\obj\Debug\libreriaVentas.pdb
+C:\sistema\SGV_ventas\libreriaVentas\bin\Debug\libreriaVentas.dll
+C:\sistema\SGV_ventas\libreriaVentas\bin\Debug\libreriaVentas.pdb
+C:\sistema\SGV_ventas\libreriaVentas\bin\Debug\libreriaVentas.xml
+C:\sistema\SGV_ventas\libreriaVentas\obj\Debug\libreriaVentas.Resources.resources
+C:\sistema\SGV_ventas\libreriaVentas\obj\Debug\libreriaVentas.vbproj.GenerateResource.Cache
+C:\sistema\SGV_ventas\libreriaVentas\obj\Debug\libreriaVentas.dll
+C:\sistema\SGV_ventas\libreriaVentas\obj\Debug\libreriaVentas.xml
+C:\sistema\SGV_ventas\libreriaVentas\obj\Debug\libreriaVentas.pdb
+C:\SISTEMA\QuipuPOS\libreriaVentas\bin\Debug\libreriaVentas.dll
+C:\SISTEMA\QuipuPOS\libreriaVentas\bin\Debug\libreriaVentas.pdb
+C:\SISTEMA\QuipuPOS\libreriaVentas\bin\Debug\libreriaVentas.xml
+C:\SISTEMA\QuipuPOS\libreriaVentas\obj\Debug\libreriaVentas.Resources.resources
+C:\SISTEMA\QuipuPOS\libreriaVentas\obj\Debug\libreriaVentas.vbproj.GenerateResource.Cache
+C:\SISTEMA\QuipuPOS\libreriaVentas\obj\Debug\libreriaVentas.dll
+C:\SISTEMA\QuipuPOS\libreriaVentas\obj\Debug\libreriaVentas.xml
+C:\SISTEMA\QuipuPOS\libreriaVentas\obj\Debug\libreriaVentas.pdb
+C:\SISTEMA\QuipuPOS\libreriaVentas\obj\Debug\libreriaVentas.vbprojResolveAssemblyReference.cache
+C:\Users\Quipusoftperu\Documents\SISTEMA\QuipuPOS\libreriaVentas\bin\Debug\libreriaVentas.dll
+C:\Users\Quipusoftperu\Documents\SISTEMA\QuipuPOS\libreriaVentas\bin\Debug\libreriaVentas.pdb
+C:\Users\Quipusoftperu\Documents\SISTEMA\QuipuPOS\libreriaVentas\bin\Debug\libreriaVentas.xml
+C:\Users\Quipusoftperu\Documents\SISTEMA\QuipuPOS\libreriaVentas\obj\Debug\libreriaVentas.Resources.resources
+C:\Users\Quipusoftperu\Documents\SISTEMA\QuipuPOS\libreriaVentas\obj\Debug\libreriaVentas.vbproj.GenerateResource.Cache
+C:\Users\Quipusoftperu\Documents\SISTEMA\QuipuPOS\libreriaVentas\obj\Debug\libreriaVentas.dll
+C:\Users\Quipusoftperu\Documents\SISTEMA\QuipuPOS\libreriaVentas\obj\Debug\libreriaVentas.xml
+C:\Users\Quipusoftperu\Documents\SISTEMA\QuipuPOS\libreriaVentas\obj\Debug\libreriaVentas.pdb
+D:\sistemas\desarrollo\QuipuPOS\libreriaVentas\bin\Debug\libreriaVentas.dll
+D:\sistemas\desarrollo\QuipuPOS\libreriaVentas\bin\Debug\libreriaVentas.pdb
+D:\sistemas\desarrollo\QuipuPOS\libreriaVentas\bin\Debug\libreriaVentas.xml
+D:\sistemas\desarrollo\QuipuPOS\libreriaVentas\obj\Debug\libreriaVentas.Resources.resources
+D:\sistemas\desarrollo\QuipuPOS\libreriaVentas\obj\Debug\libreriaVentas.vbproj.GenerateResource.Cache
+D:\sistemas\desarrollo\QuipuPOS\libreriaVentas\obj\Debug\libreriaVentas.dll
+D:\sistemas\desarrollo\QuipuPOS\libreriaVentas\obj\Debug\libreriaVentas.xml
+D:\sistemas\desarrollo\QuipuPOS\libreriaVentas\obj\Debug\libreriaVentas.pdb
+C:\Aplicacion\sistemas\desarrollo\QuipuPOS - copia\libreriaVentas\bin\Debug\libreriaVentas.dll
+C:\Aplicacion\sistemas\desarrollo\QuipuPOS - copia\libreriaVentas\bin\Debug\libreriaVentas.pdb
+C:\Aplicacion\sistemas\desarrollo\QuipuPOS - copia\libreriaVentas\bin\Debug\libreriaVentas.xml
+C:\Aplicacion\sistemas\desarrollo\QuipuPOS - copia\libreriaVentas\obj\Debug\libreriaVentas.vbprojResolveAssemblyReference.cache
+C:\Aplicacion\sistemas\desarrollo\QuipuPOS - copia\libreriaVentas\obj\Debug\libreriaVentas.Resources.resources
+C:\Aplicacion\sistemas\desarrollo\QuipuPOS - copia\libreriaVentas\obj\Debug\libreriaVentas.vbproj.GenerateResource.Cache
+C:\Aplicacion\sistemas\desarrollo\QuipuPOS - copia\libreriaVentas\obj\Debug\libreriaVentas.dll
+C:\Aplicacion\sistemas\desarrollo\QuipuPOS - copia\libreriaVentas\obj\Debug\libreriaVentas.xml
+C:\Aplicacion\sistemas\desarrollo\QuipuPOS - copia\libreriaVentas\obj\Debug\libreriaVentas.pdb
+C:\Aplicacion\sistemas\desarrollo\QuipuPOS\libreriaVentas\bin\Debug\libreriaVentas.dll
+C:\Aplicacion\sistemas\desarrollo\QuipuPOS\libreriaVentas\bin\Debug\libreriaVentas.pdb
+C:\Aplicacion\sistemas\desarrollo\QuipuPOS\libreriaVentas\bin\Debug\libreriaVentas.xml
+C:\Aplicacion\sistemas\desarrollo\QuipuPOS\libreriaVentas\obj\Debug\libreriaVentas.Resources.resources
+C:\Aplicacion\sistemas\desarrollo\QuipuPOS\libreriaVentas\obj\Debug\libreriaVentas.vbproj.GenerateResource.Cache
+C:\Aplicacion\sistemas\desarrollo\QuipuPOS\libreriaVentas\obj\Debug\libreriaVentas.dll
+C:\Aplicacion\sistemas\desarrollo\QuipuPOS\libreriaVentas\obj\Debug\libreriaVentas.xml
+C:\Aplicacion\sistemas\desarrollo\QuipuPOS\libreriaVentas\obj\Debug\libreriaVentas.pdb
+C:\Aplicacion\sistemas\desarrollo\QuipuPOS - vs2017\libreriaVentas\bin\Debug\libreriaVentas.dll
+C:\Aplicacion\sistemas\desarrollo\QuipuPOS - vs2017\libreriaVentas\bin\Debug\libreriaVentas.pdb
+C:\Aplicacion\sistemas\desarrollo\QuipuPOS - vs2017\libreriaVentas\bin\Debug\libreriaVentas.xml
+C:\Aplicacion\sistemas\desarrollo\QuipuPOS - vs2017\libreriaVentas\obj\Debug\libreriaVentas.vbprojResolveAssemblyReference.cache
+C:\Aplicacion\sistemas\desarrollo\QuipuPOS - vs2017\libreriaVentas\obj\Debug\libreriaVentas.Resources.resources
+C:\Aplicacion\sistemas\desarrollo\QuipuPOS - vs2017\libreriaVentas\obj\Debug\libreriaVentas.vbproj.GenerateResource.Cache
+C:\Aplicacion\sistemas\desarrollo\QuipuPOS - vs2017\libreriaVentas\obj\Debug\libreriaVentas.vbproj.CoreCompileInputs.cache
+C:\Aplicacion\sistemas\desarrollo\QuipuPOS - vs2017\libreriaVentas\obj\Debug\libreriaVentas.dll
+C:\Aplicacion\sistemas\desarrollo\QuipuPOS - vs2017\libreriaVentas\obj\Debug\libreriaVentas.xml
+C:\Aplicacion\sistemas\desarrollo\QuipuPOS - vs2017\libreriaVentas\obj\Debug\libreriaVentas.pdb
+E:\mtaco\sistemas\QuipuPOS\libreriaVentas\bin\Debug\libreriaVentas.dll
+E:\mtaco\sistemas\QuipuPOS\libreriaVentas\bin\Debug\libreriaVentas.pdb
+E:\mtaco\sistemas\QuipuPOS\libreriaVentas\bin\Debug\libreriaVentas.xml
+E:\mtaco\sistemas\QuipuPOS\libreriaVentas\obj\Debug\libreriaVentas.Resources.resources
+E:\mtaco\sistemas\QuipuPOS\libreriaVentas\obj\Debug\libreriaVentas.vbproj.GenerateResource.Cache
+E:\mtaco\sistemas\QuipuPOS\libreriaVentas\obj\Debug\libreriaVentas.vbproj.CoreCompileInputs.cache
+E:\mtaco\sistemas\QuipuPOS\libreriaVentas\obj\Debug\libreriaVentas.dll
+E:\mtaco\sistemas\QuipuPOS\libreriaVentas\obj\Debug\libreriaVentas.xml
+E:\mtaco\sistemas\QuipuPOS\libreriaVentas\obj\Debug\libreriaVentas.pdb
+E:\desarrollo\QuipuPOS\libreriaVentas\bin\Debug\libreriaVentas.dll
+E:\desarrollo\QuipuPOS\libreriaVentas\bin\Debug\libreriaVentas.pdb
+E:\desarrollo\QuipuPOS\libreriaVentas\bin\Debug\libreriaVentas.xml
+E:\desarrollo\QuipuPOS\libreriaVentas\obj\Debug\libreriaVentas.Resources.resources
+E:\desarrollo\QuipuPOS\libreriaVentas\obj\Debug\libreriaVentas.vbproj.GenerateResource.Cache
+E:\desarrollo\QuipuPOS\libreriaVentas\obj\Debug\libreriaVentas.dll
+E:\desarrollo\QuipuPOS\libreriaVentas\obj\Debug\libreriaVentas.xml
+E:\desarrollo\QuipuPOS\libreriaVentas\obj\Debug\libreriaVentas.pdb
+E:\desarrollo\QuipuPOS\libreriaVentas\obj\Debug\libreriaVentas.vbprojResolveAssemblyReference.cache
+E:\desarrollo\QuipuPOS - copia\libreriaVentas\bin\Debug\libreriaVentas.dll
+E:\desarrollo\QuipuPOS - copia\libreriaVentas\bin\Debug\libreriaVentas.pdb
+E:\desarrollo\QuipuPOS - copia\libreriaVentas\bin\Debug\libreriaVentas.xml
+E:\desarrollo\QuipuPOS - copia\libreriaVentas\obj\Debug\libreriaVentas.vbprojResolveAssemblyReference.cache
+E:\desarrollo\QuipuPOS - copia\libreriaVentas\obj\Debug\libreriaVentas.Resources.resources
+E:\desarrollo\QuipuPOS - copia\libreriaVentas\obj\Debug\libreriaVentas.vbproj.GenerateResource.Cache
+E:\desarrollo\QuipuPOS - copia\libreriaVentas\obj\Debug\libreriaVentas.dll
+E:\desarrollo\QuipuPOS - copia\libreriaVentas\obj\Debug\libreriaVentas.xml
+E:\desarrollo\QuipuPOS - copia\libreriaVentas\obj\Debug\libreriaVentas.pdb
+D:\desarrollo\QuipuPOS\libreriaVentas\bin\Debug\libreriaVentas.dll
+D:\desarrollo\QuipuPOS\libreriaVentas\bin\Debug\libreriaVentas.pdb
+D:\desarrollo\QuipuPOS\libreriaVentas\bin\Debug\libreriaVentas.xml
+D:\desarrollo\QuipuPOS\libreriaVentas\obj\Debug\libreriaVentas.vbprojResolveAssemblyReference.cache
+D:\desarrollo\QuipuPOS\libreriaVentas\obj\Debug\libreriaVentas.Resources.resources
+D:\desarrollo\QuipuPOS\libreriaVentas\obj\Debug\libreriaVentas.vbproj.GenerateResource.Cache
+D:\desarrollo\QuipuPOS\libreriaVentas\obj\Debug\libreriaVentas.dll
+D:\desarrollo\QuipuPOS\libreriaVentas\obj\Debug\libreriaVentas.xml
+D:\desarrollo\QuipuPOS\libreriaVentas\obj\Debug\libreriaVentas.pdb
+C:\Intel\Desarrollo\QuipuPOS\libreriaVentas\bin\Debug\libreriaVentas.dll
+C:\Intel\Desarrollo\QuipuPOS\libreriaVentas\bin\Debug\libreriaVentas.pdb
+C:\Intel\Desarrollo\QuipuPOS\libreriaVentas\bin\Debug\libreriaVentas.xml
+C:\Intel\Desarrollo\QuipuPOS\libreriaVentas\obj\Debug\libreriaVentas.Resources.resources
+C:\Intel\Desarrollo\QuipuPOS\libreriaVentas\obj\Debug\libreriaVentas.vbproj.GenerateResource.Cache
+C:\Intel\Desarrollo\QuipuPOS\libreriaVentas\obj\Debug\libreriaVentas.dll
+C:\Intel\Desarrollo\QuipuPOS\libreriaVentas\obj\Debug\libreriaVentas.xml
+C:\Intel\Desarrollo\QuipuPOS\libreriaVentas\obj\Debug\libreriaVentas.pdb
+C:\Intel\Desarrollo\QuipuPOS\libreriaVentas\obj\Debug\libreriaVentas.vbprojResolveAssemblyReference.cache
+D:\compartir\DESARROLLO\QuipuPOS\libreriaVentas\bin\Debug\libreriaVentas.dll
+D:\compartir\DESARROLLO\QuipuPOS\libreriaVentas\bin\Debug\libreriaVentas.pdb
+D:\compartir\DESARROLLO\QuipuPOS\libreriaVentas\bin\Debug\libreriaVentas.xml
+D:\compartir\DESARROLLO\QuipuPOS\libreriaVentas\obj\Debug\libreriaVentas.Resources.resources
+D:\compartir\DESARROLLO\QuipuPOS\libreriaVentas\obj\Debug\libreriaVentas.vbproj.GenerateResource.Cache
+D:\compartir\DESARROLLO\QuipuPOS\libreriaVentas\obj\Debug\libreriaVentas.dll
+D:\compartir\DESARROLLO\QuipuPOS\libreriaVentas\obj\Debug\libreriaVentas.xml
+D:\compartir\DESARROLLO\QuipuPOS\libreriaVentas\obj\Debug\libreriaVentas.pdb
+D:\compartir\DESARROLLO\QuipuPOS\libreriaVentas\obj\Debug\libreriaVentas.vbprojResolveAssemblyReference.cache
+\\pc_lucet\compartir\DESARROLLO\QuipuPOS\libreriaVentas\bin\Debug\libreriaVentas.dll
+\\pc_lucet\compartir\DESARROLLO\QuipuPOS\libreriaVentas\bin\Debug\libreriaVentas.pdb
+\\pc_lucet\compartir\DESARROLLO\QuipuPOS\libreriaVentas\bin\Debug\libreriaVentas.xml
+\\pc_lucet\compartir\DESARROLLO\QuipuPOS\libreriaVentas\bin\Debug\MySql.Data.dll
+\\pc_lucet\compartir\DESARROLLO\QuipuPOS\libreriaVentas\obj\Debug\libreriaVentas.vbprojResolveAssemblyReference.cache
+\\pc_lucet\compartir\DESARROLLO\QuipuPOS\libreriaVentas\obj\Debug\libreriaVentas.Resources.resources
+\\pc_lucet\compartir\DESARROLLO\QuipuPOS\libreriaVentas\obj\Debug\libreriaVentas.vbproj.GenerateResource.Cache
+\\pc_lucet\compartir\DESARROLLO\QuipuPOS\libreriaVentas\obj\Debug\libreriaVentas.dll
+\\pc_lucet\compartir\DESARROLLO\QuipuPOS\libreriaVentas\obj\Debug\libreriaVentas.xml
+\\pc_lucet\compartir\DESARROLLO\QuipuPOS\libreriaVentas\obj\Debug\libreriaVentas.pdb
+\\192.168.1.200\compartir\DESARROLLO\QuipuPOS\libreriaVentas\bin\Debug\libreriaVentas.dll
+\\192.168.1.200\compartir\DESARROLLO\QuipuPOS\libreriaVentas\bin\Debug\libreriaVentas.pdb
+\\192.168.1.200\compartir\DESARROLLO\QuipuPOS\libreriaVentas\bin\Debug\libreriaVentas.xml
+\\192.168.1.200\compartir\DESARROLLO\QuipuPOS\libreriaVentas\bin\Debug\MySql.Data.dll
+\\192.168.1.200\compartir\DESARROLLO\QuipuPOS\libreriaVentas\obj\Debug\libreriaVentas.vbprojResolveAssemblyReference.cache
+\\192.168.1.200\compartir\DESARROLLO\QuipuPOS\libreriaVentas\obj\Debug\libreriaVentas.Resources.resources
+\\192.168.1.200\compartir\DESARROLLO\QuipuPOS\libreriaVentas\obj\Debug\libreriaVentas.vbproj.GenerateResource.Cache
+\\192.168.1.200\compartir\DESARROLLO\QuipuPOS\libreriaVentas\obj\Debug\libreriaVentas.dll
+\\192.168.1.200\compartir\DESARROLLO\QuipuPOS\libreriaVentas\obj\Debug\libreriaVentas.xml
+\\192.168.1.200\compartir\DESARROLLO\QuipuPOS\libreriaVentas\obj\Debug\libreriaVentas.pdb
+\\192.168.1.200\sistemas\DESARROLLO\QuipuPOS\libreriaVentas\bin\Debug\libreriaVentas.dll
+\\192.168.1.200\sistemas\DESARROLLO\QuipuPOS\libreriaVentas\bin\Debug\libreriaVentas.pdb
+\\192.168.1.200\sistemas\DESARROLLO\QuipuPOS\libreriaVentas\bin\Debug\libreriaVentas.xml
+\\192.168.1.200\sistemas\DESARROLLO\QuipuPOS\libreriaVentas\bin\Debug\MySql.Data.dll
+\\192.168.1.200\sistemas\DESARROLLO\QuipuPOS\libreriaVentas\obj\Debug\libreriaVentas.vbprojResolveAssemblyReference.cache
+\\192.168.1.200\sistemas\DESARROLLO\QuipuPOS\libreriaVentas\obj\Debug\libreriaVentas.Resources.resources
+\\192.168.1.200\sistemas\DESARROLLO\QuipuPOS\libreriaVentas\obj\Debug\libreriaVentas.vbproj.GenerateResource.Cache
+\\192.168.1.200\sistemas\DESARROLLO\QuipuPOS\libreriaVentas\obj\Debug\libreriaVentas.dll
+\\192.168.1.200\sistemas\DESARROLLO\QuipuPOS\libreriaVentas\obj\Debug\libreriaVentas.xml
+\\192.168.1.200\sistemas\DESARROLLO\QuipuPOS\libreriaVentas\obj\Debug\libreriaVentas.pdb
+\\192.168.1.199\sistemas\DESARROLLO\QuipuPOS\libreriaVentas\bin\Debug\libreriaVentas.dll
+\\192.168.1.199\sistemas\DESARROLLO\QuipuPOS\libreriaVentas\bin\Debug\libreriaVentas.pdb
+\\192.168.1.199\sistemas\DESARROLLO\QuipuPOS\libreriaVentas\bin\Debug\libreriaVentas.xml
+\\192.168.1.199\sistemas\DESARROLLO\QuipuPOS\libreriaVentas\obj\Debug\libreriaVentas.Resources.resources
+\\192.168.1.199\sistemas\DESARROLLO\QuipuPOS\libreriaVentas\obj\Debug\libreriaVentas.vbproj.GenerateResource.Cache
+\\192.168.1.199\sistemas\DESARROLLO\QuipuPOS\libreriaVentas\obj\Debug\libreriaVentas.dll
+\\192.168.1.199\sistemas\DESARROLLO\QuipuPOS\libreriaVentas\obj\Debug\libreriaVentas.xml
+\\192.168.1.199\sistemas\DESARROLLO\QuipuPOS\libreriaVentas\obj\Debug\libreriaVentas.pdb
+D:\SISTEMAS\DESARROLLO\QuipuPOS\libreriaVentas\bin\Debug\MySql.Data.dll
+\\192.168.1.199\sistemas\DESARROLLO\QuipuPOS\libreriaVentas\obj\Debug\libreriaVentas.vbprojResolveAssemblyReference.cache
+G:\4_04_2019\QuipuPOS\libreriaVentas\bin\Debug\libreriaVentas.dll
+G:\4_04_2019\QuipuPOS\libreriaVentas\bin\Debug\libreriaVentas.pdb
+G:\4_04_2019\QuipuPOS\libreriaVentas\bin\Debug\libreriaVentas.xml
+G:\4_04_2019\QuipuPOS\libreriaVentas\obj\Debug\libreriaVentas.vbprojResolveAssemblyReference.cache
+G:\4_04_2019\QuipuPOS\libreriaVentas\obj\Debug\libreriaVentas.Resources.resources
+G:\4_04_2019\QuipuPOS\libreriaVentas\obj\Debug\libreriaVentas.vbproj.GenerateResource.Cache
+G:\4_04_2019\QuipuPOS\libreriaVentas\obj\Debug\libreriaVentas.dll
+G:\4_04_2019\QuipuPOS\libreriaVentas\obj\Debug\libreriaVentas.xml
+G:\4_04_2019\QuipuPOS\libreriaVentas\obj\Debug\libreriaVentas.pdb
+D:\compartir\SISTEMAS\QuipuPOS\libreriaVentas\bin\Debug\libreriaVentas.dll
+D:\compartir\SISTEMAS\QuipuPOS\libreriaVentas\bin\Debug\libreriaVentas.pdb
+D:\compartir\SISTEMAS\QuipuPOS\libreriaVentas\bin\Debug\libreriaVentas.xml
+D:\compartir\SISTEMAS\QuipuPOS\libreriaVentas\bin\Debug\MySql.Data.dll
+D:\compartir\SISTEMAS\QuipuPOS\libreriaVentas\obj\Debug\libreriaVentas.vbprojResolveAssemblyReference.cache
+D:\compartir\SISTEMAS\QuipuPOS\libreriaVentas\obj\Debug\libreriaVentas.Resources.resources
+D:\compartir\SISTEMAS\QuipuPOS\libreriaVentas\obj\Debug\libreriaVentas.vbproj.GenerateResource.Cache
+D:\compartir\SISTEMAS\QuipuPOS\libreriaVentas\obj\Debug\libreriaVentas.dll
+D:\compartir\SISTEMAS\QuipuPOS\libreriaVentas\obj\Debug\libreriaVentas.xml
+D:\compartir\SISTEMAS\QuipuPOS\libreriaVentas\obj\Debug\libreriaVentas.pdb
+D:\mtaco\desarrollo\QuipuPOS\libreriaVentas\bin\Debug\libreriaVentas.dll
+D:\mtaco\desarrollo\QuipuPOS\libreriaVentas\bin\Debug\libreriaVentas.pdb
+D:\mtaco\desarrollo\QuipuPOS\libreriaVentas\bin\Debug\libreriaVentas.xml
+D:\mtaco\desarrollo\QuipuPOS\libreriaVentas\bin\Debug\MySql.Data.dll
+D:\mtaco\desarrollo\QuipuPOS\libreriaVentas\obj\Debug\libreriaVentas.vbprojResolveAssemblyReference.cache
+D:\mtaco\desarrollo\QuipuPOS\libreriaVentas\obj\Debug\libreriaVentas.Resources.resources
+D:\mtaco\desarrollo\QuipuPOS\libreriaVentas\obj\Debug\libreriaVentas.vbproj.GenerateResource.Cache
+D:\mtaco\desarrollo\QuipuPOS\libreriaVentas\obj\Debug\libreriaVentas.dll
+D:\mtaco\desarrollo\QuipuPOS\libreriaVentas\obj\Debug\libreriaVentas.xml
+D:\mtaco\desarrollo\QuipuPOS\libreriaVentas\obj\Debug\libreriaVentas.pdb
+F:\desarrollo\QuipuPOS\libreriaVentas\bin\Debug\libreriaVentas.dll
+F:\desarrollo\QuipuPOS\libreriaVentas\bin\Debug\libreriaVentas.pdb
+F:\desarrollo\QuipuPOS\libreriaVentas\bin\Debug\libreriaVentas.xml
+F:\desarrollo\QuipuPOS\libreriaVentas\bin\Debug\MySql.Data.dll
+F:\desarrollo\QuipuPOS\libreriaVentas\obj\Debug\libreriaVentas.vbprojResolveAssemblyReference.cache
+F:\desarrollo\QuipuPOS\libreriaVentas\obj\Debug\libreriaVentas.Resources.resources
+F:\desarrollo\QuipuPOS\libreriaVentas\obj\Debug\libreriaVentas.vbproj.GenerateResource.Cache
+F:\desarrollo\QuipuPOS\libreriaVentas\obj\Debug\libreriaVentas.dll
+F:\desarrollo\QuipuPOS\libreriaVentas\obj\Debug\libreriaVentas.xml
+F:\desarrollo\QuipuPOS\libreriaVentas\obj\Debug\libreriaVentas.pdb
+C:\Desktop\mtaco\Desarrollo\QuipuPOS\libreriaVentas\bin\Debug\libreriaVentas.dll
+C:\Desktop\mtaco\Desarrollo\QuipuPOS\libreriaVentas\bin\Debug\libreriaVentas.pdb
+C:\Desktop\mtaco\Desarrollo\QuipuPOS\libreriaVentas\bin\Debug\libreriaVentas.xml
+C:\Desktop\mtaco\Desarrollo\QuipuPOS\libreriaVentas\obj\Debug\libreriaVentas.Resources.resources
+C:\Desktop\mtaco\Desarrollo\QuipuPOS\libreriaVentas\obj\Debug\libreriaVentas.vbproj.GenerateResource.Cache
+C:\Desktop\mtaco\Desarrollo\QuipuPOS\libreriaVentas\obj\Debug\libreriaVentas.dll
+C:\Desktop\mtaco\Desarrollo\QuipuPOS\libreriaVentas\obj\Debug\libreriaVentas.xml
+C:\Desktop\mtaco\Desarrollo\QuipuPOS\libreriaVentas\obj\Debug\libreriaVentas.pdb

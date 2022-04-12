@@ -1,0 +1,1264 @@
+E:\sgv_ventas\sgv_ventas\bin\Debug\sgv_ventas.exe
+E:\sgv_ventas\sgv_ventas\bin\Debug\sgv_ventas.pdb
+E:\sgv_ventas\sgv_ventas\bin\Debug\sgv_ventas.xml
+E:\sgv_ventas\sgv_ventas\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\sgv_ventas\sgv_ventas\obj\x86\Debug\sgv_ventas.Resources.resources
+E:\sgv_ventas\sgv_ventas\obj\x86\Debug\GenerateResource.read.1.tlog
+E:\sgv_ventas\sgv_ventas\obj\x86\Debug\GenerateResource.write.1.tlog
+E:\sgv_ventas\sgv_ventas\obj\x86\Debug\sgv_ventas.exe
+E:\sgv_ventas\sgv_ventas\obj\x86\Debug\sgv_ventas.xml
+E:\sgv_ventas\sgv_ventas\obj\x86\Debug\sgv_ventas.pdb
+E:\sgv_ventas\sgv_ventas\obj\x86\Debug\sgv_ventas.Menu.resources
+E:\sgv_ventas\sgv_ventas\obj\x86\Debug\sgv_ventas.Principal.resources
+E:\sgv_ventas\sgv_ventas\bin\Debug\libreriaVentas.dll
+E:\sgv_ventas\sgv_ventas\bin\Debug\libreriaVentas.pdb
+E:\sgv_ventas\sgv_ventas\bin\Debug\libreriaVentas.xml
+E:\SGV_ventas\sgv_ventas\obj\x86\Debug\sgv_ventas.panel_venta.resources
+E:\SGV_ventas\sgv_ventas\obj\x86\Debug\sgv_ventas.base.resources
+E:\SGV_ventas\sgv_ventas\obj\x86\Debug\sgv_ventas.baseReporte.resources
+E:\SGV_ventas\sgv_ventas\bin\Debug\sgv_ventas.exe.config
+E:\SGV_ventas\sgv_ventas\obj\x86\Debug\sgv_ventas.rptForm.resources
+E:\SGV_ventas\sgv_ventas\obj\x86\Debug\sgv_ventas.Login.resources
+E:\SGV_ventas\sgv_ventas\obj\x86\Debug\sgv_ventas.panel_proceso.resources
+E:\SGV_ventas\sgv_ventas\obj\x86\Debug\sgv_ventas.u_CambioFecha.resources
+E:\SGV_ventas\sgv_ventas\obj\x86\Debug\sgv_ventas.panel_reportes.resources
+E:\SGV_ventas\sgv_ventas\obj\x86\Debug\sgv_ventas.c_ventas.resources
+E:\SGV_ventas\sgv_ventas\obj\x86\Debug\sgv_ventas.mesas.resources
+E:\SGV_ventas\sgv_ventas\obj\x86\Debug\sgv_ventas.p_mesas.resources
+D:\SGV_ventas\sgv_ventas\bin\Debug\sgv_ventas.exe.config
+D:\SGV_ventas\sgv_ventas\obj\x86\Debug\sgv_ventas.exe
+D:\SGV_ventas\sgv_ventas\obj\x86\Debug\sgv_ventas.xml
+D:\SGV_ventas\sgv_ventas\obj\x86\Debug\sgv_ventas.pdb
+D:\SGV_ventas\sgv_ventas\bin\Debug\sgv_ventas.exe
+D:\SGV_ventas\sgv_ventas\bin\Debug\sgv_ventas.pdb
+D:\SGV_ventas\sgv_ventas\bin\Debug\sgv_ventas.xml
+D:\SGV_ventas\sgv_ventas\bin\Debug\libreriaVentas.dll
+D:\SGV_ventas\sgv_ventas\bin\Debug\libreriaVentas.pdb
+D:\SGV_ventas\sgv_ventas\bin\Debug\libreriaVentas.xml
+D:\SGV_ventas\sgv_ventas\obj\x86\Debug\sgv_ventas.vbprojResolveAssemblyReference.cache
+D:\SGV_ventas\sgv_ventas\obj\x86\Debug\sgv_ventas.base.resources
+D:\SGV_ventas\sgv_ventas\obj\x86\Debug\sgv_ventas.baseReporte.resources
+D:\SGV_ventas\sgv_ventas\obj\x86\Debug\sgv_ventas.c_ventas.resources
+D:\SGV_ventas\sgv_ventas\obj\x86\Debug\sgv_ventas.p_mesas.resources
+D:\SGV_ventas\sgv_ventas\obj\x86\Debug\sgv_ventas.Login.resources
+D:\SGV_ventas\sgv_ventas\obj\x86\Debug\sgv_ventas.Menu.resources
+D:\SGV_ventas\sgv_ventas\obj\x86\Debug\sgv_ventas.mesas.resources
+D:\SGV_ventas\sgv_ventas\obj\x86\Debug\sgv_ventas.panel_reportes.resources
+D:\SGV_ventas\sgv_ventas\obj\x86\Debug\sgv_ventas.panel_proceso.resources
+D:\SGV_ventas\sgv_ventas\obj\x86\Debug\sgv_ventas.Principal.resources
+D:\SGV_ventas\sgv_ventas\obj\x86\Debug\sgv_ventas.rptForm.resources
+D:\SGV_ventas\sgv_ventas\obj\x86\Debug\sgv_ventas.u_CambioFecha.resources
+D:\SGV_ventas\sgv_ventas\obj\x86\Debug\sgv_ventas.Resources.resources
+D:\SGV_ventas\sgv_ventas\obj\x86\Debug\sgv_ventas.panel_venta.resources
+D:\SGV_ventas\sgv_ventas\obj\x86\Debug\sgv_ventas.vbproj.GenerateResource.Cache
+C:\SGV_ventas\sgv_ventas\bin\Debug\sgv_ventas.exe.config
+C:\SGV_ventas\sgv_ventas\obj\x86\Debug\sgv_ventas.exe
+C:\SGV_ventas\sgv_ventas\obj\x86\Debug\sgv_ventas.xml
+C:\SGV_ventas\sgv_ventas\obj\x86\Debug\sgv_ventas.pdb
+C:\SGV_ventas\sgv_ventas\bin\Debug\sgv_ventas.exe
+C:\SGV_ventas\sgv_ventas\bin\Debug\sgv_ventas.pdb
+C:\SGV_ventas\sgv_ventas\bin\Debug\sgv_ventas.xml
+C:\SGV_ventas\sgv_ventas\bin\Debug\libreriaVentas.dll
+C:\SGV_ventas\sgv_ventas\bin\Debug\libreriaVentas.pdb
+C:\SGV_ventas\sgv_ventas\bin\Debug\libreriaVentas.xml
+C:\SGV_ventas\sgv_ventas\obj\x86\Debug\sgv_ventas.vbprojResolveAssemblyReference.cache
+C:\SGV_ventas\sgv_ventas\obj\x86\Debug\sgv_ventas.base.resources
+C:\SGV_ventas\sgv_ventas\obj\x86\Debug\sgv_ventas.baseReporte.resources
+C:\SGV_ventas\sgv_ventas\obj\x86\Debug\sgv_ventas.c_ventas.resources
+C:\SGV_ventas\sgv_ventas\obj\x86\Debug\sgv_ventas.p_mesas.resources
+C:\SGV_ventas\sgv_ventas\obj\x86\Debug\sgv_ventas.Login.resources
+C:\SGV_ventas\sgv_ventas\obj\x86\Debug\sgv_ventas.Menu.resources
+C:\SGV_ventas\sgv_ventas\obj\x86\Debug\sgv_ventas.mesas.resources
+C:\SGV_ventas\sgv_ventas\obj\x86\Debug\sgv_ventas.panel_reportes.resources
+C:\SGV_ventas\sgv_ventas\obj\x86\Debug\sgv_ventas.panel_proceso.resources
+C:\SGV_ventas\sgv_ventas\obj\x86\Debug\sgv_ventas.Principal.resources
+C:\SGV_ventas\sgv_ventas\obj\x86\Debug\sgv_ventas.rptForm.resources
+C:\SGV_ventas\sgv_ventas\obj\x86\Debug\sgv_ventas.u_CambioFecha.resources
+C:\SGV_ventas\sgv_ventas\obj\x86\Debug\sgv_ventas.Resources.resources
+C:\SGV_ventas\sgv_ventas\obj\x86\Debug\sgv_ventas.panel_venta.resources
+C:\SGV_ventas\sgv_ventas\obj\x86\Debug\sgv_ventas.vbproj.GenerateResource.Cache
+D:\mtaco\Visual Studio 2012\SGV_ventas\sgv_ventas\bin\Debug\sgv_ventas.exe.config
+D:\mtaco\Visual Studio 2012\SGV_ventas\sgv_ventas\obj\x86\Debug\sgv_ventas.exe
+D:\mtaco\Visual Studio 2012\SGV_ventas\sgv_ventas\obj\x86\Debug\sgv_ventas.xml
+D:\mtaco\Visual Studio 2012\SGV_ventas\sgv_ventas\obj\x86\Debug\sgv_ventas.pdb
+D:\mtaco\Visual Studio 2012\SGV_ventas\sgv_ventas\bin\Debug\sgv_ventas.exe
+D:\mtaco\Visual Studio 2012\SGV_ventas\sgv_ventas\bin\Debug\sgv_ventas.pdb
+D:\mtaco\Visual Studio 2012\SGV_ventas\sgv_ventas\bin\Debug\sgv_ventas.xml
+D:\mtaco\Visual Studio 2012\SGV_ventas\sgv_ventas\bin\Debug\libreriaVentas.dll
+D:\mtaco\Visual Studio 2012\SGV_ventas\sgv_ventas\bin\Debug\libreriaVentas.pdb
+D:\mtaco\Visual Studio 2012\SGV_ventas\sgv_ventas\bin\Debug\libreriaVentas.xml
+D:\mtaco\Visual Studio 2012\SGV_ventas\sgv_ventas\obj\x86\Debug\sgv_ventas.vbprojResolveAssemblyReference.cache
+D:\mtaco\Visual Studio 2012\SGV_ventas\sgv_ventas\obj\x86\Debug\sgv_ventas.base.resources
+D:\mtaco\Visual Studio 2012\SGV_ventas\sgv_ventas\obj\x86\Debug\sgv_ventas.baseReporte.resources
+D:\mtaco\Visual Studio 2012\SGV_ventas\sgv_ventas\obj\x86\Debug\sgv_ventas.c_ventas.resources
+D:\mtaco\Visual Studio 2012\SGV_ventas\sgv_ventas\obj\x86\Debug\sgv_ventas.p_mesas.resources
+D:\mtaco\Visual Studio 2012\SGV_ventas\sgv_ventas\obj\x86\Debug\sgv_ventas.Login.resources
+D:\mtaco\Visual Studio 2012\SGV_ventas\sgv_ventas\obj\x86\Debug\sgv_ventas.Menu.resources
+D:\mtaco\Visual Studio 2012\SGV_ventas\sgv_ventas\obj\x86\Debug\sgv_ventas.mesas.resources
+D:\mtaco\Visual Studio 2012\SGV_ventas\sgv_ventas\obj\x86\Debug\sgv_ventas.panel_reportes.resources
+D:\mtaco\Visual Studio 2012\SGV_ventas\sgv_ventas\obj\x86\Debug\sgv_ventas.panel_proceso.resources
+D:\mtaco\Visual Studio 2012\SGV_ventas\sgv_ventas\obj\x86\Debug\sgv_ventas.Principal.resources
+D:\mtaco\Visual Studio 2012\SGV_ventas\sgv_ventas\obj\x86\Debug\sgv_ventas.rptForm.resources
+D:\mtaco\Visual Studio 2012\SGV_ventas\sgv_ventas\obj\x86\Debug\sgv_ventas.u_CambioFecha.resources
+D:\mtaco\Visual Studio 2012\SGV_ventas\sgv_ventas\obj\x86\Debug\sgv_ventas.Resources.resources
+D:\mtaco\Visual Studio 2012\SGV_ventas\sgv_ventas\obj\x86\Debug\sgv_ventas.panel_venta.resources
+D:\mtaco\Visual Studio 2012\SGV_ventas\sgv_ventas\obj\x86\Debug\sgv_ventas.vbproj.GenerateResource.Cache
+D:\mtaco\Visual Studio 2013\SGV_ventas\sgv_ventas\bin\Debug\libreriaVentas.dll
+D:\mtaco\Visual Studio 2013\SGV_ventas\sgv_ventas\bin\Debug\libreriaVentas.pdb
+D:\mtaco\Visual Studio 2013\SGV_ventas\sgv_ventas\bin\Debug\libreriaVentas.xml
+D:\mtaco\Visual Studio 2013\SGV_ventas\sgv_ventas\obj\x86\Debug\sgv_ventas.vbprojResolveAssemblyReference.cache
+D:\mtaco\Visual Studio 2013\SGV_ventas\sgv_ventas\obj\x86\Debug\sgv_ventas.base.resources
+D:\mtaco\Visual Studio 2013\SGV_ventas\sgv_ventas\obj\x86\Debug\sgv_ventas.baseReporte.resources
+D:\mtaco\Visual Studio 2013\SGV_ventas\sgv_ventas\obj\x86\Debug\sgv_ventas.c_ventas.resources
+D:\mtaco\Visual Studio 2013\SGV_ventas\sgv_ventas\obj\x86\Debug\sgv_ventas.p_mesas.resources
+D:\mtaco\Visual Studio 2013\SGV_ventas\sgv_ventas\obj\x86\Debug\sgv_ventas.Login.resources
+D:\mtaco\Visual Studio 2013\SGV_ventas\sgv_ventas\obj\x86\Debug\sgv_ventas.Menu.resources
+D:\mtaco\Visual Studio 2013\SGV_ventas\sgv_ventas\obj\x86\Debug\sgv_ventas.mesas.resources
+D:\mtaco\Visual Studio 2013\SGV_ventas\sgv_ventas\obj\x86\Debug\sgv_ventas.panel_reportes.resources
+D:\mtaco\Visual Studio 2013\SGV_ventas\sgv_ventas\obj\x86\Debug\sgv_ventas.panel_proceso.resources
+D:\mtaco\Visual Studio 2013\SGV_ventas\sgv_ventas\obj\x86\Debug\sgv_ventas.Principal.resources
+D:\mtaco\Visual Studio 2013\SGV_ventas\sgv_ventas\obj\x86\Debug\sgv_ventas.rptForm.resources
+D:\mtaco\Visual Studio 2013\SGV_ventas\sgv_ventas\obj\x86\Debug\sgv_ventas.u_CambioFecha.resources
+D:\mtaco\Visual Studio 2013\SGV_ventas\sgv_ventas\obj\x86\Debug\sgv_ventas.Resources.resources
+D:\mtaco\Visual Studio 2013\SGV_ventas\sgv_ventas\obj\x86\Debug\sgv_ventas.panel_venta.resources
+D:\mtaco\Visual Studio 2013\SGV_ventas\sgv_ventas\obj\x86\Debug\sgv_ventas.vbproj.GenerateResource.Cache
+D:\mtaco\Visual Studio 2013\SGV_ventas\sgv_ventas\bin\Debug\sgv.exe.config
+D:\mtaco\Visual Studio 2013\SGV_ventas\sgv_ventas\bin\Debug\sgv.exe
+D:\mtaco\Visual Studio 2013\SGV_ventas\sgv_ventas\bin\Debug\sgv.pdb
+D:\mtaco\Visual Studio 2013\SGV_ventas\sgv_ventas\bin\Debug\sgv.xml
+D:\mtaco\Visual Studio 2013\SGV_ventas\sgv_ventas\obj\x86\Debug\sgv.exe
+D:\mtaco\Visual Studio 2013\SGV_ventas\sgv_ventas\obj\x86\Debug\sgv.xml
+D:\mtaco\Visual Studio 2013\SGV_ventas\sgv_ventas\obj\x86\Debug\sgv.pdb
+D:\mtaco\Visual Studio 2013\SGV_ventas\sgv_ventas\obj\x86\Debug\sgv_ventas.p_notas.resources
+D:\mtaco\Visual Studio 2013\SGV_ventas\sgv_ventas\obj\x86\Debug\sgv_ventas.p_caja.resources
+D:\mtaco\Visual Studio 2013\SGV_ventas\sgv_ventas\bin\Debug\libreriaseguridad.dll
+D:\mtaco\Visual Studio 2013\SGV_ventas\sgv_ventas\bin\Debug\libreriaseguridad.pdb
+D:\mtaco\Visual Studio 2013\SGV_ventas\sgv_ventas\bin\Debug\libreriaseguridad.xml
+C:\sistema\SGV_ventas\sgv_ventas\bin\Debug\SGV.exe.config
+C:\sistema\SGV_ventas\sgv_ventas\obj\x86\Debug\SGV.exe
+C:\sistema\SGV_ventas\sgv_ventas\obj\x86\Debug\SGV.xml
+C:\sistema\SGV_ventas\sgv_ventas\obj\x86\Debug\SGV.pdb
+C:\sistema\SGV_ventas\sgv_ventas\bin\Debug\SGV.exe
+C:\sistema\SGV_ventas\sgv_ventas\bin\Debug\SGV.pdb
+C:\sistema\SGV_ventas\sgv_ventas\bin\Debug\SGV.xml
+C:\sistema\SGV_ventas\sgv_ventas\bin\Debug\libreriaseguridad.dll
+C:\sistema\SGV_ventas\sgv_ventas\bin\Debug\libreriaVentas.dll
+C:\sistema\SGV_ventas\sgv_ventas\bin\Debug\libreriaVentas.pdb
+C:\sistema\SGV_ventas\sgv_ventas\bin\Debug\libreriaVentas.xml
+C:\sistema\SGV_ventas\sgv_ventas\bin\Debug\libreriaseguridad.pdb
+C:\sistema\SGV_ventas\sgv_ventas\bin\Debug\libreriaseguridad.xml
+C:\sistema\SGV_ventas\sgv_ventas\obj\x86\Debug\sgv_ventas.vbprojResolveAssemblyReference.cache
+C:\sistema\SGV_ventas\sgv_ventas\obj\x86\Debug\sgv_ventas.base.resources
+C:\sistema\SGV_ventas\sgv_ventas\obj\x86\Debug\sgv_ventas.baseReporte.resources
+C:\sistema\SGV_ventas\sgv_ventas\obj\x86\Debug\sgv_ventas.c_ventas.resources
+C:\sistema\SGV_ventas\sgv_ventas\obj\x86\Debug\sgv_ventas.p_mesas.resources
+C:\sistema\SGV_ventas\sgv_ventas\obj\x86\Debug\sgv_ventas.Login.resources
+C:\sistema\SGV_ventas\sgv_ventas\obj\x86\Debug\sgv_ventas.Menu.resources
+C:\sistema\SGV_ventas\sgv_ventas\obj\x86\Debug\sgv_ventas.mesas.resources
+C:\sistema\SGV_ventas\sgv_ventas\obj\x86\Debug\sgv_ventas.panel_reportes.resources
+C:\sistema\SGV_ventas\sgv_ventas\obj\x86\Debug\sgv_ventas.panel_proceso.resources
+C:\sistema\SGV_ventas\sgv_ventas\obj\x86\Debug\sgv_ventas.Principal.resources
+C:\sistema\SGV_ventas\sgv_ventas\obj\x86\Debug\sgv_ventas.p_caja.resources
+C:\sistema\SGV_ventas\sgv_ventas\obj\x86\Debug\sgv_ventas.p_notas.resources
+C:\sistema\SGV_ventas\sgv_ventas\obj\x86\Debug\sgv_ventas.rptForm.resources
+C:\sistema\SGV_ventas\sgv_ventas\obj\x86\Debug\sgv_ventas.u_CambioFecha.resources
+C:\sistema\SGV_ventas\sgv_ventas\obj\x86\Debug\sgv_ventas.Resources.resources
+C:\sistema\SGV_ventas\sgv_ventas\obj\x86\Debug\sgv_ventas.panel_venta.resources
+C:\sistema\SGV_ventas\sgv_ventas\obj\x86\Debug\sgv_ventas.vbproj.GenerateResource.Cache
+C:\SISTEMA\QuipuPOS\sgv_ventas\bin\Debug\libreriaseguridad.dll
+C:\SISTEMA\QuipuPOS\sgv_ventas\bin\Debug\libreriaVentas.dll
+C:\SISTEMA\QuipuPOS\sgv_ventas\bin\Debug\libreriaVentas.pdb
+C:\SISTEMA\QuipuPOS\sgv_ventas\bin\Debug\libreriaVentas.xml
+C:\SISTEMA\QuipuPOS\sgv_ventas\bin\Debug\libreriaseguridad.pdb
+C:\SISTEMA\QuipuPOS\sgv_ventas\bin\Debug\libreriaseguridad.xml
+C:\SISTEMA\QuipuPOS\sgv_ventas\obj\x86\Debug\sgv_ventas.vbprojResolveAssemblyReference.cache
+C:\SISTEMA\QuipuPOS\sgv_ventas\obj\x86\Debug\sgv_ventas.base.resources
+C:\SISTEMA\QuipuPOS\sgv_ventas\obj\x86\Debug\sgv_ventas.baseReporte.resources
+C:\SISTEMA\QuipuPOS\sgv_ventas\obj\x86\Debug\sgv_ventas.c_ventas.resources
+C:\SISTEMA\QuipuPOS\sgv_ventas\obj\x86\Debug\sgv_ventas.p_mesas.resources
+C:\SISTEMA\QuipuPOS\sgv_ventas\obj\x86\Debug\sgv_ventas.Login.resources
+C:\SISTEMA\QuipuPOS\sgv_ventas\obj\x86\Debug\sgv_ventas.Menu.resources
+C:\SISTEMA\QuipuPOS\sgv_ventas\obj\x86\Debug\sgv_ventas.mesas.resources
+C:\SISTEMA\QuipuPOS\sgv_ventas\obj\x86\Debug\sgv_ventas.panel_reportes.resources
+C:\SISTEMA\QuipuPOS\sgv_ventas\obj\x86\Debug\sgv_ventas.panel_proceso.resources
+C:\SISTEMA\QuipuPOS\sgv_ventas\obj\x86\Debug\sgv_ventas.Principal.resources
+C:\SISTEMA\QuipuPOS\sgv_ventas\obj\x86\Debug\sgv_ventas.p_caja.resources
+C:\SISTEMA\QuipuPOS\sgv_ventas\obj\x86\Debug\sgv_ventas.p_notas.resources
+C:\SISTEMA\QuipuPOS\sgv_ventas\obj\x86\Debug\sgv_ventas.rptForm.resources
+C:\SISTEMA\QuipuPOS\sgv_ventas\obj\x86\Debug\sgv_ventas.u_CambioFecha.resources
+C:\SISTEMA\QuipuPOS\sgv_ventas\obj\x86\Debug\sgv_ventas.Resources.resources
+C:\SISTEMA\QuipuPOS\sgv_ventas\obj\x86\Debug\sgv_ventas.panel_venta.resources
+C:\SISTEMA\QuipuPOS\sgv_ventas\obj\x86\Debug\sgv_ventas.vbproj.GenerateResource.Cache
+C:\SISTEMA\QuipuPOS\sgv_ventas\bin\Debug\quipupos.exe.config
+C:\SISTEMA\QuipuPOS\sgv_ventas\bin\Debug\quipupos.exe
+C:\SISTEMA\QuipuPOS\sgv_ventas\bin\Debug\quipupos.pdb
+C:\SISTEMA\QuipuPOS\sgv_ventas\bin\Debug\quipupos.xml
+C:\SISTEMA\QuipuPOS\sgv_ventas\obj\x86\Debug\quipupos.exe
+C:\SISTEMA\QuipuPOS\sgv_ventas\obj\x86\Debug\quipupos.xml
+C:\SISTEMA\QuipuPOS\sgv_ventas\obj\x86\Debug\quipupos.pdb
+C:\SISTEMA\QuipuPOS\sgv_ventas\obj\x86\Debug\sgv_ventas.p_ventas.resources
+C:\SISTEMA\QuipuPOS\sgv_ventas\bin\Debug\libreriaClases.dll
+C:\SISTEMA\QuipuPOS\sgv_ventas\bin\Debug\mControles.dll
+C:\SISTEMA\QuipuPOS\sgv_ventas\obj\x86\Debug\sgv_ventas.p_receta.resources
+C:\Users\Quipusoftperu\Documents\SISTEMA\QuipuPOS\sgv_ventas\bin\Debug\quipupos.exe.config
+C:\Users\Quipusoftperu\Documents\SISTEMA\QuipuPOS\sgv_ventas\obj\x86\Debug\quipupos.exe
+C:\Users\Quipusoftperu\Documents\SISTEMA\QuipuPOS\sgv_ventas\obj\x86\Debug\quipupos.xml
+C:\Users\Quipusoftperu\Documents\SISTEMA\QuipuPOS\sgv_ventas\obj\x86\Debug\quipupos.pdb
+C:\Users\Quipusoftperu\Documents\SISTEMA\QuipuPOS\sgv_ventas\bin\Debug\quipupos.exe
+C:\Users\Quipusoftperu\Documents\SISTEMA\QuipuPOS\sgv_ventas\bin\Debug\quipupos.pdb
+C:\Users\Quipusoftperu\Documents\SISTEMA\QuipuPOS\sgv_ventas\bin\Debug\quipupos.xml
+C:\Users\Quipusoftperu\Documents\SISTEMA\QuipuPOS\sgv_ventas\bin\Debug\libreriaClases.dll
+C:\Users\Quipusoftperu\Documents\SISTEMA\QuipuPOS\sgv_ventas\bin\Debug\libreriaseguridad.dll
+C:\Users\Quipusoftperu\Documents\SISTEMA\QuipuPOS\sgv_ventas\bin\Debug\libreriaVentas.dll
+C:\Users\Quipusoftperu\Documents\SISTEMA\QuipuPOS\sgv_ventas\bin\Debug\mControles.dll
+C:\Users\Quipusoftperu\Documents\SISTEMA\QuipuPOS\sgv_ventas\bin\Debug\libreriaVentas.pdb
+C:\Users\Quipusoftperu\Documents\SISTEMA\QuipuPOS\sgv_ventas\bin\Debug\libreriaVentas.xml
+C:\Users\Quipusoftperu\Documents\SISTEMA\QuipuPOS\sgv_ventas\bin\Debug\libreriaseguridad.pdb
+C:\Users\Quipusoftperu\Documents\SISTEMA\QuipuPOS\sgv_ventas\bin\Debug\libreriaseguridad.xml
+C:\Users\Quipusoftperu\Documents\SISTEMA\QuipuPOS\sgv_ventas\obj\x86\Debug\sgv_ventas.vbprojResolveAssemblyReference.cache
+C:\Users\Quipusoftperu\Documents\SISTEMA\QuipuPOS\sgv_ventas\obj\x86\Debug\sgv_ventas.base.resources
+C:\Users\Quipusoftperu\Documents\SISTEMA\QuipuPOS\sgv_ventas\obj\x86\Debug\sgv_ventas.baseReporte.resources
+C:\Users\Quipusoftperu\Documents\SISTEMA\QuipuPOS\sgv_ventas\obj\x86\Debug\sgv_ventas.c_ventas.resources
+C:\Users\Quipusoftperu\Documents\SISTEMA\QuipuPOS\sgv_ventas\obj\x86\Debug\sgv_ventas.p_receta.resources
+C:\Users\Quipusoftperu\Documents\SISTEMA\QuipuPOS\sgv_ventas\obj\x86\Debug\sgv_ventas.p_ventas.resources
+C:\Users\Quipusoftperu\Documents\SISTEMA\QuipuPOS\sgv_ventas\obj\x86\Debug\sgv_ventas.p_mesas.resources
+C:\Users\Quipusoftperu\Documents\SISTEMA\QuipuPOS\sgv_ventas\obj\x86\Debug\sgv_ventas.Login.resources
+C:\Users\Quipusoftperu\Documents\SISTEMA\QuipuPOS\sgv_ventas\obj\x86\Debug\sgv_ventas.Menu.resources
+C:\Users\Quipusoftperu\Documents\SISTEMA\QuipuPOS\sgv_ventas\obj\x86\Debug\sgv_ventas.mesas.resources
+C:\Users\Quipusoftperu\Documents\SISTEMA\QuipuPOS\sgv_ventas\obj\x86\Debug\sgv_ventas.panel_reportes.resources
+C:\Users\Quipusoftperu\Documents\SISTEMA\QuipuPOS\sgv_ventas\obj\x86\Debug\sgv_ventas.panel_proceso.resources
+C:\Users\Quipusoftperu\Documents\SISTEMA\QuipuPOS\sgv_ventas\obj\x86\Debug\sgv_ventas.principal.resources
+C:\Users\Quipusoftperu\Documents\SISTEMA\QuipuPOS\sgv_ventas\obj\x86\Debug\sgv_ventas.p_caja.resources
+C:\Users\Quipusoftperu\Documents\SISTEMA\QuipuPOS\sgv_ventas\obj\x86\Debug\sgv_ventas.p_notas.resources
+C:\Users\Quipusoftperu\Documents\SISTEMA\QuipuPOS\sgv_ventas\obj\x86\Debug\sgv_ventas.rptForm.resources
+C:\Users\Quipusoftperu\Documents\SISTEMA\QuipuPOS\sgv_ventas\obj\x86\Debug\sgv_ventas.u_CambioFecha.resources
+C:\Users\Quipusoftperu\Documents\SISTEMA\QuipuPOS\sgv_ventas\obj\x86\Debug\sgv_ventas.Resources.resources
+C:\Users\Quipusoftperu\Documents\SISTEMA\QuipuPOS\sgv_ventas\obj\x86\Debug\sgv_ventas.vbproj.GenerateResource.Cache
+C:\Users\Quipusoftperu\Documents\SISTEMA\QuipuPOS\sgv_ventas\obj\x86\Debug\sgv_ventas.panel_venta1.resources
+D:\sistemas\desarrollo\QuipuPOS\sgv_ventas\bin\Debug\quipupos.exe.config
+D:\sistemas\desarrollo\QuipuPOS\sgv_ventas\obj\x86\Debug\quipupos.exe
+D:\sistemas\desarrollo\QuipuPOS\sgv_ventas\obj\x86\Debug\quipupos.xml
+D:\sistemas\desarrollo\QuipuPOS\sgv_ventas\obj\x86\Debug\quipupos.pdb
+D:\sistemas\desarrollo\QuipuPOS\sgv_ventas\obj\x86\Debug\sgv_ventas.vbprojResolveAssemblyReference.cache
+D:\sistemas\desarrollo\QuipuPOS\sgv_ventas\obj\x86\Debug\sgv_ventas.base.resources
+D:\sistemas\desarrollo\QuipuPOS\sgv_ventas\obj\x86\Debug\sgv_ventas.baseReporte.resources
+D:\sistemas\desarrollo\QuipuPOS\sgv_ventas\obj\x86\Debug\sgv_ventas.c_ventas.resources
+D:\sistemas\desarrollo\QuipuPOS\sgv_ventas\obj\x86\Debug\sgv_ventas.p_receta.resources
+D:\sistemas\desarrollo\QuipuPOS\sgv_ventas\obj\x86\Debug\sgv_ventas.p_mesas.resources
+D:\sistemas\desarrollo\QuipuPOS\sgv_ventas\obj\x86\Debug\sgv_ventas.Login.resources
+D:\sistemas\desarrollo\QuipuPOS\sgv_ventas\obj\x86\Debug\sgv_ventas.Menu.resources
+D:\sistemas\desarrollo\QuipuPOS\sgv_ventas\obj\x86\Debug\sgv_ventas.mesas.resources
+D:\sistemas\desarrollo\QuipuPOS\sgv_ventas\obj\x86\Debug\sgv_ventas.panel_reportes.resources
+D:\sistemas\desarrollo\QuipuPOS\sgv_ventas\obj\x86\Debug\sgv_ventas.panel_proceso.resources
+D:\sistemas\desarrollo\QuipuPOS\sgv_ventas\obj\x86\Debug\sgv_ventas.principal.resources
+D:\sistemas\desarrollo\QuipuPOS\sgv_ventas\obj\x86\Debug\sgv_ventas.p_caja.resources
+D:\sistemas\desarrollo\QuipuPOS\sgv_ventas\obj\x86\Debug\sgv_ventas.p_notas.resources
+D:\sistemas\desarrollo\QuipuPOS\sgv_ventas\obj\x86\Debug\sgv_ventas.rptForm.resources
+D:\sistemas\desarrollo\QuipuPOS\sgv_ventas\obj\x86\Debug\sgv_ventas.u_CambioFecha.resources
+D:\sistemas\desarrollo\QuipuPOS\sgv_ventas\obj\x86\Debug\sgv_ventas.Resources.resources
+D:\sistemas\desarrollo\QuipuPOS\sgv_ventas\obj\x86\Debug\sgv_ventas.panel_venta1.resources
+D:\sistemas\desarrollo\QuipuPOS\sgv_ventas\obj\x86\Debug\sgv_ventas.vbproj.GenerateResource.Cache
+D:\sistemas\desarrollo\QuipuPOS\sgv_ventas\bin\Debug\quipupos.exe
+D:\sistemas\desarrollo\QuipuPOS\sgv_ventas\bin\Debug\quipupos.pdb
+D:\sistemas\desarrollo\QuipuPOS\sgv_ventas\bin\Debug\quipupos.xml
+D:\sistemas\desarrollo\QuipuPOS\sgv_ventas\bin\Debug\libreriaClases.dll
+D:\sistemas\desarrollo\QuipuPOS\sgv_ventas\bin\Debug\libreriaVentas.dll
+D:\sistemas\desarrollo\QuipuPOS\sgv_ventas\bin\Debug\mControles.dll
+D:\sistemas\desarrollo\QuipuPOS\sgv_ventas\bin\Debug\libreriaVentas.pdb
+D:\sistemas\desarrollo\QuipuPOS\sgv_ventas\bin\Debug\libreriaVentas.xml
+C:\Aplicacion\sistemas\desarrollo\QuipuPOS - copia\sgv_ventas\bin\Debug\quipupos.exe.config
+C:\Aplicacion\sistemas\desarrollo\QuipuPOS - copia\sgv_ventas\obj\x86\Debug\quipupos.exe
+C:\Aplicacion\sistemas\desarrollo\QuipuPOS - copia\sgv_ventas\obj\x86\Debug\quipupos.xml
+C:\Aplicacion\sistemas\desarrollo\QuipuPOS - copia\sgv_ventas\obj\x86\Debug\quipupos.pdb
+C:\Aplicacion\sistemas\desarrollo\QuipuPOS - copia\sgv_ventas\bin\Debug\quipupos.exe
+C:\Aplicacion\sistemas\desarrollo\QuipuPOS - copia\sgv_ventas\bin\Debug\quipupos.pdb
+C:\Aplicacion\sistemas\desarrollo\QuipuPOS - copia\sgv_ventas\bin\Debug\quipupos.xml
+C:\Aplicacion\sistemas\desarrollo\QuipuPOS - copia\sgv_ventas\bin\Debug\libreriaClases.dll
+C:\Aplicacion\sistemas\desarrollo\QuipuPOS - copia\sgv_ventas\bin\Debug\libreriaseguridad.dll
+C:\Aplicacion\sistemas\desarrollo\QuipuPOS - copia\sgv_ventas\bin\Debug\libreriaVentas.dll
+C:\Aplicacion\sistemas\desarrollo\QuipuPOS - copia\sgv_ventas\bin\Debug\mControles.dll
+C:\Aplicacion\sistemas\desarrollo\QuipuPOS - copia\sgv_ventas\bin\Debug\libreriaVentas.pdb
+C:\Aplicacion\sistemas\desarrollo\QuipuPOS - copia\sgv_ventas\bin\Debug\libreriaVentas.xml
+C:\Aplicacion\sistemas\desarrollo\QuipuPOS - copia\sgv_ventas\bin\Debug\libreriaseguridad.pdb
+C:\Aplicacion\sistemas\desarrollo\QuipuPOS - copia\sgv_ventas\bin\Debug\libreriaseguridad.xml
+C:\Aplicacion\sistemas\desarrollo\QuipuPOS - copia\sgv_ventas\obj\x86\Debug\sgv_ventas.vbprojResolveAssemblyReference.cache
+C:\Aplicacion\sistemas\desarrollo\QuipuPOS - copia\sgv_ventas\obj\x86\Debug\sgv_ventas.base.resources
+C:\Aplicacion\sistemas\desarrollo\QuipuPOS - copia\sgv_ventas\obj\x86\Debug\sgv_ventas.baseReporte.resources
+C:\Aplicacion\sistemas\desarrollo\QuipuPOS - copia\sgv_ventas\obj\x86\Debug\sgv_ventas.c_ventas.resources
+C:\Aplicacion\sistemas\desarrollo\QuipuPOS - copia\sgv_ventas\obj\x86\Debug\sgv_ventas.p_receta.resources
+C:\Aplicacion\sistemas\desarrollo\QuipuPOS - copia\sgv_ventas\obj\x86\Debug\sgv_ventas.p_ventas.resources
+C:\Aplicacion\sistemas\desarrollo\QuipuPOS - copia\sgv_ventas\obj\x86\Debug\sgv_ventas.p_mesas.resources
+C:\Aplicacion\sistemas\desarrollo\QuipuPOS - copia\sgv_ventas\obj\x86\Debug\sgv_ventas.Login.resources
+C:\Aplicacion\sistemas\desarrollo\QuipuPOS - copia\sgv_ventas\obj\x86\Debug\sgv_ventas.Menu.resources
+C:\Aplicacion\sistemas\desarrollo\QuipuPOS - copia\sgv_ventas\obj\x86\Debug\sgv_ventas.mesas.resources
+C:\Aplicacion\sistemas\desarrollo\QuipuPOS - copia\sgv_ventas\obj\x86\Debug\sgv_ventas.panel_reportes.resources
+C:\Aplicacion\sistemas\desarrollo\QuipuPOS - copia\sgv_ventas\obj\x86\Debug\sgv_ventas.panel_proceso.resources
+C:\Aplicacion\sistemas\desarrollo\QuipuPOS - copia\sgv_ventas\obj\x86\Debug\sgv_ventas.principal.resources
+C:\Aplicacion\sistemas\desarrollo\QuipuPOS - copia\sgv_ventas\obj\x86\Debug\sgv_ventas.p_caja.resources
+C:\Aplicacion\sistemas\desarrollo\QuipuPOS - copia\sgv_ventas\obj\x86\Debug\sgv_ventas.p_notas.resources
+C:\Aplicacion\sistemas\desarrollo\QuipuPOS - copia\sgv_ventas\obj\x86\Debug\sgv_ventas.p_ventas_00.resources
+C:\Aplicacion\sistemas\desarrollo\QuipuPOS - copia\sgv_ventas\obj\x86\Debug\sgv_ventas.rptForm.resources
+C:\Aplicacion\sistemas\desarrollo\QuipuPOS - copia\sgv_ventas\obj\x86\Debug\sgv_ventas.u_CambioFecha.resources
+C:\Aplicacion\sistemas\desarrollo\QuipuPOS - copia\sgv_ventas\obj\x86\Debug\sgv_ventas.Resources.resources
+C:\Aplicacion\sistemas\desarrollo\QuipuPOS - copia\sgv_ventas\obj\x86\Debug\sgv_ventas.panel_venta1.resources
+C:\Aplicacion\sistemas\desarrollo\QuipuPOS - copia\sgv_ventas\obj\x86\Debug\sgv_ventas.vbproj.GenerateResource.Cache
+C:\Aplicacion\sistemas\desarrollo\QuipuPOS\sgv_ventas\bin\Debug\quipupos.exe.config
+C:\Aplicacion\sistemas\desarrollo\QuipuPOS\sgv_ventas\bin\Debug\quipupos.exe
+C:\Aplicacion\sistemas\desarrollo\QuipuPOS\sgv_ventas\bin\Debug\quipupos.pdb
+C:\Aplicacion\sistemas\desarrollo\QuipuPOS\sgv_ventas\bin\Debug\quipupos.xml
+C:\Aplicacion\sistemas\desarrollo\QuipuPOS\sgv_ventas\bin\Debug\libreriaClases.dll
+C:\Aplicacion\sistemas\desarrollo\QuipuPOS\sgv_ventas\bin\Debug\libreriaseguridad.dll
+C:\Aplicacion\sistemas\desarrollo\QuipuPOS\sgv_ventas\bin\Debug\libreriaVentas.dll
+C:\Aplicacion\sistemas\desarrollo\QuipuPOS\sgv_ventas\bin\Debug\mControles.dll
+C:\Aplicacion\sistemas\desarrollo\QuipuPOS\sgv_ventas\bin\Debug\libreriaVentas.pdb
+C:\Aplicacion\sistemas\desarrollo\QuipuPOS\sgv_ventas\bin\Debug\libreriaVentas.xml
+C:\Aplicacion\sistemas\desarrollo\QuipuPOS\sgv_ventas\bin\Debug\libreriaseguridad.pdb
+C:\Aplicacion\sistemas\desarrollo\QuipuPOS\sgv_ventas\bin\Debug\libreriaseguridad.xml
+C:\Aplicacion\sistemas\desarrollo\QuipuPOS\sgv_ventas\obj\x86\Debug\sgv_ventas.vbprojResolveAssemblyReference.cache
+C:\Aplicacion\sistemas\desarrollo\QuipuPOS\sgv_ventas\obj\x86\Debug\sgv_ventas.base.resources
+C:\Aplicacion\sistemas\desarrollo\QuipuPOS\sgv_ventas\obj\x86\Debug\sgv_ventas.baseReporte.resources
+C:\Aplicacion\sistemas\desarrollo\QuipuPOS\sgv_ventas\obj\x86\Debug\sgv_ventas.c_ventas.resources
+C:\Aplicacion\sistemas\desarrollo\QuipuPOS\sgv_ventas\obj\x86\Debug\sgv_ventas.p_receta.resources
+C:\Aplicacion\sistemas\desarrollo\QuipuPOS\sgv_ventas\obj\x86\Debug\sgv_ventas.p_ventas.resources
+C:\Aplicacion\sistemas\desarrollo\QuipuPOS\sgv_ventas\obj\x86\Debug\sgv_ventas.p_mesas.resources
+C:\Aplicacion\sistemas\desarrollo\QuipuPOS\sgv_ventas\obj\x86\Debug\sgv_ventas.Login.resources
+C:\Aplicacion\sistemas\desarrollo\QuipuPOS\sgv_ventas\obj\x86\Debug\sgv_ventas.Menu.resources
+C:\Aplicacion\sistemas\desarrollo\QuipuPOS\sgv_ventas\obj\x86\Debug\sgv_ventas.mesas.resources
+C:\Aplicacion\sistemas\desarrollo\QuipuPOS\sgv_ventas\obj\x86\Debug\sgv_ventas.panel_reportes.resources
+C:\Aplicacion\sistemas\desarrollo\QuipuPOS\sgv_ventas\obj\x86\Debug\sgv_ventas.panel_proceso.resources
+C:\Aplicacion\sistemas\desarrollo\QuipuPOS\sgv_ventas\obj\x86\Debug\sgv_ventas.principal.resources
+C:\Aplicacion\sistemas\desarrollo\QuipuPOS\sgv_ventas\obj\x86\Debug\sgv_ventas.p_caja.resources
+C:\Aplicacion\sistemas\desarrollo\QuipuPOS\sgv_ventas\obj\x86\Debug\sgv_ventas.p_notas.resources
+C:\Aplicacion\sistemas\desarrollo\QuipuPOS\sgv_ventas\obj\x86\Debug\sgv_ventas.p_ventas_00.resources
+C:\Aplicacion\sistemas\desarrollo\QuipuPOS\sgv_ventas\obj\x86\Debug\sgv_ventas.rptForm.resources
+C:\Aplicacion\sistemas\desarrollo\QuipuPOS\sgv_ventas\obj\x86\Debug\sgv_ventas.u_CambioFecha.resources
+C:\Aplicacion\sistemas\desarrollo\QuipuPOS\sgv_ventas\obj\x86\Debug\sgv_ventas.Resources.resources
+C:\Aplicacion\sistemas\desarrollo\QuipuPOS\sgv_ventas\obj\x86\Debug\sgv_ventas.panel_venta1.resources
+C:\Aplicacion\sistemas\desarrollo\QuipuPOS\sgv_ventas\obj\x86\Debug\sgv_ventas.vbproj.GenerateResource.Cache
+C:\Aplicacion\sistemas\desarrollo\QuipuPOS\sgv_ventas\obj\x86\Debug\quipupos.exe
+C:\Aplicacion\sistemas\desarrollo\QuipuPOS\sgv_ventas\obj\x86\Debug\quipupos.xml
+C:\Aplicacion\sistemas\desarrollo\QuipuPOS\sgv_ventas\obj\x86\Debug\quipupos.pdb
+C:\Aplicacion\sistemas\desarrollo\QuipuPOS - vs2017\sgv_ventas\bin\Debug\quipupos.exe.config
+C:\Aplicacion\sistemas\desarrollo\QuipuPOS - vs2017\sgv_ventas\bin\Debug\quipupos.exe
+C:\Aplicacion\sistemas\desarrollo\QuipuPOS - vs2017\sgv_ventas\bin\Debug\quipupos.pdb
+C:\Aplicacion\sistemas\desarrollo\QuipuPOS - vs2017\sgv_ventas\bin\Debug\quipupos.xml
+C:\Aplicacion\sistemas\desarrollo\QuipuPOS - vs2017\sgv_ventas\bin\Debug\DevComponents.DotNetBar.Keyboard.dll
+C:\Aplicacion\sistemas\desarrollo\QuipuPOS - vs2017\sgv_ventas\bin\Debug\DevComponents.DotNetBar2.dll
+C:\Aplicacion\sistemas\desarrollo\QuipuPOS - vs2017\sgv_ventas\bin\Debug\DevExpress.DXCore.Controls.Data.v6.3.dll
+C:\Aplicacion\sistemas\desarrollo\QuipuPOS - vs2017\sgv_ventas\bin\Debug\DevExpress.DXCore.Controls.Utils.v6.3.dll
+C:\Aplicacion\sistemas\desarrollo\QuipuPOS - vs2017\sgv_ventas\bin\Debug\DevExpress.DXCore.Controls.XtraEditors.v6.3.dll
+C:\Aplicacion\sistemas\desarrollo\QuipuPOS - vs2017\sgv_ventas\bin\Debug\libreriaClases.dll
+C:\Aplicacion\sistemas\desarrollo\QuipuPOS - vs2017\sgv_ventas\bin\Debug\libreriaseguridad.dll
+C:\Aplicacion\sistemas\desarrollo\QuipuPOS - vs2017\sgv_ventas\bin\Debug\libreriaVentas.dll
+C:\Aplicacion\sistemas\desarrollo\QuipuPOS - vs2017\sgv_ventas\bin\Debug\mControles.dll
+C:\Aplicacion\sistemas\desarrollo\QuipuPOS - vs2017\sgv_ventas\bin\Debug\stdole.dll
+C:\Aplicacion\sistemas\desarrollo\QuipuPOS - vs2017\sgv_ventas\bin\Debug\libreriaVentas.pdb
+C:\Aplicacion\sistemas\desarrollo\QuipuPOS - vs2017\sgv_ventas\bin\Debug\libreriaVentas.xml
+C:\Aplicacion\sistemas\desarrollo\QuipuPOS - vs2017\sgv_ventas\bin\Debug\DevComponents.DotNetBar.Keyboard.xml
+C:\Aplicacion\sistemas\desarrollo\QuipuPOS - vs2017\sgv_ventas\bin\Debug\DevComponents.DotNetBar2.xml
+C:\Aplicacion\sistemas\desarrollo\QuipuPOS - vs2017\sgv_ventas\bin\Debug\libreriaseguridad.pdb
+C:\Aplicacion\sistemas\desarrollo\QuipuPOS - vs2017\sgv_ventas\bin\Debug\libreriaseguridad.xml
+C:\Aplicacion\sistemas\desarrollo\QuipuPOS - vs2017\sgv_ventas\obj\x86\Debug\sgv_ventas.vbprojResolveAssemblyReference.cache
+C:\Aplicacion\sistemas\desarrollo\QuipuPOS - vs2017\sgv_ventas\obj\x86\Debug\sgv_ventas.base.resources
+C:\Aplicacion\sistemas\desarrollo\QuipuPOS - vs2017\sgv_ventas\obj\x86\Debug\sgv_ventas.baseReporte.resources
+C:\Aplicacion\sistemas\desarrollo\QuipuPOS - vs2017\sgv_ventas\obj\x86\Debug\sgv_ventas.c_ventas.resources
+C:\Aplicacion\sistemas\desarrollo\QuipuPOS - vs2017\sgv_ventas\obj\x86\Debug\sgv_ventas.p_receta.resources
+C:\Aplicacion\sistemas\desarrollo\QuipuPOS - vs2017\sgv_ventas\obj\x86\Debug\sgv_ventas.p_ventas.resources
+C:\Aplicacion\sistemas\desarrollo\QuipuPOS - vs2017\sgv_ventas\obj\x86\Debug\sgv_ventas.p_mesas.resources
+C:\Aplicacion\sistemas\desarrollo\QuipuPOS - vs2017\sgv_ventas\obj\x86\Debug\sgv_ventas.Login.resources
+C:\Aplicacion\sistemas\desarrollo\QuipuPOS - vs2017\sgv_ventas\obj\x86\Debug\sgv_ventas.Menu.resources
+C:\Aplicacion\sistemas\desarrollo\QuipuPOS - vs2017\sgv_ventas\obj\x86\Debug\sgv_ventas.mesas.resources
+C:\Aplicacion\sistemas\desarrollo\QuipuPOS - vs2017\sgv_ventas\obj\x86\Debug\sgv_ventas.panel_reportes.resources
+C:\Aplicacion\sistemas\desarrollo\QuipuPOS - vs2017\sgv_ventas\obj\x86\Debug\sgv_ventas.panel_proceso.resources
+C:\Aplicacion\sistemas\desarrollo\QuipuPOS - vs2017\sgv_ventas\obj\x86\Debug\sgv_ventas.principal.resources
+C:\Aplicacion\sistemas\desarrollo\QuipuPOS - vs2017\sgv_ventas\obj\x86\Debug\sgv_ventas.p_caja.resources
+C:\Aplicacion\sistemas\desarrollo\QuipuPOS - vs2017\sgv_ventas\obj\x86\Debug\sgv_ventas.p_notas.resources
+C:\Aplicacion\sistemas\desarrollo\QuipuPOS - vs2017\sgv_ventas\obj\x86\Debug\sgv_ventas.p_ventas_00.resources
+C:\Aplicacion\sistemas\desarrollo\QuipuPOS - vs2017\sgv_ventas\obj\x86\Debug\sgv_ventas.rptForm.resources
+C:\Aplicacion\sistemas\desarrollo\QuipuPOS - vs2017\sgv_ventas\obj\x86\Debug\sgv_ventas.u_CambioFecha.resources
+C:\Aplicacion\sistemas\desarrollo\QuipuPOS - vs2017\sgv_ventas\obj\x86\Debug\sgv_ventas.Resources.resources
+C:\Aplicacion\sistemas\desarrollo\QuipuPOS - vs2017\sgv_ventas\obj\x86\Debug\sgv_ventas.panel_venta1.resources
+C:\Aplicacion\sistemas\desarrollo\QuipuPOS - vs2017\sgv_ventas\obj\x86\Debug\sgv_ventas.vbproj.GenerateResource.Cache
+C:\Aplicacion\sistemas\desarrollo\QuipuPOS - vs2017\sgv_ventas\obj\x86\Debug\sgv_ventas.vbproj.CoreCompileInputs.cache
+C:\Aplicacion\sistemas\desarrollo\QuipuPOS - vs2017\sgv_ventas\obj\x86\Debug\quipupos.exe
+C:\Aplicacion\sistemas\desarrollo\QuipuPOS - vs2017\sgv_ventas\obj\x86\Debug\quipupos.xml
+C:\Aplicacion\sistemas\desarrollo\QuipuPOS - vs2017\sgv_ventas\obj\x86\Debug\quipupos.pdb
+E:\mtaco\sistemas\QuipuPOS\sgv_ventas\bin\Debug\quipupos.exe.config
+E:\mtaco\sistemas\QuipuPOS\sgv_ventas\bin\Debug\quipupos.exe
+E:\mtaco\sistemas\QuipuPOS\sgv_ventas\bin\Debug\quipupos.pdb
+E:\mtaco\sistemas\QuipuPOS\sgv_ventas\bin\Debug\quipupos.xml
+E:\mtaco\sistemas\QuipuPOS\sgv_ventas\bin\Debug\libreriaClases.dll
+E:\mtaco\sistemas\QuipuPOS\sgv_ventas\bin\Debug\libreriaVentas.dll
+E:\mtaco\sistemas\QuipuPOS\sgv_ventas\bin\Debug\mControles.dll
+E:\mtaco\sistemas\QuipuPOS\sgv_ventas\bin\Debug\stdole.dll
+E:\mtaco\sistemas\QuipuPOS\sgv_ventas\bin\Debug\libreriaVentas.pdb
+E:\mtaco\sistemas\QuipuPOS\sgv_ventas\bin\Debug\libreriaVentas.xml
+E:\mtaco\sistemas\QuipuPOS\sgv_ventas\obj\x86\Debug\sgv_ventas.vbprojResolveAssemblyReference.cache
+E:\mtaco\sistemas\QuipuPOS\sgv_ventas\obj\x86\Debug\sgv_ventas.base.resources
+E:\mtaco\sistemas\QuipuPOS\sgv_ventas\obj\x86\Debug\sgv_ventas.baseReporte.resources
+E:\mtaco\sistemas\QuipuPOS\sgv_ventas\obj\x86\Debug\sgv_ventas.c_ventas.resources
+E:\mtaco\sistemas\QuipuPOS\sgv_ventas\obj\x86\Debug\sgv_ventas.p_receta.resources
+E:\mtaco\sistemas\QuipuPOS\sgv_ventas\obj\x86\Debug\sgv_ventas.p_ventas.resources
+E:\mtaco\sistemas\QuipuPOS\sgv_ventas\obj\x86\Debug\sgv_ventas.p_mesas.resources
+E:\mtaco\sistemas\QuipuPOS\sgv_ventas\obj\x86\Debug\sgv_ventas.Login.resources
+E:\mtaco\sistemas\QuipuPOS\sgv_ventas\obj\x86\Debug\sgv_ventas.Menu.resources
+E:\mtaco\sistemas\QuipuPOS\sgv_ventas\obj\x86\Debug\sgv_ventas.mesas.resources
+E:\mtaco\sistemas\QuipuPOS\sgv_ventas\obj\x86\Debug\sgv_ventas.panel_reportes.resources
+E:\mtaco\sistemas\QuipuPOS\sgv_ventas\obj\x86\Debug\sgv_ventas.panel_proceso.resources
+E:\mtaco\sistemas\QuipuPOS\sgv_ventas\obj\x86\Debug\sgv_ventas.principal.resources
+E:\mtaco\sistemas\QuipuPOS\sgv_ventas\obj\x86\Debug\sgv_ventas.p_caja.resources
+E:\mtaco\sistemas\QuipuPOS\sgv_ventas\obj\x86\Debug\sgv_ventas.p_notas.resources
+E:\mtaco\sistemas\QuipuPOS\sgv_ventas\obj\x86\Debug\sgv_ventas.p_ventas_00.resources
+E:\mtaco\sistemas\QuipuPOS\sgv_ventas\obj\x86\Debug\sgv_ventas.rptForm.resources
+E:\mtaco\sistemas\QuipuPOS\sgv_ventas\obj\x86\Debug\sgv_ventas.u_CambioFecha.resources
+E:\mtaco\sistemas\QuipuPOS\sgv_ventas\obj\x86\Debug\sgv_ventas.Resources.resources
+E:\mtaco\sistemas\QuipuPOS\sgv_ventas\obj\x86\Debug\sgv_ventas.panel_venta1.resources
+E:\mtaco\sistemas\QuipuPOS\sgv_ventas\obj\x86\Debug\sgv_ventas.vbproj.GenerateResource.Cache
+E:\mtaco\sistemas\QuipuPOS\sgv_ventas\obj\x86\Debug\sgv_ventas.vbproj.CoreCompileInputs.cache
+E:\mtaco\sistemas\QuipuPOS\sgv_ventas\obj\x86\Debug\quipupos.exe
+E:\mtaco\sistemas\QuipuPOS\sgv_ventas\obj\x86\Debug\quipupos.xml
+E:\mtaco\sistemas\QuipuPOS\sgv_ventas\obj\x86\Debug\quipupos.pdb
+E:\desarrollo\QuipuPOS\sgv_ventas\bin\Debug\quipupos.exe.config
+E:\desarrollo\QuipuPOS\sgv_ventas\bin\Debug\quipupos.exe
+E:\desarrollo\QuipuPOS\sgv_ventas\bin\Debug\quipupos.pdb
+E:\desarrollo\QuipuPOS\sgv_ventas\bin\Debug\quipupos.xml
+E:\desarrollo\QuipuPOS\sgv_ventas\bin\Debug\libreriaClases.dll
+E:\desarrollo\QuipuPOS\sgv_ventas\bin\Debug\libreriaVentas.dll
+E:\desarrollo\QuipuPOS\sgv_ventas\bin\Debug\mControles.dll
+E:\desarrollo\QuipuPOS\sgv_ventas\bin\Debug\stdole.dll
+E:\desarrollo\QuipuPOS\sgv_ventas\bin\Debug\libreriaVentas.pdb
+E:\desarrollo\QuipuPOS\sgv_ventas\bin\Debug\libreriaVentas.xml
+E:\desarrollo\QuipuPOS\sgv_ventas\obj\x86\Debug\sgv_ventas.vbprojResolveAssemblyReference.cache
+E:\desarrollo\QuipuPOS\sgv_ventas\obj\x86\Debug\sgv_ventas.base.resources
+E:\desarrollo\QuipuPOS\sgv_ventas\obj\x86\Debug\sgv_ventas.baseReporte.resources
+E:\desarrollo\QuipuPOS\sgv_ventas\obj\x86\Debug\sgv_ventas.c_ventas.resources
+E:\desarrollo\QuipuPOS\sgv_ventas\obj\x86\Debug\sgv_ventas.p_receta.resources
+E:\desarrollo\QuipuPOS\sgv_ventas\obj\x86\Debug\sgv_ventas.p_ventas.resources
+E:\desarrollo\QuipuPOS\sgv_ventas\obj\x86\Debug\sgv_ventas.p_mesas.resources
+E:\desarrollo\QuipuPOS\sgv_ventas\obj\x86\Debug\sgv_ventas.Login.resources
+E:\desarrollo\QuipuPOS\sgv_ventas\obj\x86\Debug\sgv_ventas.Menu.resources
+E:\desarrollo\QuipuPOS\sgv_ventas\obj\x86\Debug\sgv_ventas.mesas.resources
+E:\desarrollo\QuipuPOS\sgv_ventas\obj\x86\Debug\sgv_ventas.panel_reportes.resources
+E:\desarrollo\QuipuPOS\sgv_ventas\obj\x86\Debug\sgv_ventas.panel_proceso.resources
+E:\desarrollo\QuipuPOS\sgv_ventas\obj\x86\Debug\sgv_ventas.principal.resources
+E:\desarrollo\QuipuPOS\sgv_ventas\obj\x86\Debug\sgv_ventas.p_caja.resources
+E:\desarrollo\QuipuPOS\sgv_ventas\obj\x86\Debug\sgv_ventas.p_notas.resources
+E:\desarrollo\QuipuPOS\sgv_ventas\obj\x86\Debug\sgv_ventas.p_ventas_00.resources
+E:\desarrollo\QuipuPOS\sgv_ventas\obj\x86\Debug\sgv_ventas.rptForm.resources
+E:\desarrollo\QuipuPOS\sgv_ventas\obj\x86\Debug\sgv_ventas.u_CambioFecha.resources
+E:\desarrollo\QuipuPOS\sgv_ventas\obj\x86\Debug\sgv_ventas.Resources.resources
+E:\desarrollo\QuipuPOS\sgv_ventas\obj\x86\Debug\sgv_ventas.panel_venta1.resources
+E:\desarrollo\QuipuPOS\sgv_ventas\obj\x86\Debug\sgv_ventas.vbproj.GenerateResource.Cache
+E:\desarrollo\QuipuPOS\sgv_ventas\obj\x86\Debug\quipupos.exe
+E:\desarrollo\QuipuPOS\sgv_ventas\obj\x86\Debug\quipupos.xml
+E:\desarrollo\QuipuPOS\sgv_ventas\obj\x86\Debug\quipupos.pdb
+E:\desarrollo\QuipuPOS\sgv_ventas\bin\Debug\DevComponents.DotNetBar.Keyboard.dll
+E:\desarrollo\QuipuPOS\sgv_ventas\bin\Debug\DevComponents.DotNetBar2.dll
+E:\desarrollo\QuipuPOS\sgv_ventas\bin\Debug\DevComponents.DotNetBar.Keyboard.xml
+E:\desarrollo\QuipuPOS\sgv_ventas\bin\Debug\DevComponents.DotNetBar2.xml
+E:\desarrollo\QuipuPOS\sgv_ventas\bin\Debug\CrystalDecisions.CrystalReports.Engine.dll
+E:\desarrollo\QuipuPOS\sgv_ventas\bin\Debug\CrystalDecisions.ReportSource.dll
+E:\desarrollo\QuipuPOS\sgv_ventas\bin\Debug\CrystalDecisions.Shared.dll
+E:\desarrollo\QuipuPOS\sgv_ventas\bin\Debug\CrystalDecisions.Windows.Forms.dll
+E:\desarrollo\QuipuPOS\sgv_ventas\bin\Debug\CrystalDecisions.ReportAppServer.DataDefModel.dll
+E:\desarrollo\QuipuPOS\sgv_ventas\bin\Debug\CrystalDecisions.ReportAppServer.ClientDoc.dll
+E:\desarrollo\QuipuPOS\sgv_ventas\bin\Debug\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+E:\desarrollo\QuipuPOS\sgv_ventas\bin\Debug\CrystalDecisions.ReportAppServer.Controllers.dll
+E:\desarrollo\QuipuPOS\sgv_ventas\bin\Debug\CrystalDecisions.ReportAppServer.CommLayer.dll
+E:\desarrollo\QuipuPOS\sgv_ventas\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+E:\desarrollo\QuipuPOS\sgv_ventas\bin\Debug\CrystalDecisions.ReportAppServer.Prompting.dll
+E:\desarrollo\QuipuPOS\sgv_ventas\bin\Debug\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+E:\desarrollo\QuipuPOS\sgv_ventas\bin\Debug\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+E:\desarrollo\QuipuPOS\sgv_ventas\bin\Debug\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+E:\desarrollo\QuipuPOS\sgv_ventas\bin\Debug\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+E:\desarrollo\QuipuPOS\sgv_ventas\bin\Debug\FlashControlV71.dll
+E:\desarrollo\QuipuPOS\sgv_ventas\bin\Debug\CrystalDecisions.ReportAppServer.CommonControls.dll
+E:\desarrollo\QuipuPOS\sgv_ventas\bin\Debug\ShockwaveFlashObjects.dll
+E:\desarrollo\QuipuPOS\sgv_ventas\bin\Debug\DevExpress.DXCore.Controls.Data.v6.3.dll
+E:\desarrollo\QuipuPOS\sgv_ventas\bin\Debug\DevExpress.DXCore.Controls.Utils.v6.3.dll
+E:\desarrollo\QuipuPOS\sgv_ventas\bin\Debug\DevExpress.DXCore.Controls.XtraEditors.v6.3.dll
+E:\desarrollo\QuipuPOS - copia\sgv_ventas\bin\Debug\quipupos.exe.config
+E:\desarrollo\QuipuPOS - copia\sgv_ventas\bin\Debug\quipupos.exe
+E:\desarrollo\QuipuPOS - copia\sgv_ventas\bin\Debug\quipupos.pdb
+E:\desarrollo\QuipuPOS - copia\sgv_ventas\bin\Debug\quipupos.xml
+E:\desarrollo\QuipuPOS - copia\sgv_ventas\bin\Debug\CrystalDecisions.CrystalReports.Engine.dll
+E:\desarrollo\QuipuPOS - copia\sgv_ventas\bin\Debug\CrystalDecisions.ReportSource.dll
+E:\desarrollo\QuipuPOS - copia\sgv_ventas\bin\Debug\CrystalDecisions.Shared.dll
+E:\desarrollo\QuipuPOS - copia\sgv_ventas\bin\Debug\CrystalDecisions.Windows.Forms.dll
+E:\desarrollo\QuipuPOS - copia\sgv_ventas\bin\Debug\DevComponents.DotNetBar.Keyboard.dll
+E:\desarrollo\QuipuPOS - copia\sgv_ventas\bin\Debug\DevComponents.DotNetBar2.dll
+E:\desarrollo\QuipuPOS - copia\sgv_ventas\bin\Debug\DevExpress.DXCore.Controls.Data.v6.3.dll
+E:\desarrollo\QuipuPOS - copia\sgv_ventas\bin\Debug\DevExpress.DXCore.Controls.Utils.v6.3.dll
+E:\desarrollo\QuipuPOS - copia\sgv_ventas\bin\Debug\DevExpress.DXCore.Controls.XtraEditors.v6.3.dll
+E:\desarrollo\QuipuPOS - copia\sgv_ventas\bin\Debug\libreriaClases.dll
+E:\desarrollo\QuipuPOS - copia\sgv_ventas\bin\Debug\libreriaVentas.dll
+E:\desarrollo\QuipuPOS - copia\sgv_ventas\bin\Debug\mControles.dll
+E:\desarrollo\QuipuPOS - copia\sgv_ventas\bin\Debug\CrystalDecisions.ReportAppServer.DataDefModel.dll
+E:\desarrollo\QuipuPOS - copia\sgv_ventas\bin\Debug\CrystalDecisions.ReportAppServer.ClientDoc.dll
+E:\desarrollo\QuipuPOS - copia\sgv_ventas\bin\Debug\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+E:\desarrollo\QuipuPOS - copia\sgv_ventas\bin\Debug\CrystalDecisions.ReportAppServer.Controllers.dll
+E:\desarrollo\QuipuPOS - copia\sgv_ventas\bin\Debug\CrystalDecisions.ReportAppServer.CommLayer.dll
+E:\desarrollo\QuipuPOS - copia\sgv_ventas\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+E:\desarrollo\QuipuPOS - copia\sgv_ventas\bin\Debug\CrystalDecisions.ReportAppServer.Prompting.dll
+E:\desarrollo\QuipuPOS - copia\sgv_ventas\bin\Debug\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+E:\desarrollo\QuipuPOS - copia\sgv_ventas\bin\Debug\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+E:\desarrollo\QuipuPOS - copia\sgv_ventas\bin\Debug\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+E:\desarrollo\QuipuPOS - copia\sgv_ventas\bin\Debug\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+E:\desarrollo\QuipuPOS - copia\sgv_ventas\bin\Debug\FlashControlV71.dll
+E:\desarrollo\QuipuPOS - copia\sgv_ventas\bin\Debug\CrystalDecisions.ReportAppServer.CommonControls.dll
+E:\desarrollo\QuipuPOS - copia\sgv_ventas\bin\Debug\stdole.dll
+E:\desarrollo\QuipuPOS - copia\sgv_ventas\bin\Debug\ShockwaveFlashObjects.dll
+E:\desarrollo\QuipuPOS - copia\sgv_ventas\bin\Debug\libreriaVentas.pdb
+E:\desarrollo\QuipuPOS - copia\sgv_ventas\bin\Debug\libreriaVentas.xml
+E:\desarrollo\QuipuPOS - copia\sgv_ventas\bin\Debug\DevComponents.DotNetBar.Keyboard.xml
+E:\desarrollo\QuipuPOS - copia\sgv_ventas\bin\Debug\DevComponents.DotNetBar2.xml
+E:\desarrollo\QuipuPOS - copia\sgv_ventas\obj\x86\Debug\sgv_ventas.vbprojResolveAssemblyReference.cache
+E:\desarrollo\QuipuPOS - copia\sgv_ventas\obj\x86\Debug\sgv_ventas.base.resources
+E:\desarrollo\QuipuPOS - copia\sgv_ventas\obj\x86\Debug\sgv_ventas.baseReporte.resources
+E:\desarrollo\QuipuPOS - copia\sgv_ventas\obj\x86\Debug\sgv_ventas.c_ventas.resources
+E:\desarrollo\QuipuPOS - copia\sgv_ventas\obj\x86\Debug\sgv_ventas.p_receta.resources
+E:\desarrollo\QuipuPOS - copia\sgv_ventas\obj\x86\Debug\sgv_ventas.p_ventas.resources
+E:\desarrollo\QuipuPOS - copia\sgv_ventas\obj\x86\Debug\sgv_ventas.p_mesas.resources
+E:\desarrollo\QuipuPOS - copia\sgv_ventas\obj\x86\Debug\sgv_ventas.Login.resources
+E:\desarrollo\QuipuPOS - copia\sgv_ventas\obj\x86\Debug\sgv_ventas.Menu.resources
+E:\desarrollo\QuipuPOS - copia\sgv_ventas\obj\x86\Debug\sgv_ventas.mesas.resources
+E:\desarrollo\QuipuPOS - copia\sgv_ventas\obj\x86\Debug\sgv_ventas.panel_reportes.resources
+E:\desarrollo\QuipuPOS - copia\sgv_ventas\obj\x86\Debug\sgv_ventas.panel_proceso.resources
+E:\desarrollo\QuipuPOS - copia\sgv_ventas\obj\x86\Debug\sgv_ventas.principal.resources
+E:\desarrollo\QuipuPOS - copia\sgv_ventas\obj\x86\Debug\sgv_ventas.p_caja.resources
+E:\desarrollo\QuipuPOS - copia\sgv_ventas\obj\x86\Debug\sgv_ventas.p_notas.resources
+E:\desarrollo\QuipuPOS - copia\sgv_ventas\obj\x86\Debug\sgv_ventas.p_ventas_00.resources
+E:\desarrollo\QuipuPOS - copia\sgv_ventas\obj\x86\Debug\sgv_ventas.rptForm.resources
+E:\desarrollo\QuipuPOS - copia\sgv_ventas\obj\x86\Debug\sgv_ventas.u_CambioFecha.resources
+E:\desarrollo\QuipuPOS - copia\sgv_ventas\obj\x86\Debug\sgv_ventas.Resources.resources
+E:\desarrollo\QuipuPOS - copia\sgv_ventas\obj\x86\Debug\sgv_ventas.panel_venta1.resources
+E:\desarrollo\QuipuPOS - copia\sgv_ventas\obj\x86\Debug\sgv_ventas.vbproj.GenerateResource.Cache
+E:\desarrollo\QuipuPOS - copia\sgv_ventas\obj\x86\Debug\quipupos.exe
+E:\desarrollo\QuipuPOS - copia\sgv_ventas\obj\x86\Debug\quipupos.xml
+E:\desarrollo\QuipuPOS - copia\sgv_ventas\obj\x86\Debug\quipupos.pdb
+D:\desarrollo\QuipuPOS\sgv_ventas\bin\Debug\quipupos.exe.config
+D:\desarrollo\QuipuPOS\sgv_ventas\obj\x86\Debug\quipupos.exe
+D:\desarrollo\QuipuPOS\sgv_ventas\obj\x86\Debug\quipupos.xml
+D:\desarrollo\QuipuPOS\sgv_ventas\obj\x86\Debug\quipupos.pdb
+D:\desarrollo\QuipuPOS\sgv_ventas\bin\Debug\quipupos.exe
+D:\desarrollo\QuipuPOS\sgv_ventas\bin\Debug\quipupos.pdb
+D:\desarrollo\QuipuPOS\sgv_ventas\bin\Debug\quipupos.xml
+D:\desarrollo\QuipuPOS\sgv_ventas\bin\Debug\CrystalDecisions.CrystalReports.Engine.dll
+D:\desarrollo\QuipuPOS\sgv_ventas\bin\Debug\CrystalDecisions.ReportSource.dll
+D:\desarrollo\QuipuPOS\sgv_ventas\bin\Debug\CrystalDecisions.Shared.dll
+D:\desarrollo\QuipuPOS\sgv_ventas\bin\Debug\CrystalDecisions.Windows.Forms.dll
+D:\desarrollo\QuipuPOS\sgv_ventas\bin\Debug\DevComponents.DotNetBar.Keyboard.dll
+D:\desarrollo\QuipuPOS\sgv_ventas\bin\Debug\DevComponents.DotNetBar2.dll
+D:\desarrollo\QuipuPOS\sgv_ventas\bin\Debug\DevExpress.DXCore.Controls.Data.v6.3.dll
+D:\desarrollo\QuipuPOS\sgv_ventas\bin\Debug\DevExpress.DXCore.Controls.Utils.v6.3.dll
+D:\desarrollo\QuipuPOS\sgv_ventas\bin\Debug\DevExpress.DXCore.Controls.XtraEditors.v6.3.dll
+D:\desarrollo\QuipuPOS\sgv_ventas\bin\Debug\libreriaClases.dll
+D:\desarrollo\QuipuPOS\sgv_ventas\bin\Debug\libreriaseguridad.dll
+D:\desarrollo\QuipuPOS\sgv_ventas\bin\Debug\libreriaVentas.dll
+D:\desarrollo\QuipuPOS\sgv_ventas\bin\Debug\mControles.dll
+D:\desarrollo\QuipuPOS\sgv_ventas\bin\Debug\CrystalDecisions.ReportAppServer.DataDefModel.dll
+D:\desarrollo\QuipuPOS\sgv_ventas\bin\Debug\CrystalDecisions.ReportAppServer.ClientDoc.dll
+D:\desarrollo\QuipuPOS\sgv_ventas\bin\Debug\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+D:\desarrollo\QuipuPOS\sgv_ventas\bin\Debug\CrystalDecisions.ReportAppServer.Controllers.dll
+D:\desarrollo\QuipuPOS\sgv_ventas\bin\Debug\CrystalDecisions.ReportAppServer.CommLayer.dll
+D:\desarrollo\QuipuPOS\sgv_ventas\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+D:\desarrollo\QuipuPOS\sgv_ventas\bin\Debug\CrystalDecisions.ReportAppServer.Prompting.dll
+D:\desarrollo\QuipuPOS\sgv_ventas\bin\Debug\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+D:\desarrollo\QuipuPOS\sgv_ventas\bin\Debug\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+D:\desarrollo\QuipuPOS\sgv_ventas\bin\Debug\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+D:\desarrollo\QuipuPOS\sgv_ventas\bin\Debug\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+D:\desarrollo\QuipuPOS\sgv_ventas\bin\Debug\FlashControlV71.dll
+D:\desarrollo\QuipuPOS\sgv_ventas\bin\Debug\CrystalDecisions.ReportAppServer.CommonControls.dll
+D:\desarrollo\QuipuPOS\sgv_ventas\bin\Debug\stdole.dll
+D:\desarrollo\QuipuPOS\sgv_ventas\bin\Debug\ShockwaveFlashObjects.dll
+D:\desarrollo\QuipuPOS\sgv_ventas\bin\Debug\libreriaVentas.pdb
+D:\desarrollo\QuipuPOS\sgv_ventas\bin\Debug\libreriaVentas.xml
+D:\desarrollo\QuipuPOS\sgv_ventas\bin\Debug\DevComponents.DotNetBar.Keyboard.xml
+D:\desarrollo\QuipuPOS\sgv_ventas\bin\Debug\DevComponents.DotNetBar2.xml
+D:\desarrollo\QuipuPOS\sgv_ventas\bin\Debug\libreriaseguridad.pdb
+D:\desarrollo\QuipuPOS\sgv_ventas\bin\Debug\libreriaseguridad.xml
+D:\desarrollo\QuipuPOS\sgv_ventas\obj\x86\Debug\sgv_ventas.vbprojResolveAssemblyReference.cache
+D:\desarrollo\QuipuPOS\sgv_ventas\obj\x86\Debug\sgv_ventas.base.resources
+D:\desarrollo\QuipuPOS\sgv_ventas\obj\x86\Debug\sgv_ventas.baseReporte.resources
+D:\desarrollo\QuipuPOS\sgv_ventas\obj\x86\Debug\sgv_ventas.c_ventas.resources
+D:\desarrollo\QuipuPOS\sgv_ventas\obj\x86\Debug\sgv_ventas.p_receta.resources
+D:\desarrollo\QuipuPOS\sgv_ventas\obj\x86\Debug\sgv_ventas.p_ventas.resources
+D:\desarrollo\QuipuPOS\sgv_ventas\obj\x86\Debug\sgv_ventas.p_mesas.resources
+D:\desarrollo\QuipuPOS\sgv_ventas\obj\x86\Debug\sgv_ventas.Login.resources
+D:\desarrollo\QuipuPOS\sgv_ventas\obj\x86\Debug\sgv_ventas.Menu.resources
+D:\desarrollo\QuipuPOS\sgv_ventas\obj\x86\Debug\sgv_ventas.mesas.resources
+D:\desarrollo\QuipuPOS\sgv_ventas\obj\x86\Debug\sgv_ventas.panel_reportes.resources
+D:\desarrollo\QuipuPOS\sgv_ventas\obj\x86\Debug\sgv_ventas.panel_proceso.resources
+D:\desarrollo\QuipuPOS\sgv_ventas\obj\x86\Debug\sgv_ventas.principal.resources
+D:\desarrollo\QuipuPOS\sgv_ventas\obj\x86\Debug\sgv_ventas.p_caja.resources
+D:\desarrollo\QuipuPOS\sgv_ventas\obj\x86\Debug\sgv_ventas.p_notas.resources
+D:\desarrollo\QuipuPOS\sgv_ventas\obj\x86\Debug\sgv_ventas.p_ventas_00.resources
+D:\desarrollo\QuipuPOS\sgv_ventas\obj\x86\Debug\sgv_ventas.rptForm.resources
+D:\desarrollo\QuipuPOS\sgv_ventas\obj\x86\Debug\sgv_ventas.u_CambioFecha.resources
+D:\desarrollo\QuipuPOS\sgv_ventas\obj\x86\Debug\sgv_ventas.Resources.resources
+D:\desarrollo\QuipuPOS\sgv_ventas\obj\x86\Debug\sgv_ventas.panel_venta1.resources
+D:\desarrollo\QuipuPOS\sgv_ventas\obj\x86\Debug\sgv_ventas.vbproj.GenerateResource.Cache
+C:\Intel\Desarrollo\QuipuPOS\sgv_ventas\bin\Debug\quipupos.exe.config
+C:\Intel\Desarrollo\QuipuPOS\sgv_ventas\obj\x86\Debug\quipupos.exe
+C:\Intel\Desarrollo\QuipuPOS\sgv_ventas\obj\x86\Debug\quipupos.xml
+C:\Intel\Desarrollo\QuipuPOS\sgv_ventas\obj\x86\Debug\quipupos.pdb
+C:\Intel\Desarrollo\QuipuPOS\sgv_ventas\bin\Debug\quipupos.exe
+C:\Intel\Desarrollo\QuipuPOS\sgv_ventas\bin\Debug\quipupos.pdb
+C:\Intel\Desarrollo\QuipuPOS\sgv_ventas\bin\Debug\quipupos.xml
+C:\Intel\Desarrollo\QuipuPOS\sgv_ventas\bin\Debug\CrystalDecisions.CrystalReports.Engine.dll
+C:\Intel\Desarrollo\QuipuPOS\sgv_ventas\bin\Debug\CrystalDecisions.ReportSource.dll
+C:\Intel\Desarrollo\QuipuPOS\sgv_ventas\bin\Debug\CrystalDecisions.Shared.dll
+C:\Intel\Desarrollo\QuipuPOS\sgv_ventas\bin\Debug\CrystalDecisions.Windows.Forms.dll
+C:\Intel\Desarrollo\QuipuPOS\sgv_ventas\bin\Debug\DevComponents.DotNetBar.Keyboard.dll
+C:\Intel\Desarrollo\QuipuPOS\sgv_ventas\bin\Debug\DevComponents.DotNetBar2.dll
+C:\Intel\Desarrollo\QuipuPOS\sgv_ventas\bin\Debug\DevExpress.DXCore.Controls.Data.v6.3.dll
+C:\Intel\Desarrollo\QuipuPOS\sgv_ventas\bin\Debug\DevExpress.DXCore.Controls.Utils.v6.3.dll
+C:\Intel\Desarrollo\QuipuPOS\sgv_ventas\bin\Debug\DevExpress.DXCore.Controls.XtraEditors.v6.3.dll
+C:\Intel\Desarrollo\QuipuPOS\sgv_ventas\bin\Debug\libreriaClases.dll
+C:\Intel\Desarrollo\QuipuPOS\sgv_ventas\bin\Debug\libreriaseguridad.dll
+C:\Intel\Desarrollo\QuipuPOS\sgv_ventas\bin\Debug\libreriaVentas.dll
+C:\Intel\Desarrollo\QuipuPOS\sgv_ventas\bin\Debug\mControles.dll
+C:\Intel\Desarrollo\QuipuPOS\sgv_ventas\bin\Debug\CrystalDecisions.ReportAppServer.DataDefModel.dll
+C:\Intel\Desarrollo\QuipuPOS\sgv_ventas\bin\Debug\CrystalDecisions.ReportAppServer.ClientDoc.dll
+C:\Intel\Desarrollo\QuipuPOS\sgv_ventas\bin\Debug\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+C:\Intel\Desarrollo\QuipuPOS\sgv_ventas\bin\Debug\CrystalDecisions.ReportAppServer.Controllers.dll
+C:\Intel\Desarrollo\QuipuPOS\sgv_ventas\bin\Debug\CrystalDecisions.ReportAppServer.CommLayer.dll
+C:\Intel\Desarrollo\QuipuPOS\sgv_ventas\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+C:\Intel\Desarrollo\QuipuPOS\sgv_ventas\bin\Debug\CrystalDecisions.ReportAppServer.Prompting.dll
+C:\Intel\Desarrollo\QuipuPOS\sgv_ventas\bin\Debug\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+C:\Intel\Desarrollo\QuipuPOS\sgv_ventas\bin\Debug\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+C:\Intel\Desarrollo\QuipuPOS\sgv_ventas\bin\Debug\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+C:\Intel\Desarrollo\QuipuPOS\sgv_ventas\bin\Debug\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+C:\Intel\Desarrollo\QuipuPOS\sgv_ventas\bin\Debug\FlashControlV71.dll
+C:\Intel\Desarrollo\QuipuPOS\sgv_ventas\bin\Debug\CrystalDecisions.ReportAppServer.CommonControls.dll
+C:\Intel\Desarrollo\QuipuPOS\sgv_ventas\bin\Debug\stdole.dll
+C:\Intel\Desarrollo\QuipuPOS\sgv_ventas\bin\Debug\ShockwaveFlashObjects.dll
+C:\Intel\Desarrollo\QuipuPOS\sgv_ventas\bin\Debug\libreriaVentas.pdb
+C:\Intel\Desarrollo\QuipuPOS\sgv_ventas\bin\Debug\libreriaVentas.xml
+C:\Intel\Desarrollo\QuipuPOS\sgv_ventas\bin\Debug\DevComponents.DotNetBar.Keyboard.xml
+C:\Intel\Desarrollo\QuipuPOS\sgv_ventas\bin\Debug\DevComponents.DotNetBar2.xml
+C:\Intel\Desarrollo\QuipuPOS\sgv_ventas\bin\Debug\libreriaseguridad.pdb
+C:\Intel\Desarrollo\QuipuPOS\sgv_ventas\bin\Debug\libreriaseguridad.xml
+C:\Intel\Desarrollo\QuipuPOS\sgv_ventas\obj\x86\Debug\sgv_ventas.vbprojResolveAssemblyReference.cache
+C:\Intel\Desarrollo\QuipuPOS\sgv_ventas\obj\x86\Debug\sgv_ventas.base.resources
+C:\Intel\Desarrollo\QuipuPOS\sgv_ventas\obj\x86\Debug\sgv_ventas.baseReporte.resources
+C:\Intel\Desarrollo\QuipuPOS\sgv_ventas\obj\x86\Debug\sgv_ventas.c_ventas.resources
+C:\Intel\Desarrollo\QuipuPOS\sgv_ventas\obj\x86\Debug\sgv_ventas.p_receta.resources
+C:\Intel\Desarrollo\QuipuPOS\sgv_ventas\obj\x86\Debug\sgv_ventas.p_ventas.resources
+C:\Intel\Desarrollo\QuipuPOS\sgv_ventas\obj\x86\Debug\sgv_ventas.p_mesas.resources
+C:\Intel\Desarrollo\QuipuPOS\sgv_ventas\obj\x86\Debug\sgv_ventas.Login.resources
+C:\Intel\Desarrollo\QuipuPOS\sgv_ventas\obj\x86\Debug\sgv_ventas.Menu.resources
+C:\Intel\Desarrollo\QuipuPOS\sgv_ventas\obj\x86\Debug\sgv_ventas.mesas.resources
+C:\Intel\Desarrollo\QuipuPOS\sgv_ventas\obj\x86\Debug\sgv_ventas.panel_reportes.resources
+C:\Intel\Desarrollo\QuipuPOS\sgv_ventas\obj\x86\Debug\sgv_ventas.panel_proceso.resources
+C:\Intel\Desarrollo\QuipuPOS\sgv_ventas\obj\x86\Debug\sgv_ventas.principal.resources
+C:\Intel\Desarrollo\QuipuPOS\sgv_ventas\obj\x86\Debug\sgv_ventas.p_caja.resources
+C:\Intel\Desarrollo\QuipuPOS\sgv_ventas\obj\x86\Debug\sgv_ventas.p_notas.resources
+C:\Intel\Desarrollo\QuipuPOS\sgv_ventas\obj\x86\Debug\sgv_ventas.p_ventas_00.resources
+C:\Intel\Desarrollo\QuipuPOS\sgv_ventas\obj\x86\Debug\sgv_ventas.rptForm.resources
+C:\Intel\Desarrollo\QuipuPOS\sgv_ventas\obj\x86\Debug\sgv_ventas.u_CambioFecha.resources
+C:\Intel\Desarrollo\QuipuPOS\sgv_ventas\obj\x86\Debug\sgv_ventas.Resources.resources
+C:\Intel\Desarrollo\QuipuPOS\sgv_ventas\obj\x86\Debug\sgv_ventas.panel_venta1.resources
+C:\Intel\Desarrollo\QuipuPOS\sgv_ventas\obj\x86\Debug\sgv_ventas.vbproj.GenerateResource.Cache
+C:\Intel\Desarrollo\QuipuPOS\sgv_ventas\bin\Debug\ThoughtWorks.QRCode.dll
+D:\compartir\DESARROLLO\QuipuPOS\sgv_ventas\bin\Debug\quipupos.exe.config
+D:\compartir\DESARROLLO\QuipuPOS\sgv_ventas\obj\x86\Debug\quipupos.exe
+D:\compartir\DESARROLLO\QuipuPOS\sgv_ventas\obj\x86\Debug\quipupos.xml
+D:\compartir\DESARROLLO\QuipuPOS\sgv_ventas\obj\x86\Debug\quipupos.pdb
+D:\compartir\DESARROLLO\QuipuPOS\sgv_ventas\bin\Debug\quipupos.exe
+D:\compartir\DESARROLLO\QuipuPOS\sgv_ventas\bin\Debug\quipupos.pdb
+D:\compartir\DESARROLLO\QuipuPOS\sgv_ventas\bin\Debug\quipupos.xml
+D:\compartir\DESARROLLO\QuipuPOS\sgv_ventas\bin\Debug\CrystalDecisions.CrystalReports.Engine.dll
+D:\compartir\DESARROLLO\QuipuPOS\sgv_ventas\bin\Debug\CrystalDecisions.ReportSource.dll
+D:\compartir\DESARROLLO\QuipuPOS\sgv_ventas\bin\Debug\CrystalDecisions.Shared.dll
+D:\compartir\DESARROLLO\QuipuPOS\sgv_ventas\bin\Debug\CrystalDecisions.Windows.Forms.dll
+D:\compartir\DESARROLLO\QuipuPOS\sgv_ventas\bin\Debug\DevComponents.DotNetBar.Keyboard.dll
+D:\compartir\DESARROLLO\QuipuPOS\sgv_ventas\bin\Debug\DevComponents.DotNetBar2.dll
+D:\compartir\DESARROLLO\QuipuPOS\sgv_ventas\bin\Debug\DevExpress.DXCore.Controls.Data.v6.3.dll
+D:\compartir\DESARROLLO\QuipuPOS\sgv_ventas\bin\Debug\DevExpress.DXCore.Controls.Utils.v6.3.dll
+D:\compartir\DESARROLLO\QuipuPOS\sgv_ventas\bin\Debug\DevExpress.DXCore.Controls.XtraEditors.v6.3.dll
+D:\compartir\DESARROLLO\QuipuPOS\sgv_ventas\bin\Debug\libreriaClases.dll
+D:\compartir\DESARROLLO\QuipuPOS\sgv_ventas\bin\Debug\libreriaVentas.dll
+D:\compartir\DESARROLLO\QuipuPOS\sgv_ventas\bin\Debug\mControles.dll
+D:\compartir\DESARROLLO\QuipuPOS\sgv_ventas\bin\Debug\ThoughtWorks.QRCode.dll
+D:\compartir\DESARROLLO\QuipuPOS\sgv_ventas\bin\Debug\CrystalDecisions.ReportAppServer.DataDefModel.dll
+D:\compartir\DESARROLLO\QuipuPOS\sgv_ventas\bin\Debug\CrystalDecisions.ReportAppServer.ClientDoc.dll
+D:\compartir\DESARROLLO\QuipuPOS\sgv_ventas\bin\Debug\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+D:\compartir\DESARROLLO\QuipuPOS\sgv_ventas\bin\Debug\CrystalDecisions.ReportAppServer.Controllers.dll
+D:\compartir\DESARROLLO\QuipuPOS\sgv_ventas\bin\Debug\CrystalDecisions.ReportAppServer.CommLayer.dll
+D:\compartir\DESARROLLO\QuipuPOS\sgv_ventas\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+D:\compartir\DESARROLLO\QuipuPOS\sgv_ventas\bin\Debug\CrystalDecisions.ReportAppServer.Prompting.dll
+D:\compartir\DESARROLLO\QuipuPOS\sgv_ventas\bin\Debug\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+D:\compartir\DESARROLLO\QuipuPOS\sgv_ventas\bin\Debug\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+D:\compartir\DESARROLLO\QuipuPOS\sgv_ventas\bin\Debug\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+D:\compartir\DESARROLLO\QuipuPOS\sgv_ventas\bin\Debug\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+D:\compartir\DESARROLLO\QuipuPOS\sgv_ventas\bin\Debug\FlashControlV71.dll
+D:\compartir\DESARROLLO\QuipuPOS\sgv_ventas\bin\Debug\CrystalDecisions.ReportAppServer.CommonControls.dll
+D:\compartir\DESARROLLO\QuipuPOS\sgv_ventas\bin\Debug\stdole.dll
+D:\compartir\DESARROLLO\QuipuPOS\sgv_ventas\bin\Debug\ShockwaveFlashObjects.dll
+D:\compartir\DESARROLLO\QuipuPOS\sgv_ventas\bin\Debug\libreriaVentas.pdb
+D:\compartir\DESARROLLO\QuipuPOS\sgv_ventas\bin\Debug\libreriaVentas.xml
+D:\compartir\DESARROLLO\QuipuPOS\sgv_ventas\bin\Debug\DevComponents.DotNetBar.Keyboard.xml
+D:\compartir\DESARROLLO\QuipuPOS\sgv_ventas\bin\Debug\DevComponents.DotNetBar2.xml
+D:\compartir\DESARROLLO\QuipuPOS\sgv_ventas\obj\x86\Debug\sgv_ventas.vbprojResolveAssemblyReference.cache
+D:\compartir\DESARROLLO\QuipuPOS\sgv_ventas\obj\x86\Debug\sgv_ventas.base.resources
+D:\compartir\DESARROLLO\QuipuPOS\sgv_ventas\obj\x86\Debug\sgv_ventas.baseReporte.resources
+D:\compartir\DESARROLLO\QuipuPOS\sgv_ventas\obj\x86\Debug\sgv_ventas.c_ventas.resources
+D:\compartir\DESARROLLO\QuipuPOS\sgv_ventas\obj\x86\Debug\sgv_ventas.p_receta.resources
+D:\compartir\DESARROLLO\QuipuPOS\sgv_ventas\obj\x86\Debug\sgv_ventas.p_mesas.resources
+D:\compartir\DESARROLLO\QuipuPOS\sgv_ventas\obj\x86\Debug\sgv_ventas.Login.resources
+D:\compartir\DESARROLLO\QuipuPOS\sgv_ventas\obj\x86\Debug\sgv_ventas.Menu.resources
+D:\compartir\DESARROLLO\QuipuPOS\sgv_ventas\obj\x86\Debug\sgv_ventas.mesas.resources
+D:\compartir\DESARROLLO\QuipuPOS\sgv_ventas\obj\x86\Debug\sgv_ventas.panel_reportes.resources
+D:\compartir\DESARROLLO\QuipuPOS\sgv_ventas\obj\x86\Debug\sgv_ventas.panel_proceso.resources
+D:\compartir\DESARROLLO\QuipuPOS\sgv_ventas\obj\x86\Debug\sgv_ventas.principal.resources
+D:\compartir\DESARROLLO\QuipuPOS\sgv_ventas\obj\x86\Debug\sgv_ventas.p_caja.resources
+D:\compartir\DESARROLLO\QuipuPOS\sgv_ventas\obj\x86\Debug\sgv_ventas.p_notas.resources
+D:\compartir\DESARROLLO\QuipuPOS\sgv_ventas\obj\x86\Debug\sgv_ventas.p_ventas_00.resources
+D:\compartir\DESARROLLO\QuipuPOS\sgv_ventas\obj\x86\Debug\sgv_ventas.rptForm.resources
+D:\compartir\DESARROLLO\QuipuPOS\sgv_ventas\obj\x86\Debug\sgv_ventas.u_CambioFecha.resources
+D:\compartir\DESARROLLO\QuipuPOS\sgv_ventas\obj\x86\Debug\sgv_ventas.Resources.resources
+D:\compartir\DESARROLLO\QuipuPOS\sgv_ventas\obj\x86\Debug\sgv_ventas.panel_venta1.resources
+D:\compartir\DESARROLLO\QuipuPOS\sgv_ventas\obj\x86\Debug\sgv_ventas.vbproj.GenerateResource.Cache
+\\pc_lucet\compartir\DESARROLLO\QuipuPOS\sgv_ventas\bin\Debug\quipupos.exe.config
+\\pc_lucet\compartir\DESARROLLO\QuipuPOS\sgv_ventas\obj\x86\Debug\quipupos.exe
+\\pc_lucet\compartir\DESARROLLO\QuipuPOS\sgv_ventas\obj\x86\Debug\quipupos.xml
+\\pc_lucet\compartir\DESARROLLO\QuipuPOS\sgv_ventas\obj\x86\Debug\quipupos.pdb
+\\pc_lucet\compartir\DESARROLLO\QuipuPOS\sgv_ventas\bin\Debug\quipupos.exe
+\\pc_lucet\compartir\DESARROLLO\QuipuPOS\sgv_ventas\bin\Debug\quipupos.pdb
+\\pc_lucet\compartir\DESARROLLO\QuipuPOS\sgv_ventas\bin\Debug\quipupos.xml
+\\pc_lucet\compartir\DESARROLLO\QuipuPOS\sgv_ventas\bin\Debug\CrystalDecisions.CrystalReports.Engine.dll
+\\pc_lucet\compartir\DESARROLLO\QuipuPOS\sgv_ventas\bin\Debug\CrystalDecisions.ReportSource.dll
+\\pc_lucet\compartir\DESARROLLO\QuipuPOS\sgv_ventas\bin\Debug\CrystalDecisions.Shared.dll
+\\pc_lucet\compartir\DESARROLLO\QuipuPOS\sgv_ventas\bin\Debug\CrystalDecisions.Windows.Forms.dll
+\\pc_lucet\compartir\DESARROLLO\QuipuPOS\sgv_ventas\bin\Debug\DevComponents.DotNetBar.Keyboard.dll
+\\pc_lucet\compartir\DESARROLLO\QuipuPOS\sgv_ventas\bin\Debug\DevComponents.DotNetBar2.dll
+\\pc_lucet\compartir\DESARROLLO\QuipuPOS\sgv_ventas\bin\Debug\libreriaClases.dll
+\\pc_lucet\compartir\DESARROLLO\QuipuPOS\sgv_ventas\bin\Debug\libreriaVentas.dll
+\\pc_lucet\compartir\DESARROLLO\QuipuPOS\sgv_ventas\bin\Debug\mControles.dll
+\\pc_lucet\compartir\DESARROLLO\QuipuPOS\sgv_ventas\bin\Debug\MySql.Data.dll
+\\pc_lucet\compartir\DESARROLLO\QuipuPOS\sgv_ventas\bin\Debug\ThoughtWorks.QRCode.dll
+\\pc_lucet\compartir\DESARROLLO\QuipuPOS\sgv_ventas\bin\Debug\CrystalDecisions.ReportAppServer.DataDefModel.dll
+\\pc_lucet\compartir\DESARROLLO\QuipuPOS\sgv_ventas\bin\Debug\CrystalDecisions.ReportAppServer.ClientDoc.dll
+\\pc_lucet\compartir\DESARROLLO\QuipuPOS\sgv_ventas\bin\Debug\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+\\pc_lucet\compartir\DESARROLLO\QuipuPOS\sgv_ventas\bin\Debug\CrystalDecisions.ReportAppServer.Controllers.dll
+\\pc_lucet\compartir\DESARROLLO\QuipuPOS\sgv_ventas\bin\Debug\CrystalDecisions.ReportAppServer.CommLayer.dll
+\\pc_lucet\compartir\DESARROLLO\QuipuPOS\sgv_ventas\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+\\pc_lucet\compartir\DESARROLLO\QuipuPOS\sgv_ventas\bin\Debug\CrystalDecisions.ReportAppServer.Prompting.dll
+\\pc_lucet\compartir\DESARROLLO\QuipuPOS\sgv_ventas\bin\Debug\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+\\pc_lucet\compartir\DESARROLLO\QuipuPOS\sgv_ventas\bin\Debug\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+\\pc_lucet\compartir\DESARROLLO\QuipuPOS\sgv_ventas\bin\Debug\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+\\pc_lucet\compartir\DESARROLLO\QuipuPOS\sgv_ventas\bin\Debug\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+\\pc_lucet\compartir\DESARROLLO\QuipuPOS\sgv_ventas\bin\Debug\FlashControlV71.dll
+\\pc_lucet\compartir\DESARROLLO\QuipuPOS\sgv_ventas\bin\Debug\CrystalDecisions.ReportAppServer.CommonControls.dll
+\\pc_lucet\compartir\DESARROLLO\QuipuPOS\sgv_ventas\bin\Debug\stdole.dll
+\\pc_lucet\compartir\DESARROLLO\QuipuPOS\sgv_ventas\bin\Debug\ShockwaveFlashObjects.dll
+\\pc_lucet\compartir\DESARROLLO\QuipuPOS\sgv_ventas\bin\Debug\libreriaVentas.pdb
+\\pc_lucet\compartir\DESARROLLO\QuipuPOS\sgv_ventas\bin\Debug\libreriaVentas.xml
+\\pc_lucet\compartir\DESARROLLO\QuipuPOS\sgv_ventas\bin\Debug\DevComponents.DotNetBar.Keyboard.xml
+\\pc_lucet\compartir\DESARROLLO\QuipuPOS\sgv_ventas\bin\Debug\DevComponents.DotNetBar2.xml
+\\pc_lucet\compartir\DESARROLLO\QuipuPOS\sgv_ventas\obj\x86\Debug\sgv_ventas.vbprojResolveAssemblyReference.cache
+\\pc_lucet\compartir\DESARROLLO\QuipuPOS\sgv_ventas\obj\x86\Debug\sgv_ventas.base.resources
+\\pc_lucet\compartir\DESARROLLO\QuipuPOS\sgv_ventas\obj\x86\Debug\sgv_ventas.baseReporte.resources
+\\pc_lucet\compartir\DESARROLLO\QuipuPOS\sgv_ventas\obj\x86\Debug\sgv_ventas.c_ventas.resources
+\\pc_lucet\compartir\DESARROLLO\QuipuPOS\sgv_ventas\obj\x86\Debug\sgv_ventas.p_receta.resources
+\\pc_lucet\compartir\DESARROLLO\QuipuPOS\sgv_ventas\obj\x86\Debug\sgv_ventas.p_ventas.resources
+\\pc_lucet\compartir\DESARROLLO\QuipuPOS\sgv_ventas\obj\x86\Debug\sgv_ventas.p_mesas.resources
+\\pc_lucet\compartir\DESARROLLO\QuipuPOS\sgv_ventas\obj\x86\Debug\sgv_ventas.Login.resources
+\\pc_lucet\compartir\DESARROLLO\QuipuPOS\sgv_ventas\obj\x86\Debug\sgv_ventas.Menu.resources
+\\pc_lucet\compartir\DESARROLLO\QuipuPOS\sgv_ventas\obj\x86\Debug\sgv_ventas.mesas.resources
+\\pc_lucet\compartir\DESARROLLO\QuipuPOS\sgv_ventas\obj\x86\Debug\sgv_ventas.panel_reportes.resources
+\\pc_lucet\compartir\DESARROLLO\QuipuPOS\sgv_ventas\obj\x86\Debug\sgv_ventas.panel_proceso.resources
+\\pc_lucet\compartir\DESARROLLO\QuipuPOS\sgv_ventas\obj\x86\Debug\sgv_ventas.principal.resources
+\\pc_lucet\compartir\DESARROLLO\QuipuPOS\sgv_ventas\obj\x86\Debug\sgv_ventas.p_caja.resources
+\\pc_lucet\compartir\DESARROLLO\QuipuPOS\sgv_ventas\obj\x86\Debug\sgv_ventas.p_notas.resources
+\\pc_lucet\compartir\DESARROLLO\QuipuPOS\sgv_ventas\obj\x86\Debug\sgv_ventas.p_ventas_00.resources
+\\pc_lucet\compartir\DESARROLLO\QuipuPOS\sgv_ventas\obj\x86\Debug\sgv_ventas.rptForm.resources
+\\pc_lucet\compartir\DESARROLLO\QuipuPOS\sgv_ventas\obj\x86\Debug\sgv_ventas.u_CambioFecha.resources
+\\pc_lucet\compartir\DESARROLLO\QuipuPOS\sgv_ventas\obj\x86\Debug\sgv_ventas.Resources.resources
+\\pc_lucet\compartir\DESARROLLO\QuipuPOS\sgv_ventas\obj\x86\Debug\sgv_ventas.panel_venta1.resources
+\\pc_lucet\compartir\DESARROLLO\QuipuPOS\sgv_ventas\obj\x86\Debug\sgv_ventas.vbproj.GenerateResource.Cache
+\\192.168.1.200\compartir\DESARROLLO\QuipuPOS\sgv_ventas\bin\Debug\quipupos.exe.config
+\\192.168.1.200\compartir\DESARROLLO\QuipuPOS\sgv_ventas\obj\x86\Debug\quipupos.exe
+\\192.168.1.200\compartir\DESARROLLO\QuipuPOS\sgv_ventas\obj\x86\Debug\quipupos.xml
+\\192.168.1.200\compartir\DESARROLLO\QuipuPOS\sgv_ventas\obj\x86\Debug\quipupos.pdb
+\\192.168.1.200\compartir\DESARROLLO\QuipuPOS\sgv_ventas\bin\Debug\quipupos.exe
+\\192.168.1.200\compartir\DESARROLLO\QuipuPOS\sgv_ventas\bin\Debug\quipupos.pdb
+\\192.168.1.200\compartir\DESARROLLO\QuipuPOS\sgv_ventas\bin\Debug\quipupos.xml
+\\192.168.1.200\compartir\DESARROLLO\QuipuPOS\sgv_ventas\bin\Debug\CrystalDecisions.CrystalReports.Engine.dll
+\\192.168.1.200\compartir\DESARROLLO\QuipuPOS\sgv_ventas\bin\Debug\CrystalDecisions.ReportSource.dll
+\\192.168.1.200\compartir\DESARROLLO\QuipuPOS\sgv_ventas\bin\Debug\CrystalDecisions.Shared.dll
+\\192.168.1.200\compartir\DESARROLLO\QuipuPOS\sgv_ventas\bin\Debug\CrystalDecisions.Windows.Forms.dll
+\\192.168.1.200\compartir\DESARROLLO\QuipuPOS\sgv_ventas\bin\Debug\DevComponents.DotNetBar.Keyboard.dll
+\\192.168.1.200\compartir\DESARROLLO\QuipuPOS\sgv_ventas\bin\Debug\DevComponents.DotNetBar2.dll
+\\192.168.1.200\compartir\DESARROLLO\QuipuPOS\sgv_ventas\bin\Debug\libreriaClases.dll
+\\192.168.1.200\compartir\DESARROLLO\QuipuPOS\sgv_ventas\bin\Debug\libreriaVentas.dll
+\\192.168.1.200\compartir\DESARROLLO\QuipuPOS\sgv_ventas\bin\Debug\mControles.dll
+\\192.168.1.200\compartir\DESARROLLO\QuipuPOS\sgv_ventas\bin\Debug\MySql.Data.dll
+\\192.168.1.200\compartir\DESARROLLO\QuipuPOS\sgv_ventas\bin\Debug\ThoughtWorks.QRCode.dll
+\\192.168.1.200\compartir\DESARROLLO\QuipuPOS\sgv_ventas\bin\Debug\CrystalDecisions.ReportAppServer.DataDefModel.dll
+\\192.168.1.200\compartir\DESARROLLO\QuipuPOS\sgv_ventas\bin\Debug\CrystalDecisions.ReportAppServer.ClientDoc.dll
+\\192.168.1.200\compartir\DESARROLLO\QuipuPOS\sgv_ventas\bin\Debug\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+\\192.168.1.200\compartir\DESARROLLO\QuipuPOS\sgv_ventas\bin\Debug\CrystalDecisions.ReportAppServer.Controllers.dll
+\\192.168.1.200\compartir\DESARROLLO\QuipuPOS\sgv_ventas\bin\Debug\CrystalDecisions.ReportAppServer.CommLayer.dll
+\\192.168.1.200\compartir\DESARROLLO\QuipuPOS\sgv_ventas\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+\\192.168.1.200\compartir\DESARROLLO\QuipuPOS\sgv_ventas\bin\Debug\CrystalDecisions.ReportAppServer.Prompting.dll
+\\192.168.1.200\compartir\DESARROLLO\QuipuPOS\sgv_ventas\bin\Debug\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+\\192.168.1.200\compartir\DESARROLLO\QuipuPOS\sgv_ventas\bin\Debug\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+\\192.168.1.200\compartir\DESARROLLO\QuipuPOS\sgv_ventas\bin\Debug\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+\\192.168.1.200\compartir\DESARROLLO\QuipuPOS\sgv_ventas\bin\Debug\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+\\192.168.1.200\compartir\DESARROLLO\QuipuPOS\sgv_ventas\bin\Debug\FlashControlV71.dll
+\\192.168.1.200\compartir\DESARROLLO\QuipuPOS\sgv_ventas\bin\Debug\CrystalDecisions.ReportAppServer.CommonControls.dll
+\\192.168.1.200\compartir\DESARROLLO\QuipuPOS\sgv_ventas\bin\Debug\stdole.dll
+\\192.168.1.200\compartir\DESARROLLO\QuipuPOS\sgv_ventas\bin\Debug\ShockwaveFlashObjects.dll
+\\192.168.1.200\compartir\DESARROLLO\QuipuPOS\sgv_ventas\bin\Debug\libreriaVentas.pdb
+\\192.168.1.200\compartir\DESARROLLO\QuipuPOS\sgv_ventas\bin\Debug\libreriaVentas.xml
+\\192.168.1.200\compartir\DESARROLLO\QuipuPOS\sgv_ventas\bin\Debug\DevComponents.DotNetBar.Keyboard.xml
+\\192.168.1.200\compartir\DESARROLLO\QuipuPOS\sgv_ventas\bin\Debug\DevComponents.DotNetBar2.xml
+\\192.168.1.200\compartir\DESARROLLO\QuipuPOS\sgv_ventas\obj\x86\Debug\sgv_ventas.vbprojResolveAssemblyReference.cache
+\\192.168.1.200\compartir\DESARROLLO\QuipuPOS\sgv_ventas\obj\x86\Debug\sgv_ventas.base.resources
+\\192.168.1.200\compartir\DESARROLLO\QuipuPOS\sgv_ventas\obj\x86\Debug\sgv_ventas.baseReporte.resources
+\\192.168.1.200\compartir\DESARROLLO\QuipuPOS\sgv_ventas\obj\x86\Debug\sgv_ventas.c_ventas.resources
+\\192.168.1.200\compartir\DESARROLLO\QuipuPOS\sgv_ventas\obj\x86\Debug\sgv_ventas.p_receta.resources
+\\192.168.1.200\compartir\DESARROLLO\QuipuPOS\sgv_ventas\obj\x86\Debug\sgv_ventas.p_mesas.resources
+\\192.168.1.200\compartir\DESARROLLO\QuipuPOS\sgv_ventas\obj\x86\Debug\sgv_ventas.Login.resources
+\\192.168.1.200\compartir\DESARROLLO\QuipuPOS\sgv_ventas\obj\x86\Debug\sgv_ventas.Menu.resources
+\\192.168.1.200\compartir\DESARROLLO\QuipuPOS\sgv_ventas\obj\x86\Debug\sgv_ventas.mesas.resources
+\\192.168.1.200\compartir\DESARROLLO\QuipuPOS\sgv_ventas\obj\x86\Debug\sgv_ventas.panel_reportes.resources
+\\192.168.1.200\compartir\DESARROLLO\QuipuPOS\sgv_ventas\obj\x86\Debug\sgv_ventas.panel_proceso.resources
+\\192.168.1.200\compartir\DESARROLLO\QuipuPOS\sgv_ventas\obj\x86\Debug\sgv_ventas.principal.resources
+\\192.168.1.200\compartir\DESARROLLO\QuipuPOS\sgv_ventas\obj\x86\Debug\sgv_ventas.p_caja.resources
+\\192.168.1.200\compartir\DESARROLLO\QuipuPOS\sgv_ventas\obj\x86\Debug\sgv_ventas.p_notas.resources
+\\192.168.1.200\compartir\DESARROLLO\QuipuPOS\sgv_ventas\obj\x86\Debug\sgv_ventas.p_ventas_00.resources
+\\192.168.1.200\compartir\DESARROLLO\QuipuPOS\sgv_ventas\obj\x86\Debug\sgv_ventas.rptForm.resources
+\\192.168.1.200\compartir\DESARROLLO\QuipuPOS\sgv_ventas\obj\x86\Debug\sgv_ventas.u_CambioFecha.resources
+\\192.168.1.200\compartir\DESARROLLO\QuipuPOS\sgv_ventas\obj\x86\Debug\sgv_ventas.Resources.resources
+\\192.168.1.200\compartir\DESARROLLO\QuipuPOS\sgv_ventas\obj\x86\Debug\sgv_ventas.panel_venta1.resources
+\\192.168.1.200\compartir\DESARROLLO\QuipuPOS\sgv_ventas\obj\x86\Debug\sgv_ventas.vbproj.GenerateResource.Cache
+D:\SISTEMAS\DESARROLLO\QuipuPOS\sgv_ventas\bin\Debug\CrystalDecisions.CrystalReports.Engine.dll
+D:\SISTEMAS\DESARROLLO\QuipuPOS\sgv_ventas\bin\Debug\CrystalDecisions.ReportSource.dll
+D:\SISTEMAS\DESARROLLO\QuipuPOS\sgv_ventas\bin\Debug\CrystalDecisions.Shared.dll
+D:\SISTEMAS\DESARROLLO\QuipuPOS\sgv_ventas\bin\Debug\CrystalDecisions.Windows.Forms.dll
+D:\SISTEMAS\DESARROLLO\QuipuPOS\sgv_ventas\bin\Debug\DevComponents.DotNetBar.Keyboard.dll
+D:\SISTEMAS\DESARROLLO\QuipuPOS\sgv_ventas\bin\Debug\DevComponents.DotNetBar2.dll
+D:\SISTEMAS\DESARROLLO\QuipuPOS\sgv_ventas\bin\Debug\DevExpress.DXCore.Controls.Data.v6.3.dll
+D:\SISTEMAS\DESARROLLO\QuipuPOS\sgv_ventas\bin\Debug\DevExpress.DXCore.Controls.Utils.v6.3.dll
+D:\SISTEMAS\DESARROLLO\QuipuPOS\sgv_ventas\bin\Debug\DevExpress.DXCore.Controls.XtraEditors.v6.3.dll
+D:\SISTEMAS\DESARROLLO\QuipuPOS\sgv_ventas\bin\Debug\ThoughtWorks.QRCode.dll
+D:\SISTEMAS\DESARROLLO\QuipuPOS\sgv_ventas\bin\Debug\CrystalDecisions.ReportAppServer.DataDefModel.dll
+D:\SISTEMAS\DESARROLLO\QuipuPOS\sgv_ventas\bin\Debug\CrystalDecisions.ReportAppServer.ClientDoc.dll
+D:\SISTEMAS\DESARROLLO\QuipuPOS\sgv_ventas\bin\Debug\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+D:\SISTEMAS\DESARROLLO\QuipuPOS\sgv_ventas\bin\Debug\CrystalDecisions.ReportAppServer.Controllers.dll
+D:\SISTEMAS\DESARROLLO\QuipuPOS\sgv_ventas\bin\Debug\CrystalDecisions.ReportAppServer.CommLayer.dll
+D:\SISTEMAS\DESARROLLO\QuipuPOS\sgv_ventas\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+D:\SISTEMAS\DESARROLLO\QuipuPOS\sgv_ventas\bin\Debug\CrystalDecisions.ReportAppServer.Prompting.dll
+D:\SISTEMAS\DESARROLLO\QuipuPOS\sgv_ventas\bin\Debug\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+D:\SISTEMAS\DESARROLLO\QuipuPOS\sgv_ventas\bin\Debug\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+D:\SISTEMAS\DESARROLLO\QuipuPOS\sgv_ventas\bin\Debug\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+D:\SISTEMAS\DESARROLLO\QuipuPOS\sgv_ventas\bin\Debug\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+D:\SISTEMAS\DESARROLLO\QuipuPOS\sgv_ventas\bin\Debug\FlashControlV71.dll
+D:\SISTEMAS\DESARROLLO\QuipuPOS\sgv_ventas\bin\Debug\CrystalDecisions.ReportAppServer.CommonControls.dll
+D:\SISTEMAS\DESARROLLO\QuipuPOS\sgv_ventas\bin\Debug\stdole.dll
+D:\SISTEMAS\DESARROLLO\QuipuPOS\sgv_ventas\bin\Debug\ShockwaveFlashObjects.dll
+D:\SISTEMAS\DESARROLLO\QuipuPOS\sgv_ventas\bin\Debug\DevComponents.DotNetBar.Keyboard.xml
+D:\SISTEMAS\DESARROLLO\QuipuPOS\sgv_ventas\bin\Debug\DevComponents.DotNetBar2.xml
+D:\SISTEMAS\DESARROLLO\QuipuPOS\sgv_ventas\obj\x86\Debug\sgv_ventas.p_ventas_00.resources
+\\192.168.1.200\sistemas\DESARROLLO\QuipuPOS\sgv_ventas\bin\Debug\quipupos.exe.config
+\\192.168.1.200\sistemas\DESARROLLO\QuipuPOS\sgv_ventas\obj\x86\Debug\quipupos.exe
+\\192.168.1.200\sistemas\DESARROLLO\QuipuPOS\sgv_ventas\obj\x86\Debug\quipupos.xml
+\\192.168.1.200\sistemas\DESARROLLO\QuipuPOS\sgv_ventas\obj\x86\Debug\quipupos.pdb
+\\192.168.1.200\sistemas\DESARROLLO\QuipuPOS\sgv_ventas\bin\Debug\quipupos.exe
+\\192.168.1.200\sistemas\DESARROLLO\QuipuPOS\sgv_ventas\bin\Debug\quipupos.pdb
+\\192.168.1.200\sistemas\DESARROLLO\QuipuPOS\sgv_ventas\bin\Debug\quipupos.xml
+\\192.168.1.200\sistemas\DESARROLLO\QuipuPOS\sgv_ventas\bin\Debug\libreriaClases.dll
+\\192.168.1.200\sistemas\DESARROLLO\QuipuPOS\sgv_ventas\bin\Debug\libreriaVentas.dll
+\\192.168.1.200\sistemas\DESARROLLO\QuipuPOS\sgv_ventas\bin\Debug\mControles.dll
+\\192.168.1.200\sistemas\DESARROLLO\QuipuPOS\sgv_ventas\bin\Debug\MySql.Data.dll
+\\192.168.1.200\sistemas\DESARROLLO\QuipuPOS\sgv_ventas\bin\Debug\ThoughtWorks.QRCode.dll
+\\192.168.1.200\sistemas\DESARROLLO\QuipuPOS\sgv_ventas\bin\Debug\stdole.dll
+\\192.168.1.200\sistemas\DESARROLLO\QuipuPOS\sgv_ventas\bin\Debug\libreriaVentas.pdb
+\\192.168.1.200\sistemas\DESARROLLO\QuipuPOS\sgv_ventas\bin\Debug\libreriaVentas.xml
+\\192.168.1.200\sistemas\DESARROLLO\QuipuPOS\sgv_ventas\bin\Debug\DevComponents.DotNetBar.Keyboard.xml
+\\192.168.1.200\sistemas\DESARROLLO\QuipuPOS\sgv_ventas\bin\Debug\DevComponents.DotNetBar2.xml
+\\192.168.1.200\sistemas\DESARROLLO\QuipuPOS\sgv_ventas\obj\x86\Debug\sgv_ventas.vbprojResolveAssemblyReference.cache
+\\192.168.1.200\sistemas\DESARROLLO\QuipuPOS\sgv_ventas\obj\x86\Debug\sgv_ventas.base.resources
+\\192.168.1.200\sistemas\DESARROLLO\QuipuPOS\sgv_ventas\obj\x86\Debug\sgv_ventas.baseReporte.resources
+\\192.168.1.200\sistemas\DESARROLLO\QuipuPOS\sgv_ventas\obj\x86\Debug\sgv_ventas.c_ventas.resources
+\\192.168.1.200\sistemas\DESARROLLO\QuipuPOS\sgv_ventas\obj\x86\Debug\sgv_ventas.p_receta.resources
+\\192.168.1.200\sistemas\DESARROLLO\QuipuPOS\sgv_ventas\obj\x86\Debug\sgv_ventas.p_mesas.resources
+\\192.168.1.200\sistemas\DESARROLLO\QuipuPOS\sgv_ventas\obj\x86\Debug\sgv_ventas.Login.resources
+\\192.168.1.200\sistemas\DESARROLLO\QuipuPOS\sgv_ventas\obj\x86\Debug\sgv_ventas.Menu.resources
+\\192.168.1.200\sistemas\DESARROLLO\QuipuPOS\sgv_ventas\obj\x86\Debug\sgv_ventas.mesas.resources
+\\192.168.1.200\sistemas\DESARROLLO\QuipuPOS\sgv_ventas\obj\x86\Debug\sgv_ventas.panel_reportes.resources
+\\192.168.1.200\sistemas\DESARROLLO\QuipuPOS\sgv_ventas\obj\x86\Debug\sgv_ventas.panel_proceso.resources
+\\192.168.1.200\sistemas\DESARROLLO\QuipuPOS\sgv_ventas\obj\x86\Debug\sgv_ventas.principal.resources
+\\192.168.1.200\sistemas\DESARROLLO\QuipuPOS\sgv_ventas\obj\x86\Debug\sgv_ventas.p_caja.resources
+\\192.168.1.200\sistemas\DESARROLLO\QuipuPOS\sgv_ventas\obj\x86\Debug\sgv_ventas.p_notas.resources
+\\192.168.1.200\sistemas\DESARROLLO\QuipuPOS\sgv_ventas\obj\x86\Debug\sgv_ventas.p_ventas_00.resources
+\\192.168.1.200\sistemas\DESARROLLO\QuipuPOS\sgv_ventas\obj\x86\Debug\sgv_ventas.rptForm.resources
+\\192.168.1.200\sistemas\DESARROLLO\QuipuPOS\sgv_ventas\obj\x86\Debug\sgv_ventas.u_CambioFecha.resources
+\\192.168.1.200\sistemas\DESARROLLO\QuipuPOS\sgv_ventas\obj\x86\Debug\sgv_ventas.Resources.resources
+\\192.168.1.200\sistemas\DESARROLLO\QuipuPOS\sgv_ventas\obj\x86\Debug\sgv_ventas.panel_venta1.resources
+\\192.168.1.200\sistemas\DESARROLLO\QuipuPOS\sgv_ventas\obj\x86\Debug\sgv_ventas.vbproj.GenerateResource.Cache
+\\192.168.1.199\sistemas\DESARROLLO\QuipuPOS\sgv_ventas\bin\Debug\quipupos.exe.config
+\\192.168.1.199\sistemas\DESARROLLO\QuipuPOS\sgv_ventas\obj\x86\Debug\quipupos.exe
+\\192.168.1.199\sistemas\DESARROLLO\QuipuPOS\sgv_ventas\obj\x86\Debug\quipupos.xml
+\\192.168.1.199\sistemas\DESARROLLO\QuipuPOS\sgv_ventas\obj\x86\Debug\quipupos.pdb
+\\192.168.1.199\sistemas\DESARROLLO\QuipuPOS\sgv_ventas\bin\Debug\quipupos.exe
+\\192.168.1.199\sistemas\DESARROLLO\QuipuPOS\sgv_ventas\bin\Debug\quipupos.pdb
+\\192.168.1.199\sistemas\DESARROLLO\QuipuPOS\sgv_ventas\bin\Debug\quipupos.xml
+\\192.168.1.199\sistemas\DESARROLLO\QuipuPOS\sgv_ventas\bin\Debug\libreriaClases.dll
+\\192.168.1.199\sistemas\DESARROLLO\QuipuPOS\sgv_ventas\bin\Debug\libreriaVentas.dll
+\\192.168.1.199\sistemas\DESARROLLO\QuipuPOS\sgv_ventas\bin\Debug\mControles.dll
+\\192.168.1.199\sistemas\DESARROLLO\QuipuPOS\sgv_ventas\bin\Debug\ThoughtWorks.QRCode.dll
+\\192.168.1.199\sistemas\DESARROLLO\QuipuPOS\sgv_ventas\bin\Debug\stdole.dll
+\\192.168.1.199\sistemas\DESARROLLO\QuipuPOS\sgv_ventas\bin\Debug\libreriaVentas.pdb
+\\192.168.1.199\sistemas\DESARROLLO\QuipuPOS\sgv_ventas\bin\Debug\libreriaVentas.xml
+\\192.168.1.199\sistemas\DESARROLLO\QuipuPOS\sgv_ventas\obj\x86\Debug\sgv_ventas.vbprojResolveAssemblyReference.cache
+\\192.168.1.199\sistemas\DESARROLLO\QuipuPOS\sgv_ventas\obj\x86\Debug\sgv_ventas.base.resources
+\\192.168.1.199\sistemas\DESARROLLO\QuipuPOS\sgv_ventas\obj\x86\Debug\sgv_ventas.baseReporte.resources
+\\192.168.1.199\sistemas\DESARROLLO\QuipuPOS\sgv_ventas\obj\x86\Debug\sgv_ventas.c_ventas.resources
+\\192.168.1.199\sistemas\DESARROLLO\QuipuPOS\sgv_ventas\obj\x86\Debug\sgv_ventas.p_receta.resources
+\\192.168.1.199\sistemas\DESARROLLO\QuipuPOS\sgv_ventas\obj\x86\Debug\sgv_ventas.p_mesas.resources
+\\192.168.1.199\sistemas\DESARROLLO\QuipuPOS\sgv_ventas\obj\x86\Debug\sgv_ventas.Login.resources
+\\192.168.1.199\sistemas\DESARROLLO\QuipuPOS\sgv_ventas\obj\x86\Debug\sgv_ventas.Menu.resources
+\\192.168.1.199\sistemas\DESARROLLO\QuipuPOS\sgv_ventas\obj\x86\Debug\sgv_ventas.mesas.resources
+\\192.168.1.199\sistemas\DESARROLLO\QuipuPOS\sgv_ventas\obj\x86\Debug\sgv_ventas.panel_reportes.resources
+\\192.168.1.199\sistemas\DESARROLLO\QuipuPOS\sgv_ventas\obj\x86\Debug\sgv_ventas.panel_proceso.resources
+\\192.168.1.199\sistemas\DESARROLLO\QuipuPOS\sgv_ventas\obj\x86\Debug\sgv_ventas.principal.resources
+\\192.168.1.199\sistemas\DESARROLLO\QuipuPOS\sgv_ventas\obj\x86\Debug\sgv_ventas.p_caja.resources
+\\192.168.1.199\sistemas\DESARROLLO\QuipuPOS\sgv_ventas\obj\x86\Debug\sgv_ventas.p_notas.resources
+\\192.168.1.199\sistemas\DESARROLLO\QuipuPOS\sgv_ventas\obj\x86\Debug\sgv_ventas.p_ventas_00.resources
+\\192.168.1.199\sistemas\DESARROLLO\QuipuPOS\sgv_ventas\obj\x86\Debug\sgv_ventas.rptForm.resources
+\\192.168.1.199\sistemas\DESARROLLO\QuipuPOS\sgv_ventas\obj\x86\Debug\sgv_ventas.u_CambioFecha.resources
+\\192.168.1.199\sistemas\DESARROLLO\QuipuPOS\sgv_ventas\obj\x86\Debug\sgv_ventas.Resources.resources
+\\192.168.1.199\sistemas\DESARROLLO\QuipuPOS\sgv_ventas\obj\x86\Debug\sgv_ventas.panel_venta1.resources
+\\192.168.1.199\sistemas\DESARROLLO\QuipuPOS\sgv_ventas\obj\x86\Debug\sgv_ventas.vbproj.GenerateResource.Cache
+\\192.168.1.199\sistemas\DESARROLLO\QuipuPOS\sgv_ventas\bin\Debug\DevComponents.DotNetBar.Keyboard.dll
+\\192.168.1.199\sistemas\DESARROLLO\QuipuPOS\sgv_ventas\bin\Debug\DevComponents.DotNetBar2.dll
+\\192.168.1.199\sistemas\DESARROLLO\QuipuPOS\sgv_ventas\bin\Debug\DevComponents.DotNetBar.Keyboard.xml
+\\192.168.1.199\sistemas\DESARROLLO\QuipuPOS\sgv_ventas\bin\Debug\DevComponents.DotNetBar2.xml
+D:\SISTEMAS\DESARROLLO\QuipuPOS\sgv_ventas\bin\Debug\MySql.Data.dll
+\\192.168.1.199\sistemas\DESARROLLO\QuipuPOS\sgv_ventas\bin\Debug\CrystalDecisions.CrystalReports.Engine.dll
+\\192.168.1.199\sistemas\DESARROLLO\QuipuPOS\sgv_ventas\bin\Debug\CrystalDecisions.ReportSource.dll
+\\192.168.1.199\sistemas\DESARROLLO\QuipuPOS\sgv_ventas\bin\Debug\CrystalDecisions.Shared.dll
+\\192.168.1.199\sistemas\DESARROLLO\QuipuPOS\sgv_ventas\bin\Debug\CrystalDecisions.Windows.Forms.dll
+\\192.168.1.199\sistemas\DESARROLLO\QuipuPOS\sgv_ventas\bin\Debug\CrystalDecisions.ReportAppServer.DataDefModel.dll
+\\192.168.1.199\sistemas\DESARROLLO\QuipuPOS\sgv_ventas\bin\Debug\CrystalDecisions.ReportAppServer.ClientDoc.dll
+\\192.168.1.199\sistemas\DESARROLLO\QuipuPOS\sgv_ventas\bin\Debug\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+\\192.168.1.199\sistemas\DESARROLLO\QuipuPOS\sgv_ventas\bin\Debug\CrystalDecisions.ReportAppServer.Controllers.dll
+\\192.168.1.199\sistemas\DESARROLLO\QuipuPOS\sgv_ventas\bin\Debug\CrystalDecisions.ReportAppServer.CommLayer.dll
+\\192.168.1.199\sistemas\DESARROLLO\QuipuPOS\sgv_ventas\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+\\192.168.1.199\sistemas\DESARROLLO\QuipuPOS\sgv_ventas\bin\Debug\CrystalDecisions.ReportAppServer.Prompting.dll
+\\192.168.1.199\sistemas\DESARROLLO\QuipuPOS\sgv_ventas\bin\Debug\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+\\192.168.1.199\sistemas\DESARROLLO\QuipuPOS\sgv_ventas\bin\Debug\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+\\192.168.1.199\sistemas\DESARROLLO\QuipuPOS\sgv_ventas\bin\Debug\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+\\192.168.1.199\sistemas\DESARROLLO\QuipuPOS\sgv_ventas\bin\Debug\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+\\192.168.1.199\sistemas\DESARROLLO\QuipuPOS\sgv_ventas\bin\Debug\FlashControlV71.dll
+\\192.168.1.199\sistemas\DESARROLLO\QuipuPOS\sgv_ventas\bin\Debug\CrystalDecisions.ReportAppServer.CommonControls.dll
+\\192.168.1.199\sistemas\DESARROLLO\QuipuPOS\sgv_ventas\bin\Debug\ShockwaveFlashObjects.dll
+G:\4_04_2019\QuipuPOS\sgv_ventas\bin\Debug\quipupos.exe.config
+G:\4_04_2019\QuipuPOS\sgv_ventas\obj\x86\Debug\quipupos.exe
+G:\4_04_2019\QuipuPOS\sgv_ventas\obj\x86\Debug\quipupos.xml
+G:\4_04_2019\QuipuPOS\sgv_ventas\obj\x86\Debug\quipupos.pdb
+G:\4_04_2019\QuipuPOS\sgv_ventas\bin\Debug\quipupos.exe
+G:\4_04_2019\QuipuPOS\sgv_ventas\bin\Debug\quipupos.pdb
+G:\4_04_2019\QuipuPOS\sgv_ventas\bin\Debug\quipupos.xml
+G:\4_04_2019\QuipuPOS\sgv_ventas\bin\Debug\CrystalDecisions.CrystalReports.Engine.dll
+G:\4_04_2019\QuipuPOS\sgv_ventas\bin\Debug\CrystalDecisions.ReportSource.dll
+G:\4_04_2019\QuipuPOS\sgv_ventas\bin\Debug\CrystalDecisions.Shared.dll
+G:\4_04_2019\QuipuPOS\sgv_ventas\bin\Debug\CrystalDecisions.Windows.Forms.dll
+G:\4_04_2019\QuipuPOS\sgv_ventas\bin\Debug\DevComponents.DotNetBar.Keyboard.dll
+G:\4_04_2019\QuipuPOS\sgv_ventas\bin\Debug\DevComponents.DotNetBar2.dll
+G:\4_04_2019\QuipuPOS\sgv_ventas\bin\Debug\libreriaClases.dll
+G:\4_04_2019\QuipuPOS\sgv_ventas\bin\Debug\libreriaVentas.dll
+G:\4_04_2019\QuipuPOS\sgv_ventas\bin\Debug\mControles.dll
+G:\4_04_2019\QuipuPOS\sgv_ventas\bin\Debug\ThoughtWorks.QRCode.dll
+G:\4_04_2019\QuipuPOS\sgv_ventas\bin\Debug\CrystalDecisions.ReportAppServer.DataDefModel.dll
+G:\4_04_2019\QuipuPOS\sgv_ventas\bin\Debug\CrystalDecisions.ReportAppServer.ClientDoc.dll
+G:\4_04_2019\QuipuPOS\sgv_ventas\bin\Debug\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+G:\4_04_2019\QuipuPOS\sgv_ventas\bin\Debug\CrystalDecisions.ReportAppServer.Controllers.dll
+G:\4_04_2019\QuipuPOS\sgv_ventas\bin\Debug\CrystalDecisions.ReportAppServer.CommLayer.dll
+G:\4_04_2019\QuipuPOS\sgv_ventas\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+G:\4_04_2019\QuipuPOS\sgv_ventas\bin\Debug\CrystalDecisions.ReportAppServer.Prompting.dll
+G:\4_04_2019\QuipuPOS\sgv_ventas\bin\Debug\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+G:\4_04_2019\QuipuPOS\sgv_ventas\bin\Debug\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+G:\4_04_2019\QuipuPOS\sgv_ventas\bin\Debug\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+G:\4_04_2019\QuipuPOS\sgv_ventas\bin\Debug\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+G:\4_04_2019\QuipuPOS\sgv_ventas\bin\Debug\FlashControlV71.dll
+G:\4_04_2019\QuipuPOS\sgv_ventas\bin\Debug\CrystalDecisions.ReportAppServer.CommonControls.dll
+G:\4_04_2019\QuipuPOS\sgv_ventas\bin\Debug\stdole.dll
+G:\4_04_2019\QuipuPOS\sgv_ventas\bin\Debug\ShockwaveFlashObjects.dll
+G:\4_04_2019\QuipuPOS\sgv_ventas\bin\Debug\libreriaVentas.pdb
+G:\4_04_2019\QuipuPOS\sgv_ventas\bin\Debug\libreriaVentas.xml
+G:\4_04_2019\QuipuPOS\sgv_ventas\bin\Debug\DevComponents.DotNetBar.Keyboard.xml
+G:\4_04_2019\QuipuPOS\sgv_ventas\bin\Debug\DevComponents.DotNetBar2.xml
+G:\4_04_2019\QuipuPOS\sgv_ventas\obj\x86\Debug\sgv_ventas.vbprojResolveAssemblyReference.cache
+G:\4_04_2019\QuipuPOS\sgv_ventas\obj\x86\Debug\sgv_ventas.base.resources
+G:\4_04_2019\QuipuPOS\sgv_ventas\obj\x86\Debug\sgv_ventas.baseReporte.resources
+G:\4_04_2019\QuipuPOS\sgv_ventas\obj\x86\Debug\sgv_ventas.c_ventas.resources
+G:\4_04_2019\QuipuPOS\sgv_ventas\obj\x86\Debug\sgv_ventas.p_receta.resources
+G:\4_04_2019\QuipuPOS\sgv_ventas\obj\x86\Debug\sgv_ventas.p_mesas.resources
+G:\4_04_2019\QuipuPOS\sgv_ventas\obj\x86\Debug\sgv_ventas.Login.resources
+G:\4_04_2019\QuipuPOS\sgv_ventas\obj\x86\Debug\sgv_ventas.Menu.resources
+G:\4_04_2019\QuipuPOS\sgv_ventas\obj\x86\Debug\sgv_ventas.mesas.resources
+G:\4_04_2019\QuipuPOS\sgv_ventas\obj\x86\Debug\sgv_ventas.panel_reportes.resources
+G:\4_04_2019\QuipuPOS\sgv_ventas\obj\x86\Debug\sgv_ventas.panel_proceso.resources
+G:\4_04_2019\QuipuPOS\sgv_ventas\obj\x86\Debug\sgv_ventas.principal.resources
+G:\4_04_2019\QuipuPOS\sgv_ventas\obj\x86\Debug\sgv_ventas.p_caja.resources
+G:\4_04_2019\QuipuPOS\sgv_ventas\obj\x86\Debug\sgv_ventas.p_notas.resources
+G:\4_04_2019\QuipuPOS\sgv_ventas\obj\x86\Debug\sgv_ventas.p_ventas_00.resources
+G:\4_04_2019\QuipuPOS\sgv_ventas\obj\x86\Debug\sgv_ventas.rptForm.resources
+G:\4_04_2019\QuipuPOS\sgv_ventas\obj\x86\Debug\sgv_ventas.u_CambioFecha.resources
+G:\4_04_2019\QuipuPOS\sgv_ventas\obj\x86\Debug\sgv_ventas.Resources.resources
+G:\4_04_2019\QuipuPOS\sgv_ventas\obj\x86\Debug\sgv_ventas.panel_venta1.resources
+G:\4_04_2019\QuipuPOS\sgv_ventas\obj\x86\Debug\sgv_ventas.vbproj.GenerateResource.Cache
+D:\compartir\SISTEMAS\QuipuPOS\sgv_ventas\bin\Debug\quipupos.exe.config
+D:\compartir\SISTEMAS\QuipuPOS\sgv_ventas\bin\Debug\quipupos.exe
+D:\compartir\SISTEMAS\QuipuPOS\sgv_ventas\bin\Debug\quipupos.pdb
+D:\compartir\SISTEMAS\QuipuPOS\sgv_ventas\bin\Debug\quipupos.xml
+D:\compartir\SISTEMAS\QuipuPOS\sgv_ventas\bin\Debug\CrystalDecisions.CrystalReports.Engine.dll
+D:\compartir\SISTEMAS\QuipuPOS\sgv_ventas\bin\Debug\CrystalDecisions.ReportSource.dll
+D:\compartir\SISTEMAS\QuipuPOS\sgv_ventas\bin\Debug\CrystalDecisions.Shared.dll
+D:\compartir\SISTEMAS\QuipuPOS\sgv_ventas\bin\Debug\CrystalDecisions.Windows.Forms.dll
+D:\compartir\SISTEMAS\QuipuPOS\sgv_ventas\bin\Debug\DevComponents.DotNetBar.Keyboard.dll
+D:\compartir\SISTEMAS\QuipuPOS\sgv_ventas\bin\Debug\DevComponents.DotNetBar2.dll
+D:\compartir\SISTEMAS\QuipuPOS\sgv_ventas\bin\Debug\DevExpress.DXCore.Controls.Data.v6.3.dll
+D:\compartir\SISTEMAS\QuipuPOS\sgv_ventas\bin\Debug\DevExpress.DXCore.Controls.Utils.v6.3.dll
+D:\compartir\SISTEMAS\QuipuPOS\sgv_ventas\bin\Debug\DevExpress.DXCore.Controls.XtraEditors.v6.3.dll
+D:\compartir\SISTEMAS\QuipuPOS\sgv_ventas\bin\Debug\libreriaClases.dll
+D:\compartir\SISTEMAS\QuipuPOS\sgv_ventas\bin\Debug\libreriaVentas.dll
+D:\compartir\SISTEMAS\QuipuPOS\sgv_ventas\bin\Debug\mControles.dll
+D:\compartir\SISTEMAS\QuipuPOS\sgv_ventas\bin\Debug\MySql.Data.dll
+D:\compartir\SISTEMAS\QuipuPOS\sgv_ventas\bin\Debug\ThoughtWorks.QRCode.dll
+D:\compartir\SISTEMAS\QuipuPOS\sgv_ventas\bin\Debug\CrystalDecisions.ReportAppServer.DataDefModel.dll
+D:\compartir\SISTEMAS\QuipuPOS\sgv_ventas\bin\Debug\CrystalDecisions.ReportAppServer.ClientDoc.dll
+D:\compartir\SISTEMAS\QuipuPOS\sgv_ventas\bin\Debug\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+D:\compartir\SISTEMAS\QuipuPOS\sgv_ventas\bin\Debug\CrystalDecisions.ReportAppServer.Controllers.dll
+D:\compartir\SISTEMAS\QuipuPOS\sgv_ventas\bin\Debug\CrystalDecisions.ReportAppServer.CommLayer.dll
+D:\compartir\SISTEMAS\QuipuPOS\sgv_ventas\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+D:\compartir\SISTEMAS\QuipuPOS\sgv_ventas\bin\Debug\CrystalDecisions.ReportAppServer.Prompting.dll
+D:\compartir\SISTEMAS\QuipuPOS\sgv_ventas\bin\Debug\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+D:\compartir\SISTEMAS\QuipuPOS\sgv_ventas\bin\Debug\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+D:\compartir\SISTEMAS\QuipuPOS\sgv_ventas\bin\Debug\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+D:\compartir\SISTEMAS\QuipuPOS\sgv_ventas\bin\Debug\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+D:\compartir\SISTEMAS\QuipuPOS\sgv_ventas\bin\Debug\FlashControlV71.dll
+D:\compartir\SISTEMAS\QuipuPOS\sgv_ventas\bin\Debug\CrystalDecisions.ReportAppServer.CommonControls.dll
+D:\compartir\SISTEMAS\QuipuPOS\sgv_ventas\bin\Debug\stdole.dll
+D:\compartir\SISTEMAS\QuipuPOS\sgv_ventas\bin\Debug\ShockwaveFlashObjects.dll
+D:\compartir\SISTEMAS\QuipuPOS\sgv_ventas\bin\Debug\libreriaVentas.pdb
+D:\compartir\SISTEMAS\QuipuPOS\sgv_ventas\bin\Debug\libreriaVentas.xml
+D:\compartir\SISTEMAS\QuipuPOS\sgv_ventas\bin\Debug\DevComponents.DotNetBar.Keyboard.xml
+D:\compartir\SISTEMAS\QuipuPOS\sgv_ventas\bin\Debug\DevComponents.DotNetBar2.xml
+D:\compartir\SISTEMAS\QuipuPOS\sgv_ventas\obj\x86\Debug\sgv_ventas.vbprojResolveAssemblyReference.cache
+D:\compartir\SISTEMAS\QuipuPOS\sgv_ventas\obj\x86\Debug\sgv_ventas.base.resources
+D:\compartir\SISTEMAS\QuipuPOS\sgv_ventas\obj\x86\Debug\sgv_ventas.baseReporte.resources
+D:\compartir\SISTEMAS\QuipuPOS\sgv_ventas\obj\x86\Debug\sgv_ventas.c_ventas.resources
+D:\compartir\SISTEMAS\QuipuPOS\sgv_ventas\obj\x86\Debug\sgv_ventas.p_receta.resources
+D:\compartir\SISTEMAS\QuipuPOS\sgv_ventas\obj\x86\Debug\sgv_ventas.p_mesas.resources
+D:\compartir\SISTEMAS\QuipuPOS\sgv_ventas\obj\x86\Debug\sgv_ventas.Login.resources
+D:\compartir\SISTEMAS\QuipuPOS\sgv_ventas\obj\x86\Debug\sgv_ventas.Menu.resources
+D:\compartir\SISTEMAS\QuipuPOS\sgv_ventas\obj\x86\Debug\sgv_ventas.mesas.resources
+D:\compartir\SISTEMAS\QuipuPOS\sgv_ventas\obj\x86\Debug\sgv_ventas.panel_reportes.resources
+D:\compartir\SISTEMAS\QuipuPOS\sgv_ventas\obj\x86\Debug\sgv_ventas.panel_proceso.resources
+D:\compartir\SISTEMAS\QuipuPOS\sgv_ventas\obj\x86\Debug\sgv_ventas.principal.resources
+D:\compartir\SISTEMAS\QuipuPOS\sgv_ventas\obj\x86\Debug\sgv_ventas.p_caja.resources
+D:\compartir\SISTEMAS\QuipuPOS\sgv_ventas\obj\x86\Debug\sgv_ventas.p_notas.resources
+D:\compartir\SISTEMAS\QuipuPOS\sgv_ventas\obj\x86\Debug\sgv_ventas.p_ventas_00.resources
+D:\compartir\SISTEMAS\QuipuPOS\sgv_ventas\obj\x86\Debug\sgv_ventas.rptForm.resources
+D:\compartir\SISTEMAS\QuipuPOS\sgv_ventas\obj\x86\Debug\sgv_ventas.u_CambioFecha.resources
+D:\compartir\SISTEMAS\QuipuPOS\sgv_ventas\obj\x86\Debug\sgv_ventas.Resources.resources
+D:\compartir\SISTEMAS\QuipuPOS\sgv_ventas\obj\x86\Debug\sgv_ventas.panel_venta1.resources
+D:\compartir\SISTEMAS\QuipuPOS\sgv_ventas\obj\x86\Debug\sgv_ventas.vbproj.GenerateResource.Cache
+D:\compartir\SISTEMAS\QuipuPOS\sgv_ventas\obj\x86\Debug\quipupos.exe
+D:\compartir\SISTEMAS\QuipuPOS\sgv_ventas\obj\x86\Debug\quipupos.xml
+D:\compartir\SISTEMAS\QuipuPOS\sgv_ventas\obj\x86\Debug\quipupos.pdb
+D:\mtaco\desarrollo\QuipuPOS\sgv_ventas\bin\Debug\quipupos.exe.config
+D:\mtaco\desarrollo\QuipuPOS\sgv_ventas\obj\x86\Debug\quipupos.exe
+D:\mtaco\desarrollo\QuipuPOS\sgv_ventas\obj\x86\Debug\quipupos.xml
+D:\mtaco\desarrollo\QuipuPOS\sgv_ventas\obj\x86\Debug\quipupos.pdb
+D:\mtaco\desarrollo\QuipuPOS\sgv_ventas\bin\Debug\quipupos.exe
+D:\mtaco\desarrollo\QuipuPOS\sgv_ventas\bin\Debug\quipupos.pdb
+D:\mtaco\desarrollo\QuipuPOS\sgv_ventas\bin\Debug\quipupos.xml
+D:\mtaco\desarrollo\QuipuPOS\sgv_ventas\bin\Debug\CrystalDecisions.CrystalReports.Engine.dll
+D:\mtaco\desarrollo\QuipuPOS\sgv_ventas\bin\Debug\CrystalDecisions.ReportSource.dll
+D:\mtaco\desarrollo\QuipuPOS\sgv_ventas\bin\Debug\CrystalDecisions.Shared.dll
+D:\mtaco\desarrollo\QuipuPOS\sgv_ventas\bin\Debug\CrystalDecisions.Windows.Forms.dll
+D:\mtaco\desarrollo\QuipuPOS\sgv_ventas\bin\Debug\DevComponents.DotNetBar.Keyboard.dll
+D:\mtaco\desarrollo\QuipuPOS\sgv_ventas\bin\Debug\DevComponents.DotNetBar2.dll
+D:\mtaco\desarrollo\QuipuPOS\sgv_ventas\bin\Debug\DevExpress.DXCore.Controls.Data.v6.3.dll
+D:\mtaco\desarrollo\QuipuPOS\sgv_ventas\bin\Debug\DevExpress.DXCore.Controls.Utils.v6.3.dll
+D:\mtaco\desarrollo\QuipuPOS\sgv_ventas\bin\Debug\DevExpress.DXCore.Controls.XtraEditors.v6.3.dll
+D:\mtaco\desarrollo\QuipuPOS\sgv_ventas\bin\Debug\libreriaClases.dll
+D:\mtaco\desarrollo\QuipuPOS\sgv_ventas\bin\Debug\libreriaVentas.dll
+D:\mtaco\desarrollo\QuipuPOS\sgv_ventas\bin\Debug\mControles.dll
+D:\mtaco\desarrollo\QuipuPOS\sgv_ventas\bin\Debug\MySql.Data.dll
+D:\mtaco\desarrollo\QuipuPOS\sgv_ventas\bin\Debug\ThoughtWorks.QRCode.dll
+D:\mtaco\desarrollo\QuipuPOS\sgv_ventas\bin\Debug\CrystalDecisions.ReportAppServer.DataDefModel.dll
+D:\mtaco\desarrollo\QuipuPOS\sgv_ventas\bin\Debug\CrystalDecisions.ReportAppServer.ClientDoc.dll
+D:\mtaco\desarrollo\QuipuPOS\sgv_ventas\bin\Debug\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+D:\mtaco\desarrollo\QuipuPOS\sgv_ventas\bin\Debug\CrystalDecisions.ReportAppServer.Controllers.dll
+D:\mtaco\desarrollo\QuipuPOS\sgv_ventas\bin\Debug\CrystalDecisions.ReportAppServer.CommLayer.dll
+D:\mtaco\desarrollo\QuipuPOS\sgv_ventas\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+D:\mtaco\desarrollo\QuipuPOS\sgv_ventas\bin\Debug\CrystalDecisions.ReportAppServer.Prompting.dll
+D:\mtaco\desarrollo\QuipuPOS\sgv_ventas\bin\Debug\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+D:\mtaco\desarrollo\QuipuPOS\sgv_ventas\bin\Debug\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+D:\mtaco\desarrollo\QuipuPOS\sgv_ventas\bin\Debug\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+D:\mtaco\desarrollo\QuipuPOS\sgv_ventas\bin\Debug\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+D:\mtaco\desarrollo\QuipuPOS\sgv_ventas\bin\Debug\FlashControlV71.dll
+D:\mtaco\desarrollo\QuipuPOS\sgv_ventas\bin\Debug\CrystalDecisions.ReportAppServer.CommonControls.dll
+D:\mtaco\desarrollo\QuipuPOS\sgv_ventas\bin\Debug\stdole.dll
+D:\mtaco\desarrollo\QuipuPOS\sgv_ventas\bin\Debug\ShockwaveFlashObjects.dll
+D:\mtaco\desarrollo\QuipuPOS\sgv_ventas\bin\Debug\libreriaVentas.pdb
+D:\mtaco\desarrollo\QuipuPOS\sgv_ventas\bin\Debug\libreriaVentas.xml
+D:\mtaco\desarrollo\QuipuPOS\sgv_ventas\bin\Debug\DevComponents.DotNetBar.Keyboard.xml
+D:\mtaco\desarrollo\QuipuPOS\sgv_ventas\bin\Debug\DevComponents.DotNetBar2.xml
+D:\mtaco\desarrollo\QuipuPOS\sgv_ventas\obj\x86\Debug\sgv_ventas.vbprojResolveAssemblyReference.cache
+D:\mtaco\desarrollo\QuipuPOS\sgv_ventas\obj\x86\Debug\sgv_ventas.base.resources
+D:\mtaco\desarrollo\QuipuPOS\sgv_ventas\obj\x86\Debug\sgv_ventas.baseReporte.resources
+D:\mtaco\desarrollo\QuipuPOS\sgv_ventas\obj\x86\Debug\sgv_ventas.c_ventas.resources
+D:\mtaco\desarrollo\QuipuPOS\sgv_ventas\obj\x86\Debug\sgv_ventas.p_receta.resources
+D:\mtaco\desarrollo\QuipuPOS\sgv_ventas\obj\x86\Debug\sgv_ventas.p_mesas.resources
+D:\mtaco\desarrollo\QuipuPOS\sgv_ventas\obj\x86\Debug\sgv_ventas.Login.resources
+D:\mtaco\desarrollo\QuipuPOS\sgv_ventas\obj\x86\Debug\sgv_ventas.Menu.resources
+D:\mtaco\desarrollo\QuipuPOS\sgv_ventas\obj\x86\Debug\sgv_ventas.mesas.resources
+D:\mtaco\desarrollo\QuipuPOS\sgv_ventas\obj\x86\Debug\sgv_ventas.panel_reportes.resources
+D:\mtaco\desarrollo\QuipuPOS\sgv_ventas\obj\x86\Debug\sgv_ventas.panel_proceso.resources
+D:\mtaco\desarrollo\QuipuPOS\sgv_ventas\obj\x86\Debug\sgv_ventas.principal.resources
+D:\mtaco\desarrollo\QuipuPOS\sgv_ventas\obj\x86\Debug\sgv_ventas.p_caja.resources
+D:\mtaco\desarrollo\QuipuPOS\sgv_ventas\obj\x86\Debug\sgv_ventas.p_notas.resources
+D:\mtaco\desarrollo\QuipuPOS\sgv_ventas\obj\x86\Debug\sgv_ventas.p_ventas_00.resources
+D:\mtaco\desarrollo\QuipuPOS\sgv_ventas\obj\x86\Debug\sgv_ventas.rptForm.resources
+D:\mtaco\desarrollo\QuipuPOS\sgv_ventas\obj\x86\Debug\sgv_ventas.u_CambioFecha.resources
+D:\mtaco\desarrollo\QuipuPOS\sgv_ventas\obj\x86\Debug\sgv_ventas.Resources.resources
+D:\mtaco\desarrollo\QuipuPOS\sgv_ventas\obj\x86\Debug\sgv_ventas.panel_venta1.resources
+D:\mtaco\desarrollo\QuipuPOS\sgv_ventas\obj\x86\Debug\sgv_ventas.vbproj.GenerateResource.Cache
+F:\desarrollo\QuipuPOS\sgv_ventas\bin\Debug\quipupos.exe.config
+F:\desarrollo\QuipuPOS\sgv_ventas\bin\Debug\quipupos.exe
+F:\desarrollo\QuipuPOS\sgv_ventas\bin\Debug\quipupos.pdb
+F:\desarrollo\QuipuPOS\sgv_ventas\bin\Debug\quipupos.xml
+F:\desarrollo\QuipuPOS\sgv_ventas\bin\Debug\CrystalDecisions.CrystalReports.Engine.dll
+F:\desarrollo\QuipuPOS\sgv_ventas\bin\Debug\CrystalDecisions.ReportSource.dll
+F:\desarrollo\QuipuPOS\sgv_ventas\bin\Debug\CrystalDecisions.Shared.dll
+F:\desarrollo\QuipuPOS\sgv_ventas\bin\Debug\CrystalDecisions.Windows.Forms.dll
+F:\desarrollo\QuipuPOS\sgv_ventas\bin\Debug\DevComponents.DotNetBar.Keyboard.dll
+F:\desarrollo\QuipuPOS\sgv_ventas\bin\Debug\DevComponents.DotNetBar2.dll
+F:\desarrollo\QuipuPOS\sgv_ventas\bin\Debug\DevExpress.DXCore.Controls.Data.v6.3.dll
+F:\desarrollo\QuipuPOS\sgv_ventas\bin\Debug\DevExpress.DXCore.Controls.Utils.v6.3.dll
+F:\desarrollo\QuipuPOS\sgv_ventas\bin\Debug\DevExpress.DXCore.Controls.XtraEditors.v6.3.dll
+F:\desarrollo\QuipuPOS\sgv_ventas\bin\Debug\libreriaClases.dll
+F:\desarrollo\QuipuPOS\sgv_ventas\bin\Debug\libreriaseguridad.dll
+F:\desarrollo\QuipuPOS\sgv_ventas\bin\Debug\libreriaVentas.dll
+F:\desarrollo\QuipuPOS\sgv_ventas\bin\Debug\mControles.dll
+F:\desarrollo\QuipuPOS\sgv_ventas\bin\Debug\MySql.Data.dll
+F:\desarrollo\QuipuPOS\sgv_ventas\bin\Debug\ThoughtWorks.QRCode.dll
+F:\desarrollo\QuipuPOS\sgv_ventas\bin\Debug\CrystalDecisions.ReportAppServer.DataDefModel.dll
+F:\desarrollo\QuipuPOS\sgv_ventas\bin\Debug\CrystalDecisions.ReportAppServer.ClientDoc.dll
+F:\desarrollo\QuipuPOS\sgv_ventas\bin\Debug\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+F:\desarrollo\QuipuPOS\sgv_ventas\bin\Debug\CrystalDecisions.ReportAppServer.Controllers.dll
+F:\desarrollo\QuipuPOS\sgv_ventas\bin\Debug\CrystalDecisions.ReportAppServer.CommLayer.dll
+F:\desarrollo\QuipuPOS\sgv_ventas\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+F:\desarrollo\QuipuPOS\sgv_ventas\bin\Debug\CrystalDecisions.ReportAppServer.Prompting.dll
+F:\desarrollo\QuipuPOS\sgv_ventas\bin\Debug\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+F:\desarrollo\QuipuPOS\sgv_ventas\bin\Debug\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+F:\desarrollo\QuipuPOS\sgv_ventas\bin\Debug\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+F:\desarrollo\QuipuPOS\sgv_ventas\bin\Debug\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+F:\desarrollo\QuipuPOS\sgv_ventas\bin\Debug\FlashControlV71.dll
+F:\desarrollo\QuipuPOS\sgv_ventas\bin\Debug\CrystalDecisions.ReportAppServer.CommonControls.dll
+F:\desarrollo\QuipuPOS\sgv_ventas\bin\Debug\stdole.dll
+F:\desarrollo\QuipuPOS\sgv_ventas\bin\Debug\ShockwaveFlashObjects.dll
+F:\desarrollo\QuipuPOS\sgv_ventas\bin\Debug\libreriaVentas.pdb
+F:\desarrollo\QuipuPOS\sgv_ventas\bin\Debug\libreriaVentas.xml
+F:\desarrollo\QuipuPOS\sgv_ventas\bin\Debug\DevComponents.DotNetBar.Keyboard.xml
+F:\desarrollo\QuipuPOS\sgv_ventas\bin\Debug\DevComponents.DotNetBar2.xml
+F:\desarrollo\QuipuPOS\sgv_ventas\bin\Debug\libreriaseguridad.pdb
+F:\desarrollo\QuipuPOS\sgv_ventas\bin\Debug\libreriaseguridad.xml
+F:\desarrollo\QuipuPOS\sgv_ventas\obj\x86\Debug\sgv_ventas.vbprojResolveAssemblyReference.cache
+F:\desarrollo\QuipuPOS\sgv_ventas\obj\x86\Debug\sgv_ventas.base.resources
+F:\desarrollo\QuipuPOS\sgv_ventas\obj\x86\Debug\sgv_ventas.baseReporte.resources
+F:\desarrollo\QuipuPOS\sgv_ventas\obj\x86\Debug\sgv_ventas.c_ventas.resources
+F:\desarrollo\QuipuPOS\sgv_ventas\obj\x86\Debug\sgv_ventas.p_receta.resources
+F:\desarrollo\QuipuPOS\sgv_ventas\obj\x86\Debug\sgv_ventas.p_mesas.resources
+F:\desarrollo\QuipuPOS\sgv_ventas\obj\x86\Debug\sgv_ventas.Login.resources
+F:\desarrollo\QuipuPOS\sgv_ventas\obj\x86\Debug\sgv_ventas.Menu.resources
+F:\desarrollo\QuipuPOS\sgv_ventas\obj\x86\Debug\sgv_ventas.mesas.resources
+F:\desarrollo\QuipuPOS\sgv_ventas\obj\x86\Debug\sgv_ventas.panel_reportes.resources
+F:\desarrollo\QuipuPOS\sgv_ventas\obj\x86\Debug\sgv_ventas.panel_proceso.resources
+F:\desarrollo\QuipuPOS\sgv_ventas\obj\x86\Debug\sgv_ventas.principal.resources
+F:\desarrollo\QuipuPOS\sgv_ventas\obj\x86\Debug\sgv_ventas.p_caja.resources
+F:\desarrollo\QuipuPOS\sgv_ventas\obj\x86\Debug\sgv_ventas.p_notas.resources
+F:\desarrollo\QuipuPOS\sgv_ventas\obj\x86\Debug\sgv_ventas.p_ventas_00.resources
+F:\desarrollo\QuipuPOS\sgv_ventas\obj\x86\Debug\sgv_ventas.rptForm.resources
+F:\desarrollo\QuipuPOS\sgv_ventas\obj\x86\Debug\sgv_ventas.u_CambioFecha.resources
+F:\desarrollo\QuipuPOS\sgv_ventas\obj\x86\Debug\sgv_ventas.Resources.resources
+F:\desarrollo\QuipuPOS\sgv_ventas\obj\x86\Debug\sgv_ventas.panel_venta1.resources
+F:\desarrollo\QuipuPOS\sgv_ventas\obj\x86\Debug\sgv_ventas.vbproj.GenerateResource.Cache
+F:\desarrollo\QuipuPOS\sgv_ventas\obj\x86\Debug\quipupos.exe
+F:\desarrollo\QuipuPOS\sgv_ventas\obj\x86\Debug\quipupos.xml
+F:\desarrollo\QuipuPOS\sgv_ventas\obj\x86\Debug\quipupos.pdb
+C:\Users\Quipusoftperu\Desktop\mtaco\Desarrollo\QuipuPOS\sgv_ventas\bin\Debug\quipupos.exe.config
+C:\Users\Quipusoftperu\Desktop\mtaco\Desarrollo\QuipuPOS\sgv_ventas\obj\x86\Debug\quipupos.exe
+C:\Users\Quipusoftperu\Desktop\mtaco\Desarrollo\QuipuPOS\sgv_ventas\obj\x86\Debug\quipupos.xml
+C:\Users\Quipusoftperu\Desktop\mtaco\Desarrollo\QuipuPOS\sgv_ventas\obj\x86\Debug\quipupos.pdb
+C:\Desktop\mtaco\Desarrollo\QuipuPOS\sgv_ventas\bin\Debug\CrystalDecisions.CrystalReports.Engine.dll
+C:\Desktop\mtaco\Desarrollo\QuipuPOS\sgv_ventas\bin\Debug\CrystalDecisions.ReportSource.dll
+C:\Desktop\mtaco\Desarrollo\QuipuPOS\sgv_ventas\bin\Debug\CrystalDecisions.Shared.dll
+C:\Desktop\mtaco\Desarrollo\QuipuPOS\sgv_ventas\bin\Debug\CrystalDecisions.Windows.Forms.dll
+C:\Desktop\mtaco\Desarrollo\QuipuPOS\sgv_ventas\bin\Debug\DevComponents.DotNetBar.Keyboard.dll
+C:\Desktop\mtaco\Desarrollo\QuipuPOS\sgv_ventas\bin\Debug\DevComponents.DotNetBar2.dll
+C:\Desktop\mtaco\Desarrollo\QuipuPOS\sgv_ventas\bin\Debug\DevExpress.DXCore.Controls.Data.v6.3.dll
+C:\Desktop\mtaco\Desarrollo\QuipuPOS\sgv_ventas\bin\Debug\DevExpress.DXCore.Controls.Utils.v6.3.dll
+C:\Desktop\mtaco\Desarrollo\QuipuPOS\sgv_ventas\bin\Debug\DevExpress.DXCore.Controls.XtraEditors.v6.3.dll
+C:\Desktop\mtaco\Desarrollo\QuipuPOS\sgv_ventas\bin\Debug\libreriaClases.dll
+C:\Desktop\mtaco\Desarrollo\QuipuPOS\sgv_ventas\bin\Debug\libreriaseguridad.dll
+C:\Desktop\mtaco\Desarrollo\QuipuPOS\sgv_ventas\bin\Debug\libreriaVentas.dll
+C:\Desktop\mtaco\Desarrollo\QuipuPOS\sgv_ventas\bin\Debug\mControles.dll
+C:\Desktop\mtaco\Desarrollo\QuipuPOS\sgv_ventas\bin\Debug\ThoughtWorks.QRCode.dll
+C:\Desktop\mtaco\Desarrollo\QuipuPOS\sgv_ventas\bin\Debug\CrystalDecisions.ReportAppServer.DataDefModel.dll
+C:\Desktop\mtaco\Desarrollo\QuipuPOS\sgv_ventas\bin\Debug\CrystalDecisions.ReportAppServer.ClientDoc.dll
+C:\Desktop\mtaco\Desarrollo\QuipuPOS\sgv_ventas\bin\Debug\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+C:\Desktop\mtaco\Desarrollo\QuipuPOS\sgv_ventas\bin\Debug\CrystalDecisions.ReportAppServer.Controllers.dll
+C:\Desktop\mtaco\Desarrollo\QuipuPOS\sgv_ventas\bin\Debug\CrystalDecisions.ReportAppServer.CommLayer.dll
+C:\Desktop\mtaco\Desarrollo\QuipuPOS\sgv_ventas\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+C:\Desktop\mtaco\Desarrollo\QuipuPOS\sgv_ventas\bin\Debug\CrystalDecisions.ReportAppServer.Prompting.dll
+C:\Desktop\mtaco\Desarrollo\QuipuPOS\sgv_ventas\bin\Debug\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+C:\Desktop\mtaco\Desarrollo\QuipuPOS\sgv_ventas\bin\Debug\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+C:\Desktop\mtaco\Desarrollo\QuipuPOS\sgv_ventas\bin\Debug\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+C:\Desktop\mtaco\Desarrollo\QuipuPOS\sgv_ventas\bin\Debug\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+C:\Desktop\mtaco\Desarrollo\QuipuPOS\sgv_ventas\bin\Debug\FlashControlV71.dll
+C:\Desktop\mtaco\Desarrollo\QuipuPOS\sgv_ventas\bin\Debug\CrystalDecisions.ReportAppServer.CommonControls.dll
+C:\Desktop\mtaco\Desarrollo\QuipuPOS\sgv_ventas\bin\Debug\stdole.dll
+C:\Desktop\mtaco\Desarrollo\QuipuPOS\sgv_ventas\bin\Debug\ShockwaveFlashObjects.dll
+C:\Desktop\mtaco\Desarrollo\QuipuPOS\sgv_ventas\bin\Debug\libreriaVentas.pdb
+C:\Desktop\mtaco\Desarrollo\QuipuPOS\sgv_ventas\bin\Debug\libreriaVentas.xml
+C:\Desktop\mtaco\Desarrollo\QuipuPOS\sgv_ventas\bin\Debug\DevComponents.DotNetBar.Keyboard.xml
+C:\Desktop\mtaco\Desarrollo\QuipuPOS\sgv_ventas\bin\Debug\DevComponents.DotNetBar2.xml
+C:\Desktop\mtaco\Desarrollo\QuipuPOS\sgv_ventas\bin\Debug\libreriaseguridad.pdb
+C:\Desktop\mtaco\Desarrollo\QuipuPOS\sgv_ventas\bin\Debug\libreriaseguridad.xml
+C:\Desktop\mtaco\Desarrollo\QuipuPOS\sgv_ventas\obj\x86\Debug\sgv_ventas.vbprojResolveAssemblyReference.cache
+C:\Desktop\mtaco\Desarrollo\QuipuPOS\sgv_ventas\obj\x86\Debug\sgv_ventas.base.resources
+C:\Desktop\mtaco\Desarrollo\QuipuPOS\sgv_ventas\obj\x86\Debug\sgv_ventas.baseReporte.resources
+C:\Desktop\mtaco\Desarrollo\QuipuPOS\sgv_ventas\obj\x86\Debug\sgv_ventas.c_ventas.resources
+C:\Desktop\mtaco\Desarrollo\QuipuPOS\sgv_ventas\obj\x86\Debug\sgv_ventas.p_receta.resources
+C:\Desktop\mtaco\Desarrollo\QuipuPOS\sgv_ventas\obj\x86\Debug\sgv_ventas.p_mesas.resources
+C:\Desktop\mtaco\Desarrollo\QuipuPOS\sgv_ventas\obj\x86\Debug\sgv_ventas.Login.resources
+C:\Desktop\mtaco\Desarrollo\QuipuPOS\sgv_ventas\obj\x86\Debug\sgv_ventas.Menu.resources
+C:\Desktop\mtaco\Desarrollo\QuipuPOS\sgv_ventas\obj\x86\Debug\sgv_ventas.mesas.resources
+C:\Desktop\mtaco\Desarrollo\QuipuPOS\sgv_ventas\obj\x86\Debug\sgv_ventas.panel_reportes.resources
+C:\Desktop\mtaco\Desarrollo\QuipuPOS\sgv_ventas\obj\x86\Debug\sgv_ventas.panel_proceso.resources
+C:\Desktop\mtaco\Desarrollo\QuipuPOS\sgv_ventas\obj\x86\Debug\sgv_ventas.principal.resources
+C:\Desktop\mtaco\Desarrollo\QuipuPOS\sgv_ventas\obj\x86\Debug\sgv_ventas.p_caja.resources
+C:\Desktop\mtaco\Desarrollo\QuipuPOS\sgv_ventas\obj\x86\Debug\sgv_ventas.p_notas.resources
+C:\Desktop\mtaco\Desarrollo\QuipuPOS\sgv_ventas\obj\x86\Debug\sgv_ventas.p_ventas_00.resources
+C:\Desktop\mtaco\Desarrollo\QuipuPOS\sgv_ventas\obj\x86\Debug\sgv_ventas.rptForm.resources
+C:\Desktop\mtaco\Desarrollo\QuipuPOS\sgv_ventas\obj\x86\Debug\sgv_ventas.u_CambioFecha.resources
+C:\Desktop\mtaco\Desarrollo\QuipuPOS\sgv_ventas\obj\x86\Debug\sgv_ventas.Resources.resources
+C:\Desktop\mtaco\Desarrollo\QuipuPOS\sgv_ventas\obj\x86\Debug\sgv_ventas.panel_venta1.resources
+C:\Desktop\mtaco\Desarrollo\QuipuPOS\sgv_ventas\obj\x86\Debug\sgv_ventas.vbproj.GenerateResource.Cache
+C:\Desktop\mtaco\Desarrollo\QuipuPOS\sgv_ventas\bin\Debug\Qpos.exe.config
+C:\Desktop\mtaco\Desarrollo\QuipuPOS\sgv_ventas\bin\Debug\Qpos.exe
+C:\Desktop\mtaco\Desarrollo\QuipuPOS\sgv_ventas\bin\Debug\Qpos.pdb
+C:\Desktop\mtaco\Desarrollo\QuipuPOS\sgv_ventas\bin\Debug\Qpos.xml
+C:\Desktop\mtaco\Desarrollo\QuipuPOS\sgv_ventas\obj\x86\Debug\Qpos.exe
+C:\Desktop\mtaco\Desarrollo\QuipuPOS\sgv_ventas\obj\x86\Debug\Qpos.xml
+C:\Desktop\mtaco\Desarrollo\QuipuPOS\sgv_ventas\obj\x86\Debug\Qpos.pdb

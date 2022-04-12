@@ -1,0 +1,552 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">x86</Platform>
+    <ProductVersion>
+    </ProductVersion>
+    <SchemaVersion>2.0</SchemaVersion>
+    <ProjectGuid>{7E79C672-BEC6-4A1A-9E30-6895EF2F06A2}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <StartupObject>sgv_ventas.My.MyApplication</StartupObject>
+    <RootNamespace>sgv_ventas</RootNamespace>
+    <AssemblyName>Qpos</AssemblyName>
+    <FileAlignment>512</FileAlignment>
+    <MyType>WindowsForms</MyType>
+    <TargetFrameworkVersion>v4.0</TargetFrameworkVersion>
+    <TargetFrameworkProfile>
+    </TargetFrameworkProfile>
+    <PublishUrl>publicar\</PublishUrl>
+    <Install>true</Install>
+    <InstallFrom>Disk</InstallFrom>
+    <UpdateEnabled>false</UpdateEnabled>
+    <UpdateMode>Foreground</UpdateMode>
+    <UpdateInterval>7</UpdateInterval>
+    <UpdateIntervalUnits>Days</UpdateIntervalUnits>
+    <UpdatePeriodically>false</UpdatePeriodically>
+    <UpdateRequired>false</UpdateRequired>
+    <MapFileExtensions>true</MapFileExtensions>
+    <ApplicationRevision>0</ApplicationRevision>
+    <ApplicationVersion>1.0.0.%2a</ApplicationVersion>
+    <IsWebBootstrapper>false</IsWebBootstrapper>
+    <UseApplicationTrust>false</UseApplicationTrust>
+    <BootstrapperEnabled>true</BootstrapperEnabled>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|x86' ">
+    <PlatformTarget>x86</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <DefineDebug>true</DefineDebug>
+    <DefineTrace>true</DefineTrace>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DocumentationFile>Qpos.xml</DocumentationFile>
+    <NoWarn>42016,41999,42017,42018,42019,42032,42036,42020,42021,42022</NoWarn>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|x86' ">
+    <PlatformTarget>x86</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <DefineDebug>false</DefineDebug>
+    <DefineTrace>true</DefineTrace>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DocumentationFile>Qpos.xml</DocumentationFile>
+    <NoWarn>42016,41999,42017,42018,42019,42032,42036,42020,42021,42022</NoWarn>
+  </PropertyGroup>
+  <PropertyGroup>
+    <OptionExplicit>On</OptionExplicit>
+  </PropertyGroup>
+  <PropertyGroup>
+    <OptionCompare>Binary</OptionCompare>
+  </PropertyGroup>
+  <PropertyGroup>
+    <OptionStrict>Off</OptionStrict>
+  </PropertyGroup>
+  <PropertyGroup>
+    <OptionInfer>On</OptionInfer>
+  </PropertyGroup>
+  <PropertyGroup>
+    <ApplicationIcon>shopping_01.ico</ApplicationIcon>
+  </PropertyGroup>
+  <PropertyGroup>
+    <ApplicationManifest>My Project\app.manifest</ApplicationManifest>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="CrystalDecisions.CrystalReports.Engine, Version=13.0.2000.0, Culture=neutral, PublicKeyToken=692fbea5521e1304, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>C:\Program Files\SAP BusinessObjects\Crystal Reports for .NET Framework 4.0\Common\SAP BusinessObjects Enterprise XI 4.0\win32_x86\dotnet\CrystalDecisions.CrystalReports.Engine.dll</HintPath>
+    </Reference>
+    <Reference Include="CrystalDecisions.ReportSource, Version=13.0.2000.0, Culture=neutral, PublicKeyToken=692fbea5521e1304, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>C:\Program Files\SAP BusinessObjects\Crystal Reports for .NET Framework 4.0\Common\SAP BusinessObjects Enterprise XI 4.0\win32_x86\dotnet\CrystalDecisions.ReportSource.dll</HintPath>
+    </Reference>
+    <Reference Include="CrystalDecisions.Shared, Version=13.0.2000.0, Culture=neutral, PublicKeyToken=692fbea5521e1304, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>C:\Program Files\SAP BusinessObjects\Crystal Reports for .NET Framework 4.0\Common\SAP BusinessObjects Enterprise XI 4.0\win32_x86\dotnet\CrystalDecisions.Shared.dll</HintPath>
+    </Reference>
+    <Reference Include="CrystalDecisions.Windows.Forms, Version=13.0.2000.0, Culture=neutral, PublicKeyToken=692fbea5521e1304, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>C:\Program Files\SAP BusinessObjects\Crystal Reports for .NET Framework 4.0\Common\SAP BusinessObjects Enterprise XI 4.0\win32_x86\dotnet\CrystalDecisions.Windows.Forms.dll</HintPath>
+    </Reference>
+    <Reference Include="DevComponents.DotNetBar.Keyboard, Version=11.3.0.0, Culture=neutral, PublicKeyToken=c39c3242a43eee2b, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\..\Program Files (x86)\DotNetBar for Windows Forms\DevComponents.DotNetBar.Keyboard.dll</HintPath>
+    </Reference>
+    <Reference Include="DevComponents.DotNetBar2, Version=11.3.0.0, Culture=neutral, PublicKeyToken=c39c3242a43eee2b, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\..\Program Files (x86)\DotNetBar for Windows Forms\DevComponents.DotNetBar2.dll</HintPath>
+    </Reference>
+    <Reference Include="DevExpress.DXCore.Controls.Data.v6.3, Version=11.2.10.0, Culture=neutral, PublicKeyToken=35c9f04b7764aa3d, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>C:\Program Files\DevExpress 2011.2\IDETools\System\DXCore\BIN\DevExpress.DXCore.Controls.Data.v6.3.dll</HintPath>
+    </Reference>
+    <Reference Include="DevExpress.DXCore.Controls.Utils.v6.3, Version=11.2.10.0, Culture=neutral, PublicKeyToken=35c9f04b7764aa3d, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>C:\Program Files\DevExpress 2011.2\IDETools\System\DXCore\BIN\DevExpress.DXCore.Controls.Utils.v6.3.dll</HintPath>
+    </Reference>
+    <Reference Include="DevExpress.DXCore.Controls.XtraEditors.v6.3, Version=11.2.10.0, Culture=neutral, PublicKeyToken=35c9f04b7764aa3d, processorArchitecture=MSIL" />
+    <Reference Include="libreriaClases">
+      <HintPath>..\libreriaVentas\bin\Debug\libreriaClases.dll</HintPath>
+    </Reference>
+    <Reference Include="libreriaseguridad">
+      <HintPath>..\..\SGS_seguridad\seguridad\bin\Debug\libreriaseguridad.dll</HintPath>
+    </Reference>
+    <Reference Include="mControles">
+      <HintPath>..\libreriaVentas\bin\Debug\mControles.dll</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.Office.Interop.Excel, Version=14.0.0.0, Culture=neutral, PublicKeyToken=71e9bce111e9429c, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <EmbedInteropTypes>True</EmbedInteropTypes>
+      <HintPath>C:\Windows\assembly\GAC_MSIL\Microsoft.Office.Interop.Excel\14.0.0.0__71e9bce111e9429c\Microsoft.Office.Interop.Excel.dll</HintPath>
+    </Reference>
+    <Reference Include="MySql.Data, Version=6.5.4.0, Culture=neutral, PublicKeyToken=c5687fc88969c44d, processorArchitecture=MSIL" />
+    <Reference Include="System" />
+    <Reference Include="System.Configuration" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Management" />
+    <Reference Include="System.Web.Extensions" />
+    <Reference Include="System.Web.Services" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.XML" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="ThoughtWorks.QRCode">
+      <HintPath>..\libreriaVentas\bin\Debug\ThoughtWorks.QRCode.dll</HintPath>
+    </Reference>
+  </ItemGroup>
+  <ItemGroup>
+    <Import Include="Microsoft.VisualBasic" />
+    <Import Include="System" />
+    <Import Include="System.Collections" />
+    <Import Include="System.Collections.Generic" />
+    <Import Include="System.Data" />
+    <Import Include="System.Drawing" />
+    <Import Include="System.Diagnostics" />
+    <Import Include="System.Windows.Forms" />
+    <Import Include="System.Linq" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="dataset\dsCliente.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>dsCliente.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="dataset\dsCliente.vb">
+      <DependentUpon>dsCliente.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="dataset\dsEmpresa.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>dsEmpresa.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="dataset\dsEmpresa.vb">
+      <DependentUpon>dsEmpresa.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="dataset\dsFactura.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>dsFactura.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="dataset\dsPago.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>dsPago.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="forms\base.Designer.vb">
+      <DependentUpon>base.vb</DependentUpon>
+    </Compile>
+    <Compile Include="forms\base.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="forms\baseReporte.Designer.vb">
+      <DependentUpon>baseReporte.vb</DependentUpon>
+    </Compile>
+    <Compile Include="forms\baseReporte.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="forms\c_ventas.designer.vb">
+      <DependentUpon>c_ventas.vb</DependentUpon>
+    </Compile>
+    <Compile Include="forms\c_ventas.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="forms\p_receta.designer.vb">
+      <DependentUpon>p_receta.vb</DependentUpon>
+    </Compile>
+    <Compile Include="forms\p_receta.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="forms\p_mesas.Designer.vb">
+      <DependentUpon>p_mesas.vb</DependentUpon>
+    </Compile>
+    <Compile Include="forms\p_mesas.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="forms\login.designer.vb">
+      <DependentUpon>login.vb</DependentUpon>
+    </Compile>
+    <Compile Include="forms\login.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="forms\mesas.Designer.vb">
+      <DependentUpon>mesas.vb</DependentUpon>
+    </Compile>
+    <Compile Include="forms\mesas.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="forms\preportes.Designer.vb">
+      <DependentUpon>preportes.vb</DependentUpon>
+    </Compile>
+    <Compile Include="forms\preportes.vb">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="forms\pproceso.Designer.vb">
+      <DependentUpon>pproceso.vb</DependentUpon>
+    </Compile>
+    <Compile Include="forms\pproceso.vb">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="forms\p_caja.designer.vb">
+      <DependentUpon>p_caja.vb</DependentUpon>
+    </Compile>
+    <Compile Include="forms\p_caja.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="forms\p_notas.designer.vb">
+      <DependentUpon>p_notas.vb</DependentUpon>
+    </Compile>
+    <Compile Include="forms\p_notas.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="forms\p_ventas_00.Designer.vb">
+      <DependentUpon>p_ventas_00.vb</DependentUpon>
+    </Compile>
+    <Compile Include="forms\p_ventas_00.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="forms\rptForm.designer.vb">
+      <DependentUpon>rptForm.vb</DependentUpon>
+    </Compile>
+    <Compile Include="forms\rptForm.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="forms\u_CambioFecha.designer.vb">
+      <DependentUpon>u_CambioFecha.vb</DependentUpon>
+    </Compile>
+    <Compile Include="forms\u_CambioFecha.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="General.vb" />
+    <Compile Include="forms\Menu.Designer.vb">
+      <DependentUpon>Menu.vb</DependentUpon>
+    </Compile>
+    <Compile Include="forms\Menu.vb">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="forms\Principal.Designer.vb">
+      <DependentUpon>Principal.vb</DependentUpon>
+    </Compile>
+    <Compile Include="forms\Principal.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="My Project\AssemblyInfo.vb" />
+    <Compile Include="My Project\Application.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Application.myapp</DependentUpon>
+    </Compile>
+    <Compile Include="My Project\Resources.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+    <Compile Include="My Project\Settings.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+    <Compile Include="forms\pventa.Designer.vb">
+      <DependentUpon>pventa.vb</DependentUpon>
+    </Compile>
+    <Compile Include="forms\pventa.vb">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="reportes\rptCierre.vb">
+      <DependentUpon>rptCierre.rpt</DependentUpon>
+      <DesignTime>True</DesignTime>
+      <AutoGen>True</AutoGen>
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="reportes\rptCierreZ.vb">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>rptCierreZ.rpt</DependentUpon>
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="reportes\rptComanda.vb">
+      <DependentUpon>rptComanda.rpt</DependentUpon>
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="reportes\rptCliente.vb">
+      <DependentUpon>rptCliente.rpt</DependentUpon>
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="reportes\rptPagos.vb">
+      <DependentUpon>rptPagos.rpt</DependentUpon>
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="reportes\rptModelo.vb">
+      <DependentUpon>rptModelo.rpt</DependentUpon>
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="reportes\rptEmpresa.vb">
+      <DependentUpon>rptEmpresa.rpt</DependentUpon>
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="reportes\rptTicket1.vb">
+      <DependentUpon>rptTicket1.rpt</DependentUpon>
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <SubType>Component</SubType>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <EmbeddedResource Include="forms\base.resx">
+      <DependentUpon>base.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="forms\baseReporte.resx">
+      <DependentUpon>baseReporte.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="forms\c_ventas.resx">
+      <DependentUpon>c_ventas.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="forms\p_receta.resx">
+      <DependentUpon>p_receta.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="forms\p_mesas.resx">
+      <DependentUpon>p_mesas.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="forms\login.resx">
+      <DependentUpon>login.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="forms\Menu.resx">
+      <DependentUpon>Menu.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="forms\mesas.resx">
+      <DependentUpon>mesas.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="forms\preportes.resx">
+      <DependentUpon>preportes.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="forms\pproceso.resx">
+      <DependentUpon>pproceso.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="forms\Principal.resx">
+      <DependentUpon>Principal.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="forms\p_caja.resx">
+      <DependentUpon>p_caja.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="forms\p_notas.resx">
+      <DependentUpon>p_notas.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="forms\p_ventas_00.resx">
+      <DependentUpon>p_ventas_00.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="forms\rptForm.resx">
+      <DependentUpon>rptForm.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="forms\u_CambioFecha.resx">
+      <DependentUpon>u_CambioFecha.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="My Project\Resources.resx">
+      <Generator>VbMyResourcesResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.vb</LastGenOutput>
+      <CustomToolNamespace>My.Resources</CustomToolNamespace>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="forms\pventa.resx">
+      <DependentUpon>pventa.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="reportes\rptCierre.rpt">
+      <Generator>CrystalDecisions.VSDesigner.CodeGen.ReportCodeGenerator</Generator>
+      <LastGenOutput>rptCierre.vb</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="reportes\rptCierreZ.rpt">
+      <Generator>CrystalDecisions.VSDesigner.CodeGen.ReportCodeGenerator</Generator>
+      <LastGenOutput>rptCierreZ.vb</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="reportes\rptComanda.rpt">
+      <Generator>CrystalDecisions.VSDesigner.CodeGen.ReportCodeGenerator</Generator>
+      <LastGenOutput>rptComanda.vb</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="reportes\rptCliente.rpt">
+      <Generator>CrystalDecisions.VSDesigner.CodeGen.ReportCodeGenerator</Generator>
+      <LastGenOutput>rptCliente.vb</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="reportes\rptPagos.rpt">
+      <Generator>CrystalDecisions.VSDesigner.CodeGen.ReportCodeGenerator</Generator>
+      <LastGenOutput>rptPagos.vb</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="reportes\rptModelo.rpt">
+      <Generator>CrystalDecisions.VSDesigner.CodeGen.ReportCodeGenerator</Generator>
+      <LastGenOutput>rptModelo.vb</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="reportes\rptEmpresa.rpt">
+      <Generator>CrystalDecisions.VSDesigner.CodeGen.ReportCodeGenerator</Generator>
+      <LastGenOutput>rptEmpresa.vb</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="reportes\rptTicket1.rpt">
+      <Generator>CrystalDecisions.VSDesigner.CodeGen.ReportCodeGenerator</Generator>
+      <LastGenOutput>rptTicket1.vb</LastGenOutput>
+    </EmbeddedResource>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="app.config">
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="ClassDiagram1.cd" />
+    <None Include="dataset\dsCliente.xsc">
+      <DependentUpon>dsCliente.xsd</DependentUpon>
+    </None>
+    <None Include="dataset\dsCliente.xsd">
+      <SubType>Designer</SubType>
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>dsCliente.Designer.vb</LastGenOutput>
+    </None>
+    <None Include="dataset\dsCliente.xss">
+      <DependentUpon>dsCliente.xsd</DependentUpon>
+    </None>
+    <None Include="dataset\dsEmpresa.xsc">
+      <DependentUpon>dsEmpresa.xsd</DependentUpon>
+    </None>
+    <None Include="dataset\dsEmpresa.xsd">
+      <SubType>Designer</SubType>
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>dsEmpresa.Designer.vb</LastGenOutput>
+    </None>
+    <None Include="dataset\dsEmpresa.xss">
+      <DependentUpon>dsEmpresa.xsd</DependentUpon>
+    </None>
+    <None Include="dataset\dsFactura.xsc">
+      <DependentUpon>dsFactura.xsd</DependentUpon>
+    </None>
+    <None Include="dataset\dsFactura.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>dsFactura.Designer.vb</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="dataset\dsFactura.xss">
+      <DependentUpon>dsFactura.xsd</DependentUpon>
+    </None>
+    <None Include="dataset\dsPago.xsc">
+      <DependentUpon>dsPago.xsd</DependentUpon>
+    </None>
+    <None Include="dataset\dsPago.xsd">
+      <SubType>Designer</SubType>
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>dsPago.Designer.vb</LastGenOutput>
+    </None>
+    <None Include="dataset\dsPago.xss">
+      <DependentUpon>dsPago.xsd</DependentUpon>
+    </None>
+    <None Include="My Project\app.manifest" />
+    <None Include="My Project\Application.myapp">
+      <Generator>MyApplicationCodeGenerator</Generator>
+      <LastGenOutput>Application.Designer.vb</LastGenOutput>
+    </None>
+    <None Include="My Project\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <CustomToolNamespace>My</CustomToolNamespace>
+      <LastGenOutput>Settings.Designer.vb</LastGenOutput>
+    </None>
+  </ItemGroup>
+  <ItemGroup>
+    <WCFMetadata Include="Service References\" />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\libreriaVentas\libreriaVentas.vbproj">
+      <Project>{09A487BD-7D8C-4731-8909-01FCF15D4DAF}</Project>
+      <Name>libreriaVentas</Name>
+    </ProjectReference>
+  </ItemGroup>
+  <ItemGroup>
+    <BootstrapperPackage Include=".NETFramework,Version=v4.0">
+      <Visible>False</Visible>
+      <ProductName>Microsoft .NET Framework 4 %28x86 y x64%29</ProductName>
+      <Install>true</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Net.Client.3.5">
+      <Visible>False</Visible>
+      <ProductName>.NET Framework 3.5 SP1 Client Profile</ProductName>
+      <Install>false</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Net.Framework.3.5.SP1">
+      <Visible>False</Visible>
+      <ProductName>.NET Framework 3.5 SP1</ProductName>
+      <Install>false</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Windows.Installer.4.5">
+      <Visible>False</Visible>
+      <ProductName>Windows Installer 4.5</ProductName>
+      <Install>true</Install>
+    </BootstrapperPackage>
+  </ItemGroup>
+  <ItemGroup>
+    <Service Include="{C0C07587-41A7-46C8-8FBD-3F9C8EBE2DDC}" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="img\tab_edit1.png" />
+    <None Include="img\pax.png" />
+    <Content Include="Resources\CLOSE22.png" />
+    <None Include="Resources\comanda.png" />
+    <Content Include="Resources\c_buscarD.png" />
+    <Content Include="Resources\m_añadir.png" />
+    <Content Include="Resources\m_cancelar.png" />
+    <Content Include="Resources\m_editar.png" />
+    <Content Include="Resources\m_grabar.png" />
+    <None Include="Resources\pax.png" />
+    <None Include="Resources\pax1.png" />
+    <None Include="Resources\pax11.png" />
+    <None Include="Resources\vendedor.jpg" />
+    <None Include="Resources\pax2.png" />
+    <Content Include="shopping_01.ico" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.VisualBasic.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

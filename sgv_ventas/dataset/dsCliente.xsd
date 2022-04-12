@@ -1,0 +1,26 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<xs:schema id="dsCliente" targetNamespace="http://tempuri.org/dsCliente.xsd" xmlns:mstns="http://tempuri.org/dsCliente.xsd" xmlns="http://tempuri.org/dsCliente.xsd" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata" xmlns:msprop="urn:schemas-microsoft-com:xml-msprop" attributeFormDefault="qualified" elementFormDefault="qualified">
+  <xs:annotation>
+    <xs:appinfo source="urn:schemas-microsoft-com:xml-msdatasource">
+      <DataSource DefaultConnectionIndex="0" FunctionsComponentName="QueriesTableAdapter" Modifier="AutoLayout, AnsiClass, Class, Public" SchemaSerializationMode="IncludeSchema" xmlns="urn:schemas-microsoft-com:xml-msdatasource">
+        <Connections />
+        <Tables />
+        <Sources />
+      </DataSource>
+    </xs:appinfo>
+  </xs:annotation>
+  <xs:element name="dsCliente" msdata:IsDataSet="true" msdata:UseCurrentLocale="true" msprop:EnableTableAdapterManager="true" msprop:Generator_DataSetName="dsCliente" msprop:Generator_UserDSName="dsCliente">
+    <xs:complexType>
+      <xs:choice minOccurs="0" maxOccurs="unbounded">
+        <xs:element name="Cliente" msprop:Generator_TableClassName="ClienteDataTable" msprop:Generator_TableVarName="tableCliente" msprop:Generator_TablePropName="Cliente" msprop:Generator_RowDeletingName="ClienteRowDeleting" msprop:Generator_UserTableName="Cliente" msprop:Generator_RowChangingName="ClienteRowChanging" msprop:Generator_RowEvHandlerName="ClienteRowChangeEventHandler" msprop:Generator_RowDeletedName="ClienteRowDeleted" msprop:Generator_RowEvArgName="ClienteRowChangeEvent" msprop:Generator_RowChangedName="ClienteRowChanged" msprop:Generator_RowClassName="ClienteRow">
+          <xs:complexType>
+            <xs:sequence>
+              <xs:element name="nom_clie" msprop:Generator_ColumnVarNameInTable="columnnom_clie" msprop:Generator_ColumnPropNameInRow="nom_clie" msprop:Generator_ColumnPropNameInTable="nom_clieColumn" msprop:Generator_UserColumnName="nom_clie" type="xs:string" minOccurs="0" />
+              <xs:element name="cod_clie" msprop:Generator_ColumnVarNameInTable="columncod_clie" msprop:Generator_ColumnPropNameInRow="cod_clie" msprop:Generator_ColumnPropNameInTable="cod_clieColumn" msprop:Generator_UserColumnName="cod_clie" type="xs:string" minOccurs="0" />
+            </xs:sequence>
+          </xs:complexType>
+        </xs:element>
+      </xs:choice>
+    </xs:complexType>
+  </xs:element>
+</xs:schema>
