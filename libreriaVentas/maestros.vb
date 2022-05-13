@@ -88,9 +88,10 @@ Public Class maestros
                           & " a.cod_grupov, s.f_color, f_tamano, ap.precio As pre_venta, afecto_igv, a.b_ancho, a.b_alto" _
                           & " from articulo a inner join subgrupo s on a.cod_grupov=s.cod_sgrupo " _
                           & " inner join tipo_articulo t on a.cod_tart=t.cod_tart " _
-                          & " inner join art_precio ap on a.cod_art=ap.cod_art " _
-                          & " inner join ptovta pv on pv.tip_precio=ap.cod_precio " _
-                          & " where a.activo  And pv.terminal='C01LUCET-PC'")
+                          & " left join art_precio ap on a.cod_art=ap.cod_art " _
+                          & " left join ptovta pv on pv.tip_precio=ap.cod_precio " _
+                          & " where a.activo  ")
+        '& " And pv.terminal='C01LUCET-PC'")
         Dim com As New MySqlCommand(cad)
         com.CommandText = cad
         com.Connection = clConex

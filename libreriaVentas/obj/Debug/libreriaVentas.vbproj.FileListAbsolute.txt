@@ -235,3 +235,12 @@ C:\Desktop\mtaco\Desarrollo\QuipuPOS\libreriaVentas\obj\Debug\libreriaVentas.vbp
 C:\Desktop\mtaco\Desarrollo\QuipuPOS\libreriaVentas\obj\Debug\libreriaVentas.dll
 C:\Desktop\mtaco\Desarrollo\QuipuPOS\libreriaVentas\obj\Debug\libreriaVentas.xml
 C:\Desktop\mtaco\Desarrollo\QuipuPOS\libreriaVentas\obj\Debug\libreriaVentas.pdb
+D:\MTACO\desarrollo\ventas\libreriaVentas\bin\Debug\libreriaVentas.dll
+D:\MTACO\desarrollo\ventas\libreriaVentas\bin\Debug\libreriaVentas.pdb
+D:\MTACO\desarrollo\ventas\libreriaVentas\bin\Debug\libreriaVentas.xml
+D:\MTACO\desarrollo\ventas\libreriaVentas\obj\Debug\libreriaVentas.vbprojResolveAssemblyReference.cache
+D:\MTACO\desarrollo\ventas\libreriaVentas\obj\Debug\libreriaVentas.Resources.resources
+D:\MTACO\desarrollo\ventas\libreriaVentas\obj\Debug\libreriaVentas.vbproj.GenerateResource.Cache
+D:\MTACO\desarrollo\ventas\libreriaVentas\obj\Debug\libreriaVentas.dll
+D:\MTACO\desarrollo\ventas\libreriaVentas\obj\Debug\libreriaVentas.xml
+D:\MTACO\desarrollo\ventas\libreriaVentas\obj\Debug\libreriaVentas.pdb

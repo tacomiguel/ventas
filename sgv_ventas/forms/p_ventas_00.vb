@@ -3480,6 +3480,10 @@ Public Class p_ventas_00
 
     End Sub
 
+    Private Sub dataDetalle_CellContentClick(sender As Object, e As DataGridViewCellEventArgs) Handles dataDetalle.CellContentClick
+
+    End Sub
+
     'Private Sub txtinput_TextChanged(sender As Object, e As EventArgs) Handles txtinput.TextChanged
     '    mostraritems(2, "")
     'End Sub
