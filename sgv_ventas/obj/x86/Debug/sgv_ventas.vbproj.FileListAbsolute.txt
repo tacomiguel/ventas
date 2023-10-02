@@ -1301,8 +1301,6 @@ D:\MTACO\desarrollo\ventas\sgv_ventas\bin\Debug\libreriaVentas.pdb
 D:\MTACO\desarrollo\ventas\sgv_ventas\bin\Debug\libreriaVentas.xml
 D:\MTACO\desarrollo\ventas\sgv_ventas\bin\Debug\DevComponents.DotNetBar.Keyboard.xml
 D:\MTACO\desarrollo\ventas\sgv_ventas\bin\Debug\DevComponents.DotNetBar2.xml
-D:\MTACO\desarrollo\ventas\sgv_ventas\bin\Debug\libreriaseguridad.pdb
-D:\MTACO\desarrollo\ventas\sgv_ventas\bin\Debug\libreriaseguridad.xml
 D:\MTACO\desarrollo\ventas\sgv_ventas\obj\x86\Debug\sgv_ventas.vbprojResolveAssemblyReference.cache
 D:\MTACO\desarrollo\ventas\sgv_ventas\obj\x86\Debug\sgv_ventas.base.resources
 D:\MTACO\desarrollo\ventas\sgv_ventas\obj\x86\Debug\sgv_ventas.baseReporte.resources
