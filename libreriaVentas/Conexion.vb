@@ -6,7 +6,7 @@ Public Class Conexion
     Public Shared Function obtenerConexion() As MySqlConnection
         Try
             ' Dim conex As String = "User Id=custom;password=custom;server=" & Servidor & ";database=" & BaseDatos & ";Convert Zero Datetime=True;persist security info=True;use procedure bodies=False;Connection Timeout=300 ; pooling=true; Max Pool Size=300"
-            Dim conex As String = "User Id=custom;password=P4nt3r4--;server=" & ConfigurationManager.AppSettings("Servidor").ToString & ";database=" & ConfigurationManager.AppSettings("BaseDatos").ToString &
+            Dim conex As String = "User Id=custom;password=;server=" & ConfigurationManager.AppSettings("Servidor").ToString & ";database=" & ConfigurationManager.AppSettings("BaseDatos").ToString &
                 ";Convert Zero Datetime=True;persist security info=True;use procedure bodies=False;Connection Timeout=300 ; pooling=true; Max Pool Size=300"
 
             'Convert Zero Datetime=True
